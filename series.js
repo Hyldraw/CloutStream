@@ -417,6 +417,1081 @@ const series = {
   }
 ],
 
+// Dexter (Série Original)
+
+// ==================== TEMPORADA 1 (2006) ====================
+"tt0773262:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2006)",
+      service: "Direto HTTP │ ☁️ T01·E01",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114320.mp4"
+  }
+],
+"tt0773262:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2006)",
+      service: "Direto HTTP │ ☁️ T01·E02",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114326.mp4"
+  }
+],
+"tt0773262:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2006)",
+      service: "Direto HTTP │ ☁️ T01·E03",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114345.mp4"
+  }
+],
+"tt0773262:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2006)",
+      service: "Direto HTTP │ ☁️ T01·E04",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114356.mp4"
+  }
+],
+"tt0773262:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2006)",
+      service: "Direto HTTP │ ☁️ T01·E05",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114365.mp4"
+  }
+],
+"tt0773262:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2006)",
+      service: "Direto HTTP │ ☁️ T01·E06",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114369.mp4"
+  }
+],
+"tt0773262:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2006)",
+      service: "Direto HTTP │ ☁️ T01·E07",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114374.mp4"
+  }
+],
+"tt0773262:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2006)",
+      service: "Direto HTTP │ ☁️ T01·E08",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114383.mp4"
+  }
+],
+"tt0773262:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2006)",
+      service: "Direto HTTP │ ☁️ T01·E09",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114390.mp4"
+  }
+],
+"tt0773262:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2006)",
+      service: "Direto HTTP │ ☁️ T01·E10",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114399.mp4"
+  }
+],
+"tt0773262:1:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2006)",
+      service: "Direto HTTP │ ☁️ T01·E11",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884582.mp4"
+  }
+],
+"tt0773262:1:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2006)",
+      service: "Direto HTTP │ ☁️ T01·E12",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884584.mp4"
+  }
+],
+
+// ==================== TEMPORADA 2 (2007) ====================
+"tt0773262:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2007)",
+      service: "Direto HTTP │ ☁️ T02·E01",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884588.mp4"
+  }
+],
+"tt0773262:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2007)",
+      service: "Direto HTTP │ ☁️ T02·E02",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884590.mp4"
+  }
+],
+"tt0773262:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2007)",
+      service: "Direto HTTP │ ☁️ T02·E03",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884593.mp4"
+  }
+],
+"tt0773262:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2007)",
+      service: "Direto HTTP │ ☁️ T02·E04",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884594.mp4"
+  }
+],
+"tt0773262:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2007)",
+      service: "Direto HTTP │ ☁️ T02·E05",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884595.mp4"
+  }
+],
+"tt0773262:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2007)",
+      service: "Direto HTTP │ ☁️ T02·E06",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884598.mp4"
+  }
+],
+"tt0773262:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2007)",
+      service: "Direto HTTP │ ☁️ T02·E07",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884601.mp4"
+  }
+],
+"tt0773262:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2007)",
+      service: "Direto HTTP │ ☁️ T02·E08",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884604.mp4"
+  }
+],
+"tt0773262:2:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2007)",
+      service: "Direto HTTP │ ☁️ T02·E09",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884607.mp4"
+  }
+],
+"tt0773262:2:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2007)",
+      service: "Direto HTTP │ ☁️ T02·E10",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884610.mp4"
+  }
+],
+"tt0773262:2:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2007)",
+      service: "Direto HTTP │ ☁️ T02·E11",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884612.mp4"
+  }
+],
+"tt0773262:2:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2007)",
+      service: "Direto HTTP │ ☁️ T02·E12",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884615.mp4"
+  }
+],
+
+// ==================== TEMPORADA 3 (2008) ====================
+"tt0773262:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2008)",
+      service: "Direto HTTP │ ☁️ T03·E01",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884617.mp4"
+  }
+],
+"tt0773262:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2008)",
+      service: "Direto HTTP │ ☁️ T03·E02",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884620.mp4"
+  }
+],
+"tt0773262:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2008)",
+      service: "Direto HTTP │ ☁️ T03·E03",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884623.mp4"
+  }
+],
+"tt0773262:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2008)",
+      service: "Direto HTTP │ ☁️ T03·E04",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884628.mp4"
+  }
+],
+"tt0773262:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2008)",
+      service: "Direto HTTP │ ☁️ T03·E05",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884629.mp4"
+  }
+],
+"tt0773262:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2008)",
+      service: "Direto HTTP │ ☁️ T03·E06",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884630.mp4"
+  }
+],
+"tt0773262:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2008)",
+      service: "Direto HTTP │ ☁️ T03·E07",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884633.mp4"
+  }
+],
+"tt0773262:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2008)",
+      service: "Direto HTTP │ ☁️ T03·E08",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884636.mp4"
+  }
+],
+"tt0773262:3:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2008)",
+      service: "Direto HTTP │ ☁️ T03·E09",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884639.mp4"
+  }
+],
+"tt0773262:3:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2008)",
+      service: "Direto HTTP │ ☁️ T03·E10",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884643.mp4"
+  }
+],
+"tt0773262:3:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2008)",
+      service: "Direto HTTP │ ☁️ T03·E11",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884647.mp4"
+  }
+],
+"tt0773262:3:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2008)",
+      service: "Direto HTTP │ ☁️ T03·E12",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884652.mp4"
+  }
+],
+
+// ==================== TEMPORADA 4 (2009) ====================
+"tt0773262:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2009)",
+      service: "Direto HTTP │ ☁️ T04·E01",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884656.mp4"
+  }
+],
+"tt0773262:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2009)",
+      service: "Direto HTTP │ ☁️ T04·E02",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884658.mp4"
+  }
+],
+"tt0773262:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2009)",
+      service: "Direto HTTP │ ☁️ T04·E03",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884661.mp4"
+  }
+],
+"tt0773262:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2009)",
+      service: "Direto HTTP │ ☁️ T04·E04",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884666.mp4"
+  }
+],
+"tt0773262:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2009)",
+      service: "Direto HTTP │ ☁️ T04·E05",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884668.mp4"
+  }
+],
+"tt0773262:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2009)",
+      service: "Direto HTTP │ ☁️ T04·E06",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884670.mp4"
+  }
+],
+"tt0773262:4:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2009)",
+      service: "Direto HTTP │ ☁️ T04·E07",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884673.mp4"
+  }
+],
+"tt0773262:4:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2009)",
+      service: "Direto HTTP │ ☁️ T04·E08",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884675.mp4"
+  }
+],
+"tt0773262:4:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2009)",
+      service: "Direto HTTP │ ☁️ T04·E09",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884677.mp4"
+  }
+],
+"tt0773262:4:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2009)",
+      service: "Direto HTTP │ ☁️ T04·E10",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884679.mp4"
+  }
+],
+"tt0773262:4:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2009)",
+      service: "Direto HTTP │ ☁️ T04·E11",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884681.mp4"
+  }
+],
+"tt0773262:4:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2009)",
+      service: "Direto HTTP │ ☁️ T04·E12",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884683.mp4"
+  }
+],
+
+// ==================== TEMPORADA 5 (2010) ====================
+"tt0773262:5:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2010)",
+      service: "Direto HTTP │ ☁️ T05·E01",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884685.mp4"
+  }
+],
+"tt0773262:5:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2010)",
+      service: "Direto HTTP │ ☁️ T05·E02",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884687.mp4"
+  }
+],
+"tt0773262:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2010)",
+      service: "Direto HTTP │ ☁️ T05·E03",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884689.mp4"
+  }
+],
+"tt0773262:5:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2010)",
+      service: "Direto HTTP │ ☁️ T05·E04",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884691.mp4"
+  }
+],
+"tt0773262:5:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2010)",
+      service: "Direto HTTP │ ☁️ T05·E05",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884693.mp4"
+  }
+],
+"tt0773262:5:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2010)",
+      service: "Direto HTTP │ ☁️ T05·E06",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884694.mp4"
+  }
+],
+"tt0773262:5:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2010)",
+      service: "Direto HTTP │ ☁️ T05·E07",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884696.mp4"
+  }
+],
+"tt0773262:5:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2010)",
+      service: "Direto HTTP │ ☁️ T05·E08",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884697.mp4"
+  }
+],
+"tt0773262:5:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2010)",
+      service: "Direto HTTP │ ☁️ T05·E09",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884698.mp4"
+  }
+],
+"tt0773262:5:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2010)",
+      service: "Direto HTTP │ ☁️ T05·E10",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884700.mp4"
+  }
+],
+"tt0773262:5:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2010)",
+      service: "Direto HTTP │ ☁️ T05·E11",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884702.mp4"
+  }
+],
+"tt0773262:5:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2010)",
+      service: "Direto HTTP │ ☁️ T05·E12",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884704.mp4"
+  }
+],
+
+// ==================== TEMPORADA 6 (2011) ====================
+"tt0773262:6:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2011)",
+      service: "Direto HTTP │ ☁️ T06·E01",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884706.mp4"
+  }
+],
+"tt0773262:6:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2011)",
+      service: "Direto HTTP │ ☁️ T06·E02",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884708.mp4"
+  }
+],
+"tt0773262:6:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2011)",
+      service: "Direto HTTP │ ☁️ T06·E03",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884709.mp4"
+  }
+],
+"tt0773262:6:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2011)",
+      service: "Direto HTTP │ ☁️ T06·E04",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884711.mp4"
+  }
+],
+"tt0773262:6:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2011)",
+      service: "Direto HTTP │ ☁️ T06·E05",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884712.mp4"
+  }
+],
+"tt0773262:6:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2011)",
+      service: "Direto HTTP │ ☁️ T06·E06",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884714.mp4"
+  }
+],
+"tt0773262:6:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2011)",
+      service: "Direto HTTP │ ☁️ T06·E07",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884716.mp4"
+  }
+],
+"tt0773262:6:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2011)",
+      service: "Direto HTTP │ ☁️ T06·E08",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884717.mp4"
+  }
+],
+"tt0773262:6:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2011)",
+      service: "Direto HTTP │ ☁️ T06·E09",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884719.mp4"
+  }
+],
+"tt0773262:6:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2011)",
+      service: "Direto HTTP │ ☁️ T06·E10",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884721.mp4"
+  }
+],
+"tt0773262:6:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2011)",
+      service: "Direto HTTP │ ☁️ T06·E11",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884724.mp4"
+  }
+],
+"tt0773262:6:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2011)",
+      service: "Direto HTTP │ ☁️ T06·E12",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884728.mp4"
+  }
+],
+
+// ==================== TEMPORADA 7 (2012) ====================
+"tt0773262:7:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2012)",
+      service: "Direto HTTP │ ☁️ T07·E01",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884731.mp4"
+  }
+],
+"tt0773262:7:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2012)",
+      service: "Direto HTTP │ ☁️ T07·E02",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884734.mp4"
+  }
+],
+"tt0773262:7:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2012)",
+      service: "Direto HTTP │ ☁️ T07·E03",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884737.mp4"
+  }
+],
+"tt0773262:7:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2012)",
+      service: "Direto HTTP │ ☁️ T07·E04",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884740.mp4"
+  }
+],
+"tt0773262:7:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2012)",
+      service: "Direto HTTP │ ☁️ T07·E05",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884743.mp4"
+  }
+],
+"tt0773262:7:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2012)",
+      service: "Direto HTTP │ ☁️ T07·E06",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884746.mp4"
+  }
+],
+"tt0773262:7:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2012)",
+      service: "Direto HTTP │ ☁️ T07·E07",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884749.mp4"
+  }
+],
+"tt0773262:7:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2012)",
+      service: "Direto HTTP │ ☁️ T07·E08",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884752.mp4"
+  }
+],
+"tt0773262:7:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2012)",
+      service: "Direto HTTP │ ☁️ T07·E09",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884755.mp4"
+  }
+],
+"tt0773262:7:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2012)",
+      service: "Direto HTTP │ ☁️ T07·E10",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884758.mp4"
+  }
+],
+"tt0773262:7:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2012)",
+      service: "Direto HTTP │ ☁️ T07·E11",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884761.mp4"
+  }
+],
+"tt0773262:7:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2012)",
+      service: "Direto HTTP │ ☁️ T07·E12",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884763.mp4"
+  }
+],
+
+// ==================== TEMPORADA 8 (2013) ====================
+"tt0773262:8:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2013)",
+      service: "Direto HTTP │ ☁️ T08·E01",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884768.mp4"
+  }
+],
+"tt0773262:8:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2013)",
+      service: "Direto HTTP │ ☁️ T08·E02",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884772.mp4"
+  }
+],
+"tt0773262:8:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2013)",
+      service: "Direto HTTP │ ☁️ T08·E03",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884775.mp4"
+  }
+],
+"tt0773262:8:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2013)",
+      service: "Direto HTTP │ ☁️ T08·E04",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884777.mp4"
+  }
+],
+"tt0773262:8:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2013)",
+      service: "Direto HTTP │ ☁️ T08·E05",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884780.mp4"
+  }
+],
+"tt0773262:8:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2013)",
+      service: "Direto HTTP │ ☁️ T08·E06",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884784.mp4"
+  }
+],
+"tt0773262:8:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2013)",
+      service: "Direto HTTP │ ☁️ T08·E07",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884787.mp4"
+  }
+],
+"tt0773262:8:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2013)",
+      service: "Direto HTTP │ ☁️ T08·E08",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884790.mp4"
+  }
+],
+"tt0773262:8:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2013)",
+      service: "Direto HTTP │ ☁️ T08·E09",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884793.mp4"
+  }
+],
+"tt0773262:8:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2013)",
+      service: "Direto HTTP │ ☁️ T08·E10",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884796.mp4"
+  }
+],
+"tt0773262:8:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2013)",
+      service: "Direto HTTP │ ☁️ T08·E11",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884799.mp4"
+  }
+],
+"tt0773262:8:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter (2013)",
+      service: "Direto HTTP │ ☁️ T08·E12",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3884803.mp4"
+  }
+],
+
+
 // Stranger Things (Série)
 
 // ==================== TEMPORADA 1 (2016) ====================
