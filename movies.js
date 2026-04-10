@@ -76,15 +76,6 @@ const movies = {
             flags: ["Português"],
           }),
           url: "http://mainxs.site:80/movie/619126419/568627784/4150957.mp4"
-        },
-        {
-          name: "☁️ CloutStream 1080p",
-          title: formatTitle({
-            name: "Superman (2025)",
-            service: "Direct HTTP",
-            flags: ["English (LEGENDADO)"],
-          }),
-          url: "http://mainxs.site:80/movie/619126419/568627784/4140584.mp4"
         }
       ],
       "tt0371746": [
@@ -338,15 +329,6 @@ const movies = {
             flags: ["Português"],
           }),
           url: "http://mainxs.site:80/movie/619126419/568627784/4143138.mp4"
-        },
-        {
-          name: "☁️ CloutStream 1080p",
-          title: formatTitle({
-            name: "Spider-Man: Far From Home (2019)",
-            service: "Direct HTTP",
-            flags: ["English (LEGENDADO)"],
-          }),
-          url: "http://mainxs.site:80/movie/619126419/568627784/4150905.mp4"
         }
       ],
       "tt3480822": [
@@ -373,7 +355,7 @@ const movies = {
       ],
       "tt9032400": [
         {
-          name: "💎 CloutStream 4K",
+          name: "💫 CloutStream 4k",
           title: formatTitle({
             name: "Eternos (2021)",
             service: "Direto HTTP",
@@ -389,15 +371,6 @@ const movies = {
             flags: ["Português"],
           }),
           url: "http://godisfaithful.shop:80/play/A7lSfx1OgM1TfiDC4Uwzkhkct3_2nE37GXnu-VxRfVSZReF5GIA_KCB0oYSMers4"
-        },
-        {
-          name: "☁️ CloutStream 1080p",
-          title: formatTitle({
-            name: "Eternals (2021)",
-            service: "Direct HTTP",
-            flags: ["English (LEGENDADO)"],
-          }),
-          url: "http://godisfaithful.shop:80/play/A7lSfx1OgM1TfiDC4Uwzksu8P8wWl78MK44YToLx4fhWfnicCLWUJnO_2lhVk35b"
         }
       ],
       "tt10872600": [
@@ -486,15 +459,6 @@ const movies = {
             flags: ["Português"],
           }),
           url: "http://mainxs.site:80/movie/619126419/568627784/4152341.mp4"
-        },
-        {
-          name: "☁️ CloutStream 1080p",
-          title: formatTitle({
-            name: "Deadpool & Wolverine (2024)",
-            service: "Direct HTTP",
-            flags: ["English (LEGENDADO)"],
-          }),
-          url: "http://mainxs.site:80/movie/619126419/568627784/4153213.mp4"
         }
       ],
       "tt14513804": [
@@ -506,15 +470,6 @@ const movies = {
             flags: ["Português"],
           }),
           url: "http://mainxs.site:80/movie/619126419/568627784/4153664.mp4"
-        },
-        {
-          name: "☁️ CloutStream 1080p",
-          title: formatTitle({
-            name: "Captain America: Brave New World (2025)",
-            service: "Direct HTTP",
-            flags: ["English (LEGENDADO)"],
-          }),
-          url: "http://mainxs.site:80/movie/619126419/568627784/4153305.mp4"
         }
       ],
       "tt20969586": [
@@ -537,15 +492,6 @@ const movies = {
             flags: ["Português"],
           }),
           url: "http://godisfaithful.shop:80/play/A7lSfx1OgM1TfiDC4UwzkoKqYMPoxTeCCPFrLHkSAlunRAt8Z8KTdutMA_anGzDf"
-        },
-        {
-          name: "☁️ CloutStream 1080p",
-          title: formatTitle({
-            name: "The Fantastic Four: First Steps (2025)",
-            service: "Direct HTTP",
-            flags: ["English (LEGENDADO)"],
-          }),
-          url: "http://godisfaithful.shop:80/play/A7lSfx1OgM1TfiDC4Uwzks1b0A3lRe4MuVC8H3EPHxpQsM76xPTpkFceceOfmJ9d"
         }
       ],
       "tt10621032": [
@@ -557,15 +503,6 @@ const movies = {
             flags: ["Português"],
           }),
           url: "https://ia800504.us.archive.org/33/items/lupin.-iii.-o.-primeiro.-2020.720p.-dub.-enc/Lupin.III.O.Primeiro.2020.720p.DUB.ENC.mp4"
-        },
-        {
-          name: "☁️ CloutStream 720p",
-          title: formatTitle({
-            name: "Lupin III: The First (2020)",
-            service: "Direct HTTP",
-            flags: ["English"],
-          }),
-          url: "https://dn790001.ca.archive.org/0/items/lupin-iii-the-first-english-dub-720p.-720/Lupin%20III-%20The%20First%20%28English%20Dub%29%20%5B720p%5D.720.mp4"
         }
       ],
       "tt0175142": [
@@ -654,15 +591,6 @@ const movies = {
             flags: ["Português"],
           }),
           url: "http://mainxs.site:80/movie/619126419/568627784/4145944.mp4"
-        },
-        {
-          name: "☁️ CloutStream 1080p",
-          title: formatTitle({
-            name: "Avatar (2009)",
-            service: "Direct HTTP",
-            flags: ["English (LEGENDADO)"],
-          }),
-          url: "http://mainxs.site:80/movie/619126419/568627784/4142699.mp4"
         }
       ],
       "tt1630029": [
