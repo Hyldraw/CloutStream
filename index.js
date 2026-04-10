@@ -7,12 +7,12 @@ const series = require("./series");
 // MANIFEST
 // ==========================================
 const manifest = {
-    id: "com.planrstream",
+    id: "com.cloutstream",
     version: "1.3.5",                    // aumentei um pouco a versão
-    name: "Planr Stream",
+    name: "CloutStream",
     description: "Filmes e séries com carregamento rápido, sem travamentos e excelente qualidade.",
-    logo: "https://i.imgur.com/mStwpsj.jpeg",
-    background: "https://i.imgur.com/ETu89Rm.jpeg",
+    logo: "https://i.imgur.com/nHiohqg.jpeg",
+    background: "https://i.imgur.com/R591N2s.jpeg",
     resources: ["stream", "catalog"],
     types: ["movie", "series"],
     idPrefixes: ["tt"],
