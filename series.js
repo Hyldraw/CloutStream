@@ -11,7 +11,7 @@ const series = {
     title: formatTitle({
       name: "The Boys (2019)",
       service: "Direto HTTP • T01·E01",
-      flags: ["🇧🇷 Dublado","🇺🇸 Inglês"],
+      flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900617.mp4"
   }
