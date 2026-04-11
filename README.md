@@ -3,9 +3,9 @@
 » **Filmes e séries** com carregamento rápido com o **CloutStream**, sem travamentos e com ótima qualidade de imagem e áudio. Experiência fluida para você assistir sem interrupções.
 
 ---
-## 💫 Novo
+## 💫 Adicionar novos títulos
 
-- 🔥 **Requisição de Filmes/Series** - Agora você pode pedir a nossa equipe adicionar seus filmes e series favoritos, clique [aqui] (https://docs.google.com/forms/d/e/1FAIpQLSctfbbbc0bvtIzf8zWELA5tbVizjxOQcgA_G5bHEam2fZ6NuA/viewform?usp=dialog) para preencher o formulário.
+- 🔥 **Requisição de Filmes/Series** - Agora você pode pedir a nossa equipe adicionar seus filmes e series favoritos, clique [aqui](https://docs.google.com/forms/d/e/1FAIpQLSctfbbbc0bvtIzf8zWELA5tbVizjxOQcgA_G5bHEam2fZ6NuA/viewform?usp=dialog) para preencher o formulário.
 
 ---
 
