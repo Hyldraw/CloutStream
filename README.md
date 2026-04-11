@@ -25,7 +25,3 @@
 
 » O desempenho do CloutStream depende da sua **conexão à internet**.  
 Com uma boa rede Wi-Fi, a reprodução será praticamente instantânea. Em redes mais lentas, pode haver pequenos carregamentos.
-
----
-
-💡 **Dica:** se você procura **velocidade** e **praticidade**, o CloutStream é para você!
