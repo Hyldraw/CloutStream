@@ -1,5 +1,5 @@
 // series.js
-const formatTitle = require("./formatTitle");
+const formatTitle = require("./formatTitleS");
 
 const series = {
 // ==================== The Boys ====================
@@ -10,7 +10,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2019)",
-      service: "Direto HTTP • T01·E01",
+      ep: "T01·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900617.mp4"
@@ -22,7 +23,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2019)",
-      service: "Direto HTTP │ ☁️ T01·E02",
+      ep: "T01·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900619.mp4"
@@ -34,7 +36,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2019)",
-      service: "Direto HTTP │ ☁️ T01·E03",
+      ep: "T01·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900623.mp4"
@@ -46,7 +49,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2019)",
-      service: "Direto HTTP │ ☁️ T01·E04",
+      ep: "T01·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900627.mp4"
@@ -58,7 +62,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2019)",
-      service: "Direto HTTP │ ☁️ T01·E05",
+      ep: "T01·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900630.mp4"
@@ -70,7 +75,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2019)",
-      service: "Direto HTTP │ ☁️ T01·E06",
+      ep: "T01·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900638.mp4"
@@ -82,7 +88,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2019)",
-      service: "Direto HTTP │ ☁️ T01·E07",
+      ep: "T01·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900642.mp4"
@@ -94,7 +101,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2019)",
-      service: "Direto HTTP │ ☁️ T01·E08",
+      ep: "T01·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900649.mp4"
@@ -107,7 +115,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2020)",
-      service: "Direto HTTP │ ☁️ T02·E01",
+      ep: "T02·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900665.mp4"
@@ -119,7 +128,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2020)",
-      service: "Direto HTTP │ ☁️ T02·E02",
+      ep: "T02·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900667.mp4"
@@ -131,7 +141,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2020)",
-      service: "Direto HTTP │ ☁️ T02·E03",
+      ep: "T02·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900675.mp4"
@@ -143,7 +154,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2020)",
-      service: "Direto HTTP │ ☁️ T02·E04",
+      ep: "T02·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900680.mp4"
@@ -155,7 +167,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2020)",
-      service: "Direto HTTP │ ☁️ T02·E05",
+      ep: "T02·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900685.mp4"
@@ -167,7 +180,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2020)",
-      service: "Direto HTTP │ ☁️ T02·E06",
+      ep: "T02·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900686.mp4"
@@ -179,7 +193,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2020)",
-      service: "Direto HTTP │ ☁️ T02·E07",
+      ep: "T02·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900688.mp4"
@@ -191,7 +206,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2020)",
-      service: "Direto HTTP │ ☁️ T02·E08",
+      ep: "T02·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900692.mp4"
@@ -204,7 +220,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2022)",
-      service: "Direto HTTP │ ☁️ T03·E01",
+      ep: "T03·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900704.mp4"
@@ -216,7 +233,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2022)",
-      service: "Direto HTTP │ ☁️ T03·E02",
+      ep: "T03·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900719.mp4"
@@ -228,7 +246,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2022)",
-      service: "Direto HTTP │ ☁️ T03·E03",
+      ep: "T03·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900723.mp4"
@@ -240,7 +259,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2022)",
-      service: "Direto HTTP │ ☁️ T03·E04",
+      ep: "T03·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900727.mp4"
@@ -252,7 +272,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2022)",
-      service: "Direto HTTP │ ☁️ T03·E05",
+      ep: "T03·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900745.mp4"
@@ -264,7 +285,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2022)",
-      service: "Direto HTTP │ ☁️ T03·E06",
+      ep: "T03·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900757.mp4"
@@ -276,7 +298,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2022)",
-      service: "Direto HTTP │ ☁️ T03·E07",
+      ep: "T03·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900764.mp4"
@@ -288,7 +311,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2022)",
-      service: "Direto HTTP │ ☁️ T03·E08",
+      ep: "T03·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900772.mp4"
@@ -301,7 +325,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2024)",
-      service: "Direto HTTP │ ☁️ T04·E01",
+      ep: "T04·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900777.mp4"
@@ -313,7 +338,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2024)",
-      service: "Direto HTTP │ ☁️ T04·E02",
+      ep: "T04·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900784.mp4"
@@ -325,7 +351,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2024)",
-      service: "Direto HTTP │ ☁️ T04·E03",
+      ep: "T04·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900791.mp4"
@@ -337,7 +364,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2024)",
-      service: "Direto HTTP │ ☁️ T04·E04",
+      ep: "T04·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900796.mp4"
@@ -349,7 +377,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2024)",
-      service: "Direto HTTP │ ☁️ T04·E05",
+      ep: "T04·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900800.mp4"
@@ -361,7 +390,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2024)",
-      service: "Direto HTTP │ ☁️ T04·E06",
+      ep: "T04·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900806.mp4"
@@ -373,7 +403,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2024)",
-      service: "Direto HTTP │ ☁️ T04·E07",
+      ep: "T04·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900816.mp4"
@@ -385,7 +416,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2024)",
-      service: "Direto HTTP │ ☁️ T04·E08",
+      ep: "T04·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3900820.mp4"
@@ -398,7 +430,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2024)",
-      service: "Direto HTTP │ ☁️ T05·E01",
+      ep: "T05·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4PlilzsmwG3LAbu337mdZoT"
@@ -410,7 +443,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "The Boys (2024)",
-      service: "Direto HTTP │ ☁️ T05·E02",
+      ep: "T05·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4O72tL0f11Y2g-JLUeITgQd"
@@ -425,7 +459,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2006)",
-      service: "Direto HTTP │ ☁️ T01·E01",
+      ep: "T01·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtGfIVy76jiRBQ4ozLIQIgY"
@@ -436,7 +471,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2006)",
-      service: "Direto HTTP │ ☁️ T01·E02",
+      ep: "T01·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLte0s5Yj8PBPG3kvdAc5hXX"
@@ -447,7 +483,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2006)",
-      service: "Direto HTTP │ ☁️ T01·E03",
+      ep: "T01·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvd-NgGRAXSPjEe-TtEKRQc"
@@ -458,7 +495,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2006)",
-      service: "Direto HTTP │ ☁️ T01·E04",
+      ep: "T01·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuBvh_RKMdeUUxBxPtEGOkW"
@@ -469,7 +507,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2006)",
-      service: "Direto HTTP │ ☁️ T01·E05",
+      ep: "T01·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvR2lujsJL9VHOmeHS_0mJk"
@@ -480,7 +519,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2006)",
-      service: "Direto HTTP │ ☁️ T01·E06",
+      ep: "T01·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLsvXRpjYzmYiKzd5226uLNI"
@@ -491,7 +531,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2006)",
-      service: "Direto HTTP │ ☁️ T01·E07",
+      ep: "T01·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvZb5gaNyz8f09LPuTJdq6T"
@@ -502,7 +543,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2006)",
-      service: "Direto HTTP │ ☁️ T01·E08",
+      ep: "T01·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLsXK_tcdyyWfNq1r5QK7kay"
@@ -513,7 +555,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2006)",
-      service: "Direto HTTP │ ☁️ T01·E09",
+      ep: "T01·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtFONhn8XR47ntnHWjYiJJw"
@@ -524,7 +567,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2006)",
-      service: "Direto HTTP │ ☁️ T01·E10",
+      ep: "T01·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuBNWIpneTHfNKb4hIL9P62"
@@ -535,7 +579,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2006)",
-      service: "Direto HTTP │ ☁️ T01·E11",
+      ep: "T01·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLt4z_4GmCmMSVNAeBnJCvT-"
@@ -546,7 +591,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2006)",
-      service: "Direto HTTP │ ☁️ T01·E12",
+      ep: "T01·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvecDMUcbCht5kZOIlTkNTX"
@@ -559,7 +605,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2007)",
-      service: "Direto HTTP │ ☁️ T02·E01",
+      ep: "T02·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLslH3vVmagNVR_icKQ7OPpM"
@@ -570,7 +617,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2007)",
-      service: "Direto HTTP │ ☁️ T02·E02",
+      ep: "T02·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtb6csQ14WvokspWuFuY8tM"
@@ -581,7 +629,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2007)",
-      service: "Direto HTTP │ ☁️ T02·E03",
+      ep: "T02·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtB2jKXmlT2p7Vvsw_pzWaY"
@@ -592,7 +641,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2007)",
-      service: "Direto HTTP │ ☁️ T02·E04",
+      ep: "T02·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvP3wXZ_d8QjUhqfbMyaj9_"
@@ -603,7 +653,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2007)",
-      service: "Direto HTTP │ ☁️ T02·E05",
+      ep: "T02·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtREWqmRJkcqZmBrEjjeHHS"
@@ -614,7 +665,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2007)",
-      service: "Direto HTTP │ ☁️ T02·E06",
+      ep: "T02·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvb5ePIp1QugKoJVVX2ofVA"
@@ -625,7 +677,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2007)",
-      service: "Direto HTTP │ ☁️ T02·E07",
+      ep: "T02·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtP3m7G-suZYwb1QhUKcfJP"
@@ -636,7 +689,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2007)",
-      service: "Direto HTTP │ ☁️ T02·E08",
+      ep: "T02·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvLG7uaa_aicRIhNo2tuT07"
@@ -647,7 +701,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2007)",
-      service: "Direto HTTP │ ☁️ T02·E09",
+      ep: "T02·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLugZIZZxkUy2TPwp1jHTex6"
@@ -658,7 +713,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2007)",
-      service: "Direto HTTP │ ☁️ T02·E10",
+      ep: "T02·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtRc2lxQZY7dlq3bOgniNy1"
@@ -669,7 +725,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2007)",
-      service: "Direto HTTP │ ☁️ T02·E11",
+      ep: "T02·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLs1uqEpq5U_1LDizuOOmT45"
@@ -680,7 +737,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2007)",
-      service: "Direto HTTP │ ☁️ T02·E12",
+      ep: "T02·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLumwIAcM7bImazNK2mNBKBY"
@@ -693,7 +751,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2008)",
-      service: "Direto HTTP │ ☁️ T03·E01",
+      ep: "T03·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtXrrqu7VF5JNB2-zEiEPga"
@@ -704,7 +763,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2008)",
-      service: "Direto HTTP │ ☁️ T03·E02",
+      ep: "T03·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvYCVhFI4BvdPrQx8Y8cADr"
@@ -715,7 +775,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2008)",
-      service: "Direto HTTP │ ☁️ T03·E03",
+      ep: "T03·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvc8bnMCpncqTkuQskd2bs-"
@@ -726,7 +787,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2008)",
-      service: "Direto HTTP │ ☁️ T03·E04",
+      ep: "T03·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvkyVnONNPcUlsfbi-UqU3b"
@@ -737,7 +799,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2008)",
-      service: "Direto HTTP │ ☁️ T03·E05",
+      ep: "T03·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtFP-4UPSIccau0u9m5VLfh"
@@ -748,7 +811,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2008)",
-      service: "Direto HTTP │ ☁️ T03·E06",
+      ep: "T03·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLt0qUf1Ao_EMRpqPPzpZSkV"
@@ -759,7 +823,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2008)",
-      service: "Direto HTTP │ ☁️ T03·E07",
+      ep: "T03·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvORnjeSfzLtEibd6gME9PP"
@@ -770,7 +835,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2008)",
-      service: "Direto HTTP │ ☁️ T03·E08",
+      ep: "T03·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvZRTxaYHwW0GxIaBK57L_F"
@@ -781,7 +847,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2008)",
-      service: "Direto HTTP │ ☁️ T03·E09",
+      ep: "T03·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLsRsva7WBPQZRowi4nZDIDr"
@@ -792,7 +859,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2008)",
-      service: "Direto HTTP │ ☁️ T03·E10",
+      ep: "T03·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuHfMZxk6MYIvDwdm6tXSZS"
@@ -803,7 +871,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2008)",
-      service: "Direto HTTP │ ☁️ T03·E11",
+      ep: "T03·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtO61V_V4MeUNegdfhoVZNx"
@@ -814,7 +883,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2008)",
-      service: "Direto HTTP │ ☁️ T03·E12",
+      ep: "T03·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLt2GfwIiLECGHILlzT4rVV6"
@@ -827,7 +897,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2009)",
-      service: "Direto HTTP │ ☁️ T04·E01",
+      ep: "T04·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLt5yj9vd0KRFlbVvhERu-0j"
@@ -838,7 +909,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2009)",
-      service: "Direto HTTP │ ☁️ T04·E02",
+      ep: "T04·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuu9xkuoe61j_Yxa23mRV_y"
@@ -849,7 +921,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2009)",
-      service: "Direto HTTP │ ☁️ T04·E03",
+      ep: "T04·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLsW8wzRSMDVKgbB9BBJ54LQ"
@@ -860,7 +933,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2009)",
-      service: "Direto HTTP │ ☁️ T04·E04",
+      ep: "T04·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLufPV7te9uMm079QWfn5kPz"
@@ -871,7 +945,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2009)",
-      service: "Direto HTTP │ ☁️ T04·E05",
+      ep: "T04·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuZXB_LxIwNT7R-Gh2pqaP8"
@@ -882,7 +957,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2009)",
-      service: "Direto HTTP │ ☁️ T04·E06",
+      ep: "T04·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvz3qCnP-L_ya8aZ3vjpPUl"
@@ -893,7 +969,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2009)",
-      service: "Direto HTTP │ ☁️ T04·E07",
+      ep: "T04·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvUJWopf7q2eoB_MLKkRdqS"
@@ -904,7 +981,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2009)",
-      service: "Direto HTTP │ ☁️ T04·E08",
+      ep: "T04·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLv4SAjuz75jv864OhyG4mrw"
@@ -915,7 +993,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2009)",
-      service: "Direto HTTP │ ☁️ T04·E09",
+      ep: "T04·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLu0MNRRC-e-6haK0TaV1-Ip"
@@ -926,7 +1005,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2009)",
-      service: "Direto HTTP │ ☁️ T04·E10",
+      ep: "T04·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvAs3C7GN46_mUvyM7iTHan"
@@ -937,7 +1017,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2009)",
-      service: "Direto HTTP │ ☁️ T04·E11",
+      ep: "T04·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvk31G5wQqmKbMYKxLY8MHz"
@@ -948,7 +1029,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2009)",
-      service: "Direto HTTP │ ☁️ T04·E12",
+      ep: "T04·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtiwcZnoUkJXYlLOlJw46Ka"
@@ -961,7 +1043,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2010)",
-      service: "Direto HTTP │ ☁️ T05·E01",
+      ep: "T05·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvBa1QN9dhsb2pj_x9BJm9v"
@@ -972,7 +1055,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2010)",
-      service: "Direto HTTP │ ☁️ T05·E02",
+      ep: "T05·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvdkWs9ltWv_I6GXZTRlDRf"
@@ -983,7 +1067,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2010)",
-      service: "Direto HTTP │ ☁️ T05·E03",
+      ep: "T05·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLsZHNXDvpINmYtrR42PlWkF"
@@ -994,7 +1079,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2010)",
-      service: "Direto HTTP │ ☁️ T05·E04",
+      ep: "T05·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtgSyiF_p-zxHlSK3-pb9wW"
@@ -1005,7 +1091,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2010)",
-      service: "Direto HTTP │ ☁️ T05·E05",
+      ep: "T05·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvIb0PrTyY9ZaPGOSDqg-57"
@@ -1016,7 +1103,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2010)",
-      service: "Direto HTTP │ ☁️ T05·E06",
+      ep: "T05·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvDol66Ik3t0I4sXNwB9vaB"
@@ -1027,7 +1115,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2010)",
-      service: "Direto HTTP │ ☁️ T05·E07",
+      ep: "T05·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuoprBrh8wlf9rLYyLwGZUv"
@@ -1038,7 +1127,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2010)",
-      service: "Direto HTTP │ ☁️ T05·E08",
+      ep: "T05·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuK4Q8kCyK8ggH2G-eBhgNd"
@@ -1049,7 +1139,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2010)",
-      service: "Direto HTTP │ ☁️ T05·E09",
+      ep: "T05·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLt4-mU2zoK66wCExeo5ON89"
@@ -1060,7 +1151,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2010)",
-      service: "Direto HTTP │ ☁️ T05·E10",
+      ep: "T05·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtPiTloVI07JFViKQpeAzwR"
@@ -1071,7 +1163,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2010)",
-      service: "Direto HTTP │ ☁️ T05·E11",
+      ep: "T05·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLsEbmy6sTQAKnDfiTdcum0N"
@@ -1082,7 +1175,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2010)",
-      service: "Direto HTTP │ ☁️ T05·E12",
+      ep: "T05·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuerelbdbG46eJ165Uonxj5"
@@ -1095,7 +1189,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2011)",
-      service: "Direto HTTP │ ☁️ T06·E01",
+      ep: "T06·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLse9VI9skxkFd2j57KvISYB"
@@ -1106,7 +1201,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2011)",
-      service: "Direto HTTP │ ☁️ T06·E02",
+      ep: "T06·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvlcafXl72Gnxv_wOJDCM9K"
@@ -1117,7 +1213,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2011)",
-      service: "Direto HTTP │ ☁️ T06·E03",
+      ep: "T06·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLveeG7PRuabIo-aat8-cAz8"
@@ -1128,7 +1225,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2011)",
-      service: "Direto HTTP │ ☁️ T06·E04",
+      ep: "T06·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtvgwOP-MOfQ--kLbBI6D1Y"
@@ -1139,7 +1237,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2011)",
-      service: "Direto HTTP │ ☁️ T06·E05",
+      ep: "T06·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvjMvvCkkBMxrw0Q07BSWU2"
@@ -1150,7 +1249,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2011)",
-      service: "Direto HTTP │ ☁️ T06·E06",
+      ep: "T06·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLstALThdw1-Q3z7QU4IhoW1"
@@ -1161,7 +1261,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2011)",
-      service: "Direto HTTP │ ☁️ T06·E07",
+      ep: "T06·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLv2Dwwe597ZaJ7z-csfeMBY"
@@ -1172,7 +1273,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2011)",
-      service: "Direto HTTP │ ☁️ T06·E08",
+      ep: "T06·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvYfyyO3VqNYoZ9nA3VMkot"
@@ -1183,7 +1285,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2011)",
-      service: "Direto HTTP │ ☁️ T06·E09",
+      ep: "T06·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtx7l4Z1PmpK3vVzc0onvkC"
@@ -1194,7 +1297,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2011)",
-      service: "Direto HTTP │ ☁️ T06·E10",
+      ep: "T06·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLs28iVGncGp9msx2vxEsO3n"
@@ -1205,7 +1309,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2011)",
-      service: "Direto HTTP │ ☁️ T06·E11",
+      ep: "T06·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLu_1CRL6JetzC6nSr2a-EWV"
@@ -1216,7 +1321,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2011)",
-      service: "Direto HTTP │ ☁️ T06·E12",
+      ep: "T06·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLsZuRhrXq1g2YFxBLPwOuLn"
@@ -1229,7 +1335,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2012)",
-      service: "Direto HTTP │ ☁️ T07·E01",
+      ep: "T07·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtQmqwAfAM3WBQ1oma43dsb"
@@ -1240,7 +1347,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2012)",
-      service: "Direto HTTP │ ☁️ T07·E02",
+      ep: "T07·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvboB5guTjQctBf53gfKLAY"
@@ -1251,7 +1359,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2012)",
-      service: "Direto HTTP │ ☁️ T07·E03",
+      ep: "T07·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLu-pTvqg79bqALxEi7deIp6"
@@ -1262,7 +1371,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2012)",
-      service: "Direto HTTP │ ☁️ T07·E04",
+      ep: "T07·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuB8qnTGELLrHifkxpJriEs"
@@ -1273,7 +1383,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2012)",
-      service: "Direto HTTP │ ☁️ T07·E05",
+      ep: "T07·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvYyEyoXDVDj6zS91GLF6fw"
@@ -1284,7 +1395,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2012)",
-      service: "Direto HTTP │ ☁️ T07·E06",
+      ep: "T07·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtc8Xeah3A0iF7axZ0kabyS"
@@ -1295,7 +1407,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2012)",
-      service: "Direto HTTP │ ☁️ T07·E07",
+      ep: "T07·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtXf3f7-V5gLKv9KbB3-VPN"
@@ -1306,7 +1419,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2012)",
-      service: "Direto HTTP │ ☁️ T07·E08",
+      ep: "T07·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuae6UYQ6U9gYTYd4OYQURU"
@@ -1317,7 +1431,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2012)",
-      service: "Direto HTTP │ ☁️ T07·E09",
+      ep: "T07·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtzkF1ZlELPKNQjw8cZJE4a"
@@ -1328,7 +1443,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2012)",
-      service: "Direto HTTP │ ☁️ T07·E10",
+      ep: "T07·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvCIJvQ1b2WQ0-VriWL6A5c"
@@ -1339,7 +1455,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2012)",
-      service: "Direto HTTP │ ☁️ T07·E11",
+      ep: "T07·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLsocBxk_SxRUGIr28m4AxHi"
@@ -1350,7 +1467,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2012)",
-      service: "Direto HTTP │ ☁️ T07·E12",
+      ep: "T07·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLv-_VrUXw_bngwmjOzAIKiS"
@@ -1363,7 +1481,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2013)",
-      service: "Direto HTTP │ ☁️ T08·E01",
+      ep: "T08·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtq5QZMIchnrUge6jc77VLH"
@@ -1374,7 +1493,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2013)",
-      service: "Direto HTTP │ ☁️ T08·E02",
+      ep: "T08·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuL_T0MYWBM45Cp0cRdqMlz"
@@ -1385,7 +1505,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2013)",
-      service: "Direto HTTP │ ☁️ T08·E03",
+      ep: "T08·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLvR66jMmk8AzC45Nm6gdmdG"
@@ -1396,7 +1517,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2013)",
-      service: "Direto HTTP │ ☁️ T08·E04",
+      ep: "T08·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtkGRgN9XDKE8Yh86JuRBiD"
@@ -1407,7 +1529,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2013)",
-      service: "Direto HTTP │ ☁️ T08·E05",
+      ep: "T08·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuwXhcGF1wVUMhIrKvOXilk"
@@ -1418,7 +1541,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2013)",
-      service: "Direto HTTP │ ☁️ T08·E06",
+      ep: "T08·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtEvk3s_zMCuHTPn5W8drgv"
@@ -1429,7 +1553,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2013)",
-      service: "Direto HTTP │ ☁️ T08·E07",
+      ep: "T08·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLs4FYNJpC0M_d9fNz25seQs"
@@ -1440,7 +1565,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2013)",
-      service: "Direto HTTP │ ☁️ T08·E08",
+      ep: "T08·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtCgZ__a8FhiVfJFEWDt5tR"
@@ -1451,7 +1577,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2013)",
-      service: "Direto HTTP │ ☁️ T08·E09",
+      ep: "T08·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLtJ0bLZPaNLUwwdG6oM7yb_"
@@ -1462,7 +1589,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2013)",
-      service: "Direto HTTP │ ☁️ T08·E10",
+      ep: "T08·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLv5gip9t7GC8PI7z5lD18Jq"
@@ -1473,7 +1601,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2013)",
-      service: "Direto HTTP │ ☁️ T08·E11",
+      ep: "T08·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLuXgZnARjFhMXBu8lcJ984H"
@@ -1484,7 +1613,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Dexter (2013)",
-      service: "Direto HTTP │ ☁️ T08·E12",
+      ep: "T08·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z2cb7RlMvfNKhRhr2YYElLu5_bg2lUj8fEtjKHdlGHjF"
@@ -1501,7 +1631,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2016)",
-      service: "Direto HTTP │ ☁️ T01·E01",
+      ep: "T01·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB0ffmGLIWu8H-bOntvt72q"
@@ -1512,7 +1643,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2016)",
-      service: "Direto HTTP │ ☁️ T01·E02",
+      ep: "T01·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBDmPwYjZMq54j67ESgC-6n"
@@ -1523,7 +1655,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2016)",
-      service: "Direto HTTP │ ☁️ T01·E03",
+      ep: "T01·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDtWEOkqk6OiUG6FaNxVYE9"
@@ -1534,7 +1667,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2016)",
-      service: "Direto HTTP │ ☁️ T01·E04",
+      ep: "T01·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICKI07YxVfJtnF9WbSIxpzI"
@@ -1545,7 +1679,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2016)",
-      service: "Direto HTTP │ ☁️ T01·E05",
+      ep: "T01·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAYARH00zikeScbfJTf1OfU"
@@ -1556,7 +1691,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2016)",
-      service: "Direto HTTP │ ☁️ T01·E06",
+      ep: "T01·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICtkN4tDIJ89ThAEAibSoFv"
@@ -1567,7 +1703,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2016)",
-      service: "Direto HTTP │ ☁️ T01·E07",
+      ep: "T01·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICK8-Hjf9wqo9jB2wsYVjf_"
@@ -1578,7 +1715,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2016)",
-      service: "Direto HTTP │ ☁️ T01·E08",
+      ep: "T01·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKID0OU95SkLX9yw7xyhZ93M2"
@@ -1591,7 +1729,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2017)",
-      service: "Direto HTTP │ ☁️ T02·E01",
+      ep: "T02·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICLfFfo5e6WmEIBgDrtrAgv"
@@ -1602,7 +1741,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2017)",
-      service: "Direto HTTP │ ☁️ T02·E02",
+      ep: "T02·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB1hoqZzL236nF0jP7a6U5T"
@@ -1613,7 +1753,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2017)",
-      service: "Direto HTTP │ ☁️ T02·E03",
+      ep: "T02·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB2dJ1zjPzm1tMrUuHzbAiH"
@@ -1624,7 +1765,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2017)",
-      service: "Direto HTTP │ ☁️ T02·E04",
+      ep: "T02·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICb_8xY9NycHAH8dQFP-v6d"
@@ -1635,7 +1777,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2017)",
-      service: "Direto HTTP │ ☁️ T02·E05",
+      ep: "T02·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAqPfppf3XZmm8b6PH3vQQu"
@@ -1646,7 +1789,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2017)",
-      service: "Direto HTTP │ ☁️ T02·E06",
+      ep: "T02·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDYVf7sePYziDYfFXnUlqSo"
@@ -1657,7 +1801,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2017)",
-      service: "Direto HTTP │ ☁️ T02·E07",
+      ep: "T02·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBaJ4-I81CMvIS3XV6g7fJY"
@@ -1668,7 +1813,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2017)",
-      service: "Direto HTTP │ ☁️ T02·E08",
+      ep: "T02·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICI4BdNJD3k47GRFH13QAFd"
@@ -1679,7 +1825,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2017)",
-      service: "Direto HTTP │ ☁️ T02·E09",
+      ep: "T02·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICtZoKfp3C51RKyEUDiRwOZ"
@@ -1692,7 +1839,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2019)",
-      service: "Direto HTTP │ ☁️ T03·E01",
+      ep: "T03·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAYJ1l1iWAopxGFnpw1Iovq"
@@ -1703,7 +1851,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2019)",
-      service: "Direto HTTP │ ☁️ T03·E02",
+      ep: "T03·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBmDupkKftTIDlSIQs32LRL"
@@ -1714,7 +1863,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2019)",
-      service: "Direto HTTP │ ☁️ T03·E03",
+      ep: "T03·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBb8z3Ocl99M1lsg7nPGUQT"
@@ -1725,7 +1875,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2019)",
-      service: "Direto HTTP │ ☁️ T03·E04",
+      ep: "T03·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICJWWyRr88y1ExM4wuUN2jy"
@@ -1736,7 +1887,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2019)",
-      service: "Direto HTTP │ ☁️ T03·E05",
+      ep: "T03·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKID-dKfWx3_jb0KIm4qX3eQQ"
@@ -1747,7 +1899,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2019)",
-      service: "Direto HTTP │ ☁️ T03·E06",
+      ep: "T03·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIA0Ug7dRslc7eZ58cMR3T5q"
@@ -1758,7 +1911,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2019)",
-      service: "Direto HTTP │ ☁️ T03·E07",
+      ep: "T03·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIA6s2J0qFqQMU-LSr62dGdN"
@@ -1769,7 +1923,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2019)",
-      service: "Direto HTTP │ ☁️ T03·E08",
+      ep: "T03·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICHWddTFDKXPmFwIgughQ0L"
@@ -1782,7 +1937,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2022)",
-      service: "Direto HTTP │ ☁️ T04·E01",
+      ep: "T04·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIC9g918B6cGD15i52Iz6hMP"
@@ -1793,7 +1949,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2022)",
-      service: "Direto HTTP │ ☁️ T04·E02",
+      ep: "T04·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB-93iaLv4rowdmXwncQBJR"
@@ -1804,7 +1961,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2022)",
-      service: "Direto HTTP │ ☁️ T04·E03",
+      ep: "T04·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBEdO5FrooFEeGjFuUMP6pJ"
@@ -1815,7 +1973,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2022)",
-      service: "Direto HTTP │ ☁️ T04·E04",
+      ep: "T04·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICeH613aDKy7H_5iSjv3Uvj"
@@ -1826,7 +1985,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2022)",
-      service: "Direto HTTP │ ☁️ T04·E05",
+      ep: "T04·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKID3PtFAy1zUi7a2mMDRi5mn"
@@ -1837,7 +1997,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2022)",
-      service: "Direto HTTP │ ☁️ T04·E06",
+      ep: "T04·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICqBVnIrMevBSIl-QEW3fHn"
@@ -1848,7 +2009,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2022)",
-      service: "Direto HTTP │ ☁️ T04·E07",
+      ep: "T04·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDDcQgUJxgEXd6ZGqt8bJvb"
@@ -1859,7 +2021,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2022)",
-      service: "Direto HTTP │ ☁️ T04·E08",
+      ep: "T04·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBtHoyFfYYDYLfe8_Kvnd10"
@@ -1870,7 +2033,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2022)",
-      service: "Direto HTTP │ ☁️ T04·E09",
+      ep: "T04·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDxTa2Z1CuN4-V_ebF-csWO"
@@ -1883,7 +2047,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2025)",
-      service: "Direto HTTP │ ☁️ T05·E01",
+      ep: "T05·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScCtpP15ew7UnAl6Uf74ruK2"
@@ -1894,7 +2059,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2025)",
-      service: "Direto HTTP │ ☁️ T05·E02",
+      ep: "T05·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScCcm8-GFIOni-SIxnXE_PH5"
@@ -1905,7 +2071,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2025)",
-      service: "Direto HTTP │ ☁️ T05·E03",
+      ep: "T05·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScAw444Xf2M2ycAoTo7HCtBf"
@@ -1916,7 +2083,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2025)",
-      service: "Direto HTTP │ ☁️ T05·E04",
+      ep: "T05·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScDBg2efFEKWjQJqjAu-q4_Z"
@@ -1927,7 +2095,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2025)",
-      service: "Direto HTTP │ ☁️ T05·E05",
+      ep: "T05·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScB68rwc8WT29pQfYNgBBpB5"
@@ -1938,7 +2107,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2025)",
-      service: "Direto HTTP │ ☁️ T05·E06",
+      ep: "T05·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScA7iV5qZajUu1etJzbS_5nG"
@@ -1949,7 +2119,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2025)",
-      service: "Direto HTTP │ ☁️ T05·E07",
+      ep: "T05·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScB2e2OGTbMaOjRyfNaqsqHU"
@@ -1960,7 +2131,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Stranger Things (2025)",
-      service: "Direto HTTP │ ☁️ T05·E08",
+      ep: "T05·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScDnVhOYfE-QJVEKfyAKO-In"
@@ -1976,7 +2148,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2023)",
-      service: "Direto HTTP │ ☁️ T01·E01",
+      ep: "T01·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z-7wsIQs2Z5MojQkKGbUvCiPXZojcqPJlvSaLkH39SRm"
@@ -1987,7 +2160,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2023)",
-      service: "Direto HTTP │ ☁️ T01·E02",
+      ep: "T01·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z-7wsIQs2Z5MojQkKGbUvCi5ivByke0f9kBEkDo1uMkE"
@@ -1998,7 +2172,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2023)",
-      service: "Direto HTTP │ ☁️ T01·E03",
+      ep: "T01·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z-7wsIQs2Z5MojQkKGbUvCgtW48yaIh1c_p4sI3UnGOH"
@@ -2009,7 +2184,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2023)",
-      service: "Direto HTTP │ ☁️ T01·E04",
+      ep: "T01·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z-7wsIQs2Z5MojQkKGbUvChqyjR0FWxYVgjNYEXtfcPz"
@@ -2020,7 +2196,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2023)",
-      service: "Direto HTTP │ ☁️ T01·E05",
+      ep: "T01·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z-7wsIQs2Z5MojQkKGbUvCg5MmWgpGFdvs9YLKJ2g3tT"
@@ -2031,7 +2208,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2023)",
-      service: "Direto HTTP │ ☁️ T01·E06",
+      ep: "T01·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z-7wsIQs2Z5MojQkKGbUvCiboFVjCkkN1siAGqOxuanl"
@@ -2042,7 +2220,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2023)",
-      service: "Direto HTTP │ ☁️ T01·E07",
+      ep: "T01·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z-7wsIQs2Z5MojQkKGbUvCgjfJpKimG-Q_OFthMjo2tI"
@@ -2053,7 +2232,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2023)",
-      service: "Direto HTTP │ ☁️ T01·E08",
+      ep: "T01·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z-7wsIQs2Z5MojQkKGbUvCgp9t0v72wvPS6_l4wvmVCz"
@@ -2066,7 +2246,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2025)",
-      service: "Direto HTTP │ ☁️ T02·E01",
+      ep: "T02·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4MDtrqihH0_KlDTS1-RcDCy"
@@ -2077,7 +2258,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2025)",
-      service: "Direto HTTP │ ☁️ T02·E02",
+      ep: "T02·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4NTiExESAgF1RyhbbuGZVTz"
@@ -2088,7 +2270,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2025)",
-      service: "Direto HTTP │ ☁️ T02·E03",
+      ep: "T02·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4NZA4EMFvSyZE2qWBhQDKDH"
@@ -2099,7 +2282,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2025)",
-      service: "Direto HTTP │ ☁️ T02·E04",
+      ep: "T02·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4NnhSZfPuHFa2IOLuVtZufM"
@@ -2110,7 +2294,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2025)",
-      service: "Direto HTTP │ ☁️ T02·E05",
+      ep: "T02·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4MQJE7HdcyG3MuD5azWzlTX"
@@ -2121,7 +2306,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2025)",
-      service: "Direto HTTP │ ☁️ T02·E06",
+      ep: "T02·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4NXveb0Zu2Yrlh8bdEEOGSt"
@@ -2132,7 +2318,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2025)",
-      service: "Direto HTTP │ ☁️ T02·E07",
+      ep: "T02·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4NRx-ci4Z8ykCioyOffmuqm"
@@ -2143,7 +2330,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "One Piece (2025)",
-      service: "Direto HTTP │ ☁️ T02·E08",
+      ep: "T02·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4MxUcKBkusWf-zm-YdLl4Kt"
@@ -2160,7 +2348,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2015)",
-      service: "Direto HTTP │ ☁️ T01·E01",
+      ep: "T01·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTHGNnS-_Xba3Z9CNkLKeeX"
@@ -2171,7 +2360,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2015)",
-      service: "Direto HTTP │ ☁️ T01·E02",
+      ep: "T01·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQm_24H0fx2zEmRF_5obuoM"
@@ -2182,7 +2372,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2015)",
-      service: "Direto HTTP │ ☁️ T01·E03",
+      ep: "T01·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSWM0qSpwmVqkrfAPVLALWp"
@@ -2193,7 +2384,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2015)",
-      service: "Direto HTTP │ ☁️ T01·E04",
+      ep: "T01·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmRZOtVhFo0g1oKJ2jOT9-P-"
@@ -2204,7 +2396,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2015)",
-      service: "Direto HTTP │ ☁️ T01·E05",
+      ep: "T01·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSs8soQ3FttgQu10oxKVBsg"
@@ -2215,7 +2408,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2015)",
-      service: "Direto HTTP │ ☁️ T01·E06",
+      ep: "T01·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmRzM-KUg2V8pubrN7ujzmUp"
@@ -2226,7 +2420,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2015)",
-      service: "Direto HTTP │ ☁️ T01·E07",
+      ep: "T01·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSfVzNISW5S8zpnoaUGtuiC"
@@ -2237,7 +2432,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2015)",
-      service: "Direto HTTP │ ☁️ T01·E08",
+      ep: "T01·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmRPIw0cxRl_DxHdPkyGz7mZ"
@@ -2248,7 +2444,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2015)",
-      service: "Direto HTTP │ ☁️ T01·E09",
+      ep: "T01·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQsFfQqJEXGj0FkyNLCvzH7"
@@ -2259,7 +2456,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2015)",
-      service: "Direto HTTP │ ☁️ T01·E10",
+      ep: "T01·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTo8BVo7Sn85GeHFOezQw5n"
@@ -2272,7 +2470,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2016)",
-      service: "Direto HTTP │ ☁️ T02·E01",
+      ep: "T02·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQwpMzu9zcqrN5naGZeRWM_"
@@ -2283,7 +2482,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2016)",
-      service: "Direto HTTP │ ☁️ T02·E02",
+      ep: "T02·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSezYgGcjfm_D-csK_W8ZM7"
@@ -2294,7 +2494,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2016)",
-      service: "Direto HTTP │ ☁️ T02·E03",
+      ep: "T02·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTfXMa9n5bASUiGfe9wKqKo"
@@ -2305,7 +2506,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2016)",
-      service: "Direto HTTP │ ☁️ T02·E04",
+      ep: "T02·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTHvaJkQYiGXnrKyIPhVJ1I"
@@ -2316,7 +2518,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2016)",
-      service: "Direto HTTP │ ☁️ T02·E05",
+      ep: "T02·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQmG9FIBZYlglIAw6ytkMTk"
@@ -2327,7 +2530,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2016)",
-      service: "Direto HTTP │ ☁️ T02·E06",
+      ep: "T02·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTlYG_4H6FEfkB7V3e_1uq5"
@@ -2338,7 +2542,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2016)",
-      service: "Direto HTTP │ ☁️ T02·E07",
+      ep: "T02·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmT1njd5CzDVBxgLp62tuCYQ"
@@ -2349,7 +2554,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2016)",
-      service: "Direto HTTP │ ☁️ T02·E08",
+      ep: "T02·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSMDXpuSL3xJ55EhahVwdbO"
@@ -2360,7 +2566,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2016)",
-      service: "Direto HTTP │ ☁️ T02·E09",
+      ep: "T02·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmT3Qp6jWNnmP_0C61tNkrsc"
@@ -2371,7 +2578,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2016)",
-      service: "Direto HTTP │ ☁️ T02·E10",
+      ep: "T02·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSSx-Qlhzek_rgKokgRCA_r"
@@ -2384,7 +2592,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2017)",
-      service: "Direto HTTP │ ☁️ T03·E01",
+      ep: "T03·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSpgEbv-JMJgMjoVl28Ki-_"
@@ -2395,7 +2604,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2017)",
-      service: "Direto HTTP │ ☁️ T03·E02",
+      ep: "T03·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTs1ioMQYpwxNvcu4QxGOQL"
@@ -2406,7 +2616,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2017)",
-      service: "Direto HTTP │ ☁️ T03·E03",
+      ep: "T03·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmR5lZVvODBqjtRKYQPnLKqM"
@@ -2417,7 +2628,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2017)",
-      service: "Direto HTTP │ ☁️ T03·E04",
+      ep: "T03·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmREDBfXkxTlJZdtAZwAgRT1"
@@ -2428,7 +2640,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2017)",
-      service: "Direto HTTP │ ☁️ T03·E05",
+      ep: "T03·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQ5LpKbTakwLAPogBfjwLt3"
@@ -2439,7 +2652,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2017)",
-      service: "Direto HTTP │ ☁️ T03·E06",
+      ep: "T03·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTIXPiS1QybOp2Ifhk8bCI6"
@@ -2450,7 +2664,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2017)",
-      service: "Direto HTTP │ ☁️ T03·E07",
+      ep: "T03·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQ4oa2olgMdaSkRuLAlkAtX"
@@ -2461,7 +2676,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2017)",
-      service: "Direto HTTP │ ☁️ T03·E08",
+      ep: "T03·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmRjnive7oLB1_yqRy71-JBr"
@@ -2472,7 +2688,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2017)",
-      service: "Direto HTTP │ ☁️ T03·E09",
+      ep: "T03·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSQXqgDGa34uV9G1Xe07dl7"
@@ -2483,7 +2700,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2017)",
-      service: "Direto HTTP │ ☁️ T03·E10",
+      ep: "T03·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQgSPg-_qygniTW9OTzllQA"
@@ -2496,7 +2714,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2018)",
-      service: "Direto HTTP │ ☁️ T04·E01",
+      ep: "T04·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTH0ZkJOJk49nkDlh-zS2iT"
@@ -2507,7 +2726,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2018)",
-      service: "Direto HTTP │ ☁️ T04·E02",
+      ep: "T04·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQRijMtvE93_NwPBnx25iyB"
@@ -2518,7 +2738,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2018)",
-      service: "Direto HTTP │ ☁️ T04·E03",
+      ep: "T04·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmScX__f0t4MfrxsCxb9STda"
@@ -2529,7 +2750,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2018)",
-      service: "Direto HTTP │ ☁️ T04·E04",
+      ep: "T04·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTUnG5UmzUru7dpAI38ff3G"
@@ -2540,7 +2762,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2018)",
-      service: "Direto HTTP │ ☁️ T04·E05",
+      ep: "T04·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQO3f5aoltxhkdkLRNiSoHf"
@@ -2551,7 +2774,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2018)",
-      service: "Direto HTTP │ ☁️ T04·E06",
+      ep: "T04·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSBDjor0diG4m_ltbWBgMnE"
@@ -2562,7 +2786,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2018)",
-      service: "Direto HTTP │ ☁️ T04·E07",
+      ep: "T04·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTsuB7Twmu6vldtrfTeqY1x"
@@ -2573,7 +2798,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2018)",
-      service: "Direto HTTP │ ☁️ T04·E08",
+      ep: "T04·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTHkCOyWHFWsMWHHSw1j7BZ"
@@ -2584,7 +2810,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2018)",
-      service: "Direto HTTP │ ☁️ T04·E09",
+      ep: "T04·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQehBfwjbze-dYH-NoDDy6a"
@@ -2595,7 +2822,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2018)",
-      service: "Direto HTTP │ ☁️ T04·E10",
+      ep: "T04·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmT9VwHec-ekihuD9U7CmeJ5"
@@ -2608,7 +2836,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2020)",
-      service: "Direto HTTP │ ☁️ T05·E01",
+      ep: "T05·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSZqNlMpV74lScd6OMPZih1"
@@ -2619,7 +2848,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2020)",
-      service: "Direto HTTP │ ☁️ T05·E02",
+      ep: "T05·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSXCLzCj-l-EZ8y81Lfj0Z1"
@@ -2630,7 +2860,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2020)",
-      service: "Direto HTTP │ ☁️ T05·E03",
+      ep: "T05·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmRAKo54RbDG3smsaTEbSLBB"
@@ -2641,7 +2872,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2020)",
-      service: "Direto HTTP │ ☁️ T05·E04",
+      ep: "T05·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmR7f7gktzx833wBRcRvBl0n"
@@ -2652,7 +2884,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2020)",
-      service: "Direto HTTP │ ☁️ T05·E05",
+      ep: "T05·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSDOCR4jGQP07egl7__v-td"
@@ -2663,7 +2896,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2020)",
-      service: "Direto HTTP │ ☁️ T05·E06",
+      ep: "T05·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQt6mLMBk3sS1PO4kVgfgFg"
@@ -2674,7 +2908,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2020)",
-      service: "Direto HTTP │ ☁️ T05·E07",
+      ep: "T05·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSIoUZQaZTDkiTBoRDlsVr-"
@@ -2685,7 +2920,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2020)",
-      service: "Direto HTTP │ ☁️ T05·E08",
+      ep: "T05·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQCAbSESpVT4lM2qwa5Bof_"
@@ -2696,7 +2932,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2020)",
-      service: "Direto HTTP │ ☁️ T05·E09",
+      ep: "T05·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmR3GX7I27HiTGYTjxA8EDCt"
@@ -2707,7 +2944,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2020)",
-      service: "Direto HTTP │ ☁️ T05·E10",
+      ep: "T05·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQ1xC13-KLfB-rIk61peja4"
@@ -2720,7 +2958,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E01",
+      ep: "T06·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSeAHLkD9CtJeR9d_Mu5AJC"
@@ -2731,7 +2970,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E02",
+      ep: "T06·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTaNXFsVavyQKPYUYKzkIyE"
@@ -2742,7 +2982,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E03",
+      ep: "T06·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmRC_r2yCQGkyXjH-BkL9C-2"
@@ -2753,7 +2994,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E04",
+      ep: "T06·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSxVVSVlyRHfGuFcUaLs1Q4"
@@ -2764,7 +3006,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E05",
+      ep: "T06·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSz9-5Yyu9BMCbZx6z6J2yn"
@@ -2775,7 +3018,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E06",
+      ep: "T06·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmS0vbB4bXRJlJKS9jeDXqCY"
@@ -2786,7 +3030,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E07",
+      ep: "T06·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQpHqRP72LkBzvRfszWSYUy"
@@ -2797,7 +3042,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E08",
+      ep: "T06·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSMdQZqXHH6Gk7oxPSZW19R"
@@ -2808,7 +3054,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E09",
+      ep: "T06·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmSbcwPafLZ4hv2nw2y6ceBq"
@@ -2819,7 +3066,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E10",
+      ep: "T06·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmRq7-ms6-QW15Hr1DpE3eWl"
@@ -2830,7 +3078,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E11",
+      ep: "T06·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmTXBxJGQ-6XcP0t-V-8xVZa"
@@ -2841,7 +3090,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E12",
+      ep: "T06·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQtVLglCBng_cB6-5dL-Cde"
@@ -2852,7 +3102,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Better Call Saul (2022)",
-      service: "Direto HTTP │ ☁️ T06·E13",
+      ep: "T06·E13",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z28dnWYnrCIAEvgnZJDOqmQ6QkVf2MuTvxxgurW8QIV7"
@@ -2868,7 +3119,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2008)",
-      service: "Direto HTTP │ ☁️ T01·E01",
+      ep: "T01·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFbcvQGvJkttBWxrUCObZmC"
@@ -2879,7 +3131,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2008)",
-      service: "Direto HTTP │ ☁️ T01·E02",
+      ep: "T01·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGcqvsRHvozZHcQAlhglEI6"
@@ -2890,7 +3143,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2008)",
-      service: "Direto HTTP │ ☁️ T01·E03",
+      ep: "T01·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZF0YtGR7thx3J3CyMJQlPEr"
@@ -2901,7 +3155,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2008)",
-      service: "Direto HTTP │ ☁️ T01·E04",
+      ep: "T01·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFUjxwqBlCHAJlv6IKEDcrA"
@@ -2912,7 +3167,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2008)",
-      service: "Direto HTTP │ ☁️ T01·E05",
+      ep: "T01·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHg3vXbGLuLkKleNhQBCx6s"
@@ -2923,7 +3179,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2008)",
-      service: "Direto HTTP │ ☁️ T01·E06",
+      ep: "T01·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHnwnjq9BmI7XCdhI1_inK8"
@@ -2934,7 +3191,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2008)",
-      service: "Direto HTTP │ ☁️ T01·E07",
+      ep: "T01·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHQM_FrG9cYu4CjXw7_jz_f"
@@ -2947,7 +3205,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E01",
+      ep: "T02·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZG1-9QdmrXUhgAFw-8WufrW"
@@ -2958,7 +3217,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E02",
+      ep: "T02·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGkXCTWpFaLAFkRs7tlaIVs"
@@ -2969,7 +3229,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E03",
+      ep: "T02·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHay3CVNe9LI8I1J1hlu9Pe"
@@ -2980,7 +3241,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E04",
+      ep: "T02·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFv9JwwZ48hymL8tfabzXWW"
@@ -2991,7 +3253,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E05",
+      ep: "T02·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHptX2IXfQt4wxbwbTq9pih"
@@ -3002,7 +3265,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E06",
+      ep: "T02·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHlM0HRD7WmZ--B5wnmV0DY"
@@ -3013,7 +3277,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E07",
+      ep: "T02·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHJSaPTdcYVw0gHiz2nwd8X"
@@ -3024,7 +3289,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E08",
+      ep: "T02·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFEGcpTyGzIBz3P3WxCj3Xb"
@@ -3035,7 +3301,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E09",
+      ep: "T02·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZENHAOdqQZZrbmm3ITMwdKP"
@@ -3046,7 +3313,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E10",
+      ep: "T02·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGGDq6RlaqYhdpr5Z3xWpTV"
@@ -3057,7 +3325,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E11",
+      ep: "T02·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZERFb0rS8sn_ZT2v4cGI_aA"
@@ -3068,7 +3337,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E12",
+      ep: "T02·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHiXbrK4C5RfKl4nNoqE8r7"
@@ -3079,7 +3349,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2009)",
-      service: "Direto HTTP │ ☁️ T02·E13",
+      ep: "T02·E13",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFlMyYmQkUfq6xh7zU0ixgT"
@@ -3092,7 +3363,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E01",
+      ep: "T03·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZEAonnPwKFxzzQ4bDuPeCIn"
@@ -3103,7 +3375,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E02",
+      ep: "T03·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFx0Dcj7yTDiExcQ90OWAix"
@@ -3114,7 +3387,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E03",
+      ep: "T03·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZEZWgnGWA211PYilkvw0Atm"
@@ -3125,7 +3399,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E04",
+      ep: "T03·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFmE72P-ebdy8mL8N8jLNMe"
@@ -3136,7 +3411,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E05",
+      ep: "T03·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGt0vRwwWo1Lk78w_nY-r1F"
@@ -3147,7 +3423,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E06",
+      ep: "T03·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHBv4BrLrPEnbTgn8T_S9yg"
@@ -3158,7 +3435,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E07",
+      ep: "T03·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGhVtnbKPBWWk38ag7d7-E2"
@@ -3169,7 +3447,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E08",
+      ep: "T03·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZE1Y_oNrlB88Ix8wtZPCyw9"
@@ -3180,7 +3459,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E09",
+      ep: "T03·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHQnkEMlg44vtWVtkQCUgrA"
@@ -3191,7 +3471,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E10",
+      ep: "T03·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHDB0u6MGODE3svjNFmGibj"
@@ -3202,7 +3483,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E11",
+      ep: "T03·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHBMRohvGuAUIxnEyR-fIUr"
@@ -3213,7 +3495,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E12",
+      ep: "T03·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHzUwE4lr9xDYfIyzvlmEeN"
@@ -3224,7 +3507,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2010)",
-      service: "Direto HTTP │ ☁️ T03·E13",
+      ep: "T03·E13",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFVpf8GShZkwZi1hHbk45c2"
@@ -3237,7 +3521,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E01",
+      ep: "T04·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGIp-7EFicRfjJrUlxTkSCO"
@@ -3248,7 +3533,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E02",
+      ep: "T04·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZEQhAdt4PWncVRYW0_5QC5A"
@@ -3259,7 +3545,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E03",
+      ep: "T04·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZF1nhv5diM58Vcjah_OajFI"
@@ -3270,7 +3557,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E04",
+      ep: "T04·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGkpz65OaTuNUZqW1Ql5yzw"
@@ -3281,7 +3569,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E05",
+      ep: "T04·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGx23pixhX-s2bpzaVXO_mr"
@@ -3292,7 +3581,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E06",
+      ep: "T04·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFcVWo1Q9xggeyc8TWIndkh"
@@ -3303,7 +3593,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E07",
+      ep: "T04·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFi6bJ9779bEOc2ataBz3JI"
@@ -3314,7 +3605,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E08",
+      ep: "T04·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZEc44jEXCxP58Z3qVcOfRO4"
@@ -3325,7 +3617,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E09",
+      ep: "T04·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFOtx6l2BBw7h3_J5L5vliw"
@@ -3336,7 +3629,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E10",
+      ep: "T04·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFkT-yXOQsnjaw7ew3CY6OX"
@@ -3347,7 +3641,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E11",
+      ep: "T04·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGcPzHzSKICHnRN5P1Hh5Is"
@@ -3358,7 +3653,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E12",
+      ep: "T04·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGiHkcW9L2040EsTHiga9YS"
@@ -3369,7 +3665,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2011)",
-      service: "Direto HTTP │ ☁️ T04·E13",
+      ep: "T04·E13",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZEZRruvoTAHdzo-A5WCqY72"
@@ -3382,7 +3679,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E01",
+      ep: "T05·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGth-YrG8-G0Vc1ffx_qgRI"
@@ -3393,7 +3691,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E02",
+      ep: "T05·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGKhXeM2xTaR_JReRVzmh3t"
@@ -3404,7 +3703,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E03",
+      ep: "T05·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZH2-2F8y3OGzq10xUZ5rYUa"
@@ -3415,7 +3715,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E04",
+      ep: "T05·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZE61SmzUJES-CnNdTP3cDJX"
@@ -3426,7 +3727,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E05",
+      ep: "T05·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHVwwsRYuk_Jkov3klpv5qF"
@@ -3437,7 +3739,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E06",
+      ep: "T05·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZH-13tT-6QNFlR4dj7AYrue"
@@ -3448,7 +3751,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E07",
+      ep: "T05·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFO_NUVwMgzMmx3MAyFG456"
@@ -3459,7 +3763,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E08",
+      ep: "T05·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZF78gRAxF3gacxHsEZ3D5Z0"
@@ -3470,7 +3775,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E09",
+      ep: "T05·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZEEsj8TmuA-gh69ghgUoaQX"
@@ -3481,7 +3787,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E10",
+      ep: "T05·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZGaAuQrhAbdvk63j7Azlayt"
@@ -3492,7 +3799,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E11",
+      ep: "T05·E11",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZFqzmVzYecKuqyI8iBfTQIM"
@@ -3503,7 +3811,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E12",
+      ep: "T05·E12",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZEAoBcRkEMKQs7LOBovnF-6"
@@ -3514,7 +3823,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E13",
+      ep: "T05·E13",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHkCiF2mCtuM6lqu7xUrw6s"
@@ -3525,7 +3835,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E14",
+      ep: "T05·E14",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZHv-aTmXy7X_rGD8ZZezWbT"
@@ -3536,7 +3847,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E15",
+      ep: "T05·E15",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZE_xGLDhsMefgJq9RXpTb1F"
@@ -3547,7 +3859,8 @@ const series = {
     name: "💫 CloutStream 720p",
     title: formatTitle({
       name: "Breaking Bad (2012)",
-      service: "Direto HTTP │ ☁️ T05·E16",
+      ep: "T05·E16",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z0cxBm5IlUMiMIpQYg1DoZF2jTK5rSO6QdboGlBOWZUw"
@@ -3565,7 +3878,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Pluribus (2025)",
-      service: "Direto HTTP │ ☁️ T01·E01",
+      ep: "T01·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4126886.mp4"
@@ -3577,7 +3891,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Pluribus (2025)",
-      service: "Direto HTTP │ ☁️ T01·E02",
+      ep: "T01·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4126889.mp4"
@@ -3589,7 +3904,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Pluribus (2025)",
-      service: "Direto HTTP │ ☁️ T01·E03",
+      ep: "T01·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4126891.mp4"
@@ -3601,7 +3917,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Pluribus (2025)",
-      service: "Direto HTTP │ ☁️ T01·E04",
+      ep: "T01·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4126893.mp4"
@@ -3613,7 +3930,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Pluribus (2025)",
-      service: "Direto HTTP │ ☁️ T01·E05",
+      ep: "T01·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4126895.mp4"
@@ -3625,7 +3943,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Pluribus (2025)",
-      service: "Direto HTTP │ ☁️ T01·E06",
+      ep: "T01·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4126896.mp4"
@@ -3637,7 +3956,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Pluribus (2025)",
-      service: "Direto HTTP │ ☁️ T01·E07",
+      ep: "T01·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4126899.mp4"
@@ -3649,7 +3969,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Pluribus (2025)",
-      service: "Direto HTTP │ ☁️ T01·E08",
+      ep: "T01·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4126902.mp4"
@@ -3661,7 +3982,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Pluribus (2025)",
-      service: "Direto HTTP │ ☁️ T01·E09",
+      ep: "T01·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4126904.mp4"
@@ -3676,7 +3998,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2022)",
-      service: "Direto HTTP │ ☁️ T01·E01",
+      ep: "T01·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984277.mp4"
@@ -3688,7 +4011,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2022)",
-      service: "Direto HTTP │ ☁️ T01·E02",
+      ep: "T01·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984280.mp4"
@@ -3700,7 +4024,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2022)",
-      service: "Direto HTTP │ ☁️ T01·E03",
+      ep: "T01·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984284.mp4"
@@ -3712,7 +4037,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2022)",
-      service: "Direto HTTP │ ☁️ T01·E04",
+      ep: "T01·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984287.mp4"
@@ -3724,7 +4050,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2022)",
-      service: "Direto HTTP │ ☁️ T01·E05",
+      ep: "T01·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984289.mp4"
@@ -3736,7 +4063,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2022)",
-      service: "Direto HTTP │ ☁️ T01·E06",
+      ep: "T01·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984291.mp4"
@@ -3748,7 +4076,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2022)",
-      service: "Direto HTTP │ ☁️ T01·E07",
+      ep: "T01·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984293.mp4"
@@ -3760,7 +4089,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2022)",
-      service: "Direto HTTP │ ☁️ T01·E08",
+      ep: "T01·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984295.mp4"
@@ -3772,7 +4102,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2022)",
-      service: "Direto HTTP │ ☁️ T01·E09",
+      ep: "T01·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984297.mp4"
@@ -3785,7 +4116,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2025)",
-      service: "Direto HTTP │ ☁️ T02·E01",
+      ep: "T02·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984299.mp4"
@@ -3797,7 +4129,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2025)",
-      service: "Direto HTTP │ ☁️ T02·E02",
+      ep: "T02·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984301.mp4"
@@ -3809,7 +4142,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2025)",
-      service: "Direto HTTP │ ☁️ T02·E03",
+      ep: "T02·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984303.mp4"
@@ -3821,7 +4155,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2025)",
-      service: "Direto HTTP │ ☁️ T02·E04",
+      ep: "T02·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984305.mp4"
@@ -3833,7 +4168,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2025)",
-      service: "Direto HTTP │ ☁️ T02·E05",
+      ep: "T02·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984308.mp4"
@@ -3845,7 +4181,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2025)",
-      service: "Direto HTTP │ ☁️ T02·E06",
+      ep: "T02·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984311.mp4"
@@ -3857,7 +4194,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2025)",
-      service: "Direto HTTP │ ☁️ T02·E07",
+      ep: "T02·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984314.mp4"
@@ -3869,7 +4207,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2025)",
-      service: "Direto HTTP │ ☁️ T02·E08",
+      ep: "T02·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984316.mp4"
@@ -3881,7 +4220,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2025)",
-      service: "Direto HTTP │ ☁️ T02·E09",
+      ep: "T02·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984318.mp4"
@@ -3893,7 +4233,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Ruptura (2025)",
-      service: "Direto HTTP │ ☁️ T02·E10",
+      ep: "T02·E10",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3984320.mp4"
@@ -3908,7 +4249,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Matéria Escura (2024)",
-      service: "Direto HTTP │ ☁️ T01·E01",
+      ep: "T01·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4064952.mp4"
@@ -3920,7 +4262,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Matéria Escura (2024)",
-      service: "Direto HTTP │ ☁️ T01·E02",
+      ep: "T01·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4064953.mp4"
@@ -3932,7 +4275,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Matéria Escura (2024)",
-      service: "Direto HTTP │ ☁️ T01·E03",
+      ep: "T01·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4064954.mp4"
@@ -3944,7 +4288,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Matéria Escura (2024)",
-      service: "Direto HTTP │ ☁️ T01·E04",
+      ep: "T01·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4064955.mp4"
@@ -3956,7 +4301,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Matéria Escura (2024)",
-      service: "Direto HTTP │ ☁️ T01·E05",
+      ep: "T01·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4064956.mp4"
@@ -3968,7 +4314,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Matéria Escura (2024)",
-      service: "Direto HTTP │ ☁️ T01·E06",
+      ep: "T01·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4064957.mp4"
@@ -3980,7 +4327,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Matéria Escura (2024)",
-      service: "Direto HTTP │ ☁️ T01·E07",
+      ep: "T01·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4064958.mp4"
@@ -3992,7 +4340,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Matéria Escura (2024)",
-      service: "Direto HTTP │ ☁️ T01·E08",
+      ep: "T01·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4064959.mp4"
@@ -4004,7 +4353,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Matéria Escura (2024)",
-      service: "Direto HTTP │ ☁️ T01·E09",
+      ep: "T01·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4064960.mp4"
@@ -4019,7 +4369,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2021)",
-      service: "Direto HTTP │ ☁️ T01·E01",
+      ep: "T01·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968356.mp4"
@@ -4031,7 +4382,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2021)",
-      service: "Direto HTTP │ ☁️ T01·E02",
+      ep: "T01·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968359.mp4"
@@ -4043,7 +4395,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2021)",
-      service: "Direto HTTP │ ☁️ T01·E03",
+      ep: "T01·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968373.mp4"
@@ -4055,7 +4408,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2021)",
-      service: "Direto HTTP │ ☁️ T01·E04",
+      ep: "T01·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968379.mp4"
@@ -4067,7 +4421,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2021)",
-      service: "Direto HTTP │ ☁️ T01·E05",
+      ep: "T01·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968391.mp4"
@@ -4079,7 +4434,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2021)",
-      service: "Direto HTTP │ ☁️ T01·E06",
+      ep: "T01·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968395.mp4"
@@ -4091,7 +4447,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2021)",
-      service: "Direto HTTP │ ☁️ T01·E07",
+      ep: "T01·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968399.mp4"
@@ -4103,7 +4460,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2021)",
-      service: "Direto HTTP │ ☁️ T01·E08",
+      ep: "T01·E08",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968412.mp4"
@@ -4115,7 +4473,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2021)",
-      service: "Direto HTTP │ ☁️ T01·E09",
+      ep: "T01·E09",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968420.mp4"
@@ -4128,7 +4487,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2024)",
-      service: "Direto HTTP │ ☁️ T02·E01",
+      ep: "T02·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968427.mp4"
@@ -4140,7 +4500,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2024)",
-      service: "Direto HTTP │ ☁️ T02·E02",
+      ep: "T02·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968435.mp4"
@@ -4152,7 +4513,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2024)",
-      service: "Direto HTTP │ ☁️ T02·E03",
+      ep: "T02·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968442.mp4"
@@ -4164,7 +4526,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2024)",
-      service: "Direto HTTP │ ☁️ T02·E04",
+      ep: "T02·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968450.mp4"
@@ -4176,7 +4539,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2024)",
-      service: "Direto HTTP │ ☁️ T02·E05",
+      ep: "T02·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968458.mp4"
@@ -4188,7 +4552,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2024)",
-      service: "Direto HTTP │ ☁️ T02·E06",
+      ep: "T02·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968464.mp4"
@@ -4200,7 +4565,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2024)",
-      service: "Direto HTTP │ ☁️ T02·E07",
+      ep: "T02·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968470.mp4"
@@ -4213,7 +4579,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2025)",
-      service: "Direto HTTP │ ☁️ T03·E01",
+      ep: "T03·E01",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968477.mp4"
@@ -4225,7 +4592,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2025)",
-      service: "Direto HTTP │ ☁️ T03·E02",
+      ep: "T03·E02",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968483.mp4"
@@ -4237,7 +4605,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2025)",
-      service: "Direto HTTP │ ☁️ T03·E03",
+      ep: "T03·E03",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968490.mp4"
@@ -4249,7 +4618,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2025)",
-      service: "Direto HTTP │ ☁️ T03·E04",
+      ep: "T03·E04",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968500.mp4"
@@ -4261,7 +4631,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2025)",
-      service: "Direto HTTP │ ☁️ T03·E05",
+      ep: "T03·E05",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968510.mp4"
@@ -4273,7 +4644,8 @@ const series = {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
       name: "Round 6 (2025)",
-      service: "Direto HTTP │ ☁️ T03·E06",
+      ep: "T03·E06",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/3968517.mp4"
