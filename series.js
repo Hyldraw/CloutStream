@@ -454,7 +454,7 @@ const series = {
 // ==================== Gen V ====================
 
 // Temporada 1 (2023)
-"tt2054838:1:1": [
+"tt13159924:1:1": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -466,7 +466,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTWpLVUnIEdKdY4K9rrMTG3u"
   }
 ],
-"tt2054838:1:2": [
+"tt13159924": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -478,7 +478,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTU2A8eqNwOik2bK-3vBHHt2"
   }
 ],
-"tt2054838:1:3": [
+"tt13159924:1:3": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -490,7 +490,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTUnb1fpHRpqsywd7Bl19XrC"
   }
 ],
-"tt2054838:1:4": [
+"tt13159924:1:4": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -502,7 +502,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTVsL8M0VHAyCFXLShCmFvby"
   }
 ],
-"tt2054838:1:5": [
+"tt13159924:1:5": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -514,7 +514,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTWb9bQcPM_I5uiWMaKU7dyg"
   }
 ],
-"tt2054838:1:6": [
+"tt13159924:1:6": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -526,7 +526,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTWp2B9otg3lEMhRnoaGQjUx"
   }
 ],
-"tt2054838:1:7": [
+"tt13159924:1:7": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -538,7 +538,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTUtLQlNsrdijAi-Sn6IZAEH"
   }
 ],
-"tt2054838:1:8": [
+"tt13159924:1:8": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -752,7 +752,7 @@ const series = {
 // ==================== Dark ====================
 
 // Temporada 1 (2017)
-"tt5705972:1:1": [
+"tt5753856:1:1": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -764,7 +764,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDoBNw1QdqX1PTAOyg4zfn-"
   }
 ],
-"tt5705972:1:2": [
+"tt5753856:1:2": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -776,7 +776,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB_lby-PUDo6agY46pCH8u4"
   }
 ],
-"tt5705972:1:3": [
+"tt5753856:1:3": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -788,7 +788,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKID1hV5jVoCtT5NysGL3TG2z"
   }
 ],
-"tt5705972:1:4": [
+"tt5753856:1:4": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -800,7 +800,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIC2_3N35cDmK5ERkWLd60Eu"
   }
 ],
-"tt5705972:1:5": [
+"tt5753856:1:5": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -812,7 +812,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDVrehmt1vxWMfU0Nng4FSJ"
   }
 ],
-"tt5705972:1:6": [
+"tt5753856:1:6": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -824,7 +824,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICkreZki4JyyvGxoCiXmShq"
   }
 ],
-"tt5705972:1:7": [
+"tt5753856:1:7": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -836,7 +836,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB2zjNXjN-YklDj8hVmFkJK"
   }
 ],
-"tt5705972:1:8": [
+"tt5753856:1:8": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -848,7 +848,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICI8rvZIyV0y1xHZ4vmeZqC"
   }
 ],
-"tt5705972:1:9": [
+"tt5753856:1:9": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -860,7 +860,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBZGrgLrGJFLJMyw4aoJfra"
   }
 ],
-"tt5705972:1:10": [
+"tt5753856:1:10": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -874,7 +874,7 @@ const series = {
 ],
 
 // Temporada 2 (2019)
-"tt5705972:2:1": [
+"tt5753856:2:1": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -886,7 +886,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAWLbgCb3UTcrEGmUPlfEBZ"
   }
 ],
-"tt5705972:2:2": [
+"tt5753856:2:2": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -898,7 +898,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB6oIUSQzmFUVmc2uDzBl2D"
   }
 ],
-"tt5705972:2:3": [
+"tt5753856:2:3": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -910,7 +910,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDalNii2RUX2osoLb2Mdben"
   }
 ],
-"tt5705972:2:4": [
+"tt5753856:2:4": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -922,7 +922,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAhgdxA6L-xGXCqznSNK3M9"
   }
 ],
-"tt5705972:2:5": [
+"tt5753856:2:5": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -934,7 +934,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIARwcTlWjFXwDgGPOsRnXbd"
   }
 ],
-"tt5705972:2:6": [
+"tt5753856:2:6": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -946,7 +946,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBlkHDqBUxbAjrUdVe3J2CT"
   }
 ],
-"tt5705972:2:7": [
+"tt5753856:2:7": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -958,7 +958,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIC8AOnLC217Zxlo-tI8qp_q"
   }
 ],
-"tt5705972:2:8": [
+"tt5753856:2:8": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -972,7 +972,7 @@ const series = {
 ],
 
 // Temporada 3 (2020)
-"tt5705972:3:1": [
+"tt5753856:3:1": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -984,7 +984,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDnc8fJptN9YZ6zdE4ilEa6"
   }
 ],
-"tt5705972:3:2": [
+"tt5753856:3:2": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -996,7 +996,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAsd9mzQ8hPs5Ki7iJ3UbLy"
   }
 ],
-"tt5705972:3:3": [
+"tt5753856:3:3": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1008,7 +1008,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBH7iLE-qj6KAp8RnKeRd7Q"
   }
 ],
-"tt5705972:3:4": [
+"tt5753856:3:4": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1020,7 +1020,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICPnaXWN8cpdsulhMTFxN2h"
   }
 ],
-"tt5705972:3:5": [
+"tt5753856:3:5": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1032,7 +1032,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICDw7JoG4Ht9G17gI2cDG4v"
   }
 ],
-"tt5705972:3:6": [
+"tt5753856:3:6": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1044,7 +1044,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAwx_NiR_chm6a1ivSfMVz0"
   }
 ],
-"tt5705972:3:7": [
+"tt5753856:3:7": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1056,7 +1056,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBWrUvv_HwvbxQKCKg1xbN_"
   }
 ],
-"tt5705972:3:8": [
+"tt5753856:3:8": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1072,7 +1072,7 @@ const series = {
 // ==================== IT: Bem-Vindos a Derry ====================
 
 // Temporada 1 (2025)
-"tt18965406:1:1": [
+"tt19244304:1:1": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1084,7 +1084,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScDRJ3vhlmvV-iuCvRofL_AE"
   }
 ],
-"tt18965406:1:2": [
+"tt19244304:1:2": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1096,7 +1096,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScAhMM_kucNmDn4xe_RYOqrk"
   }
 ],
-"tt18965406:1:3": [
+"tt19244304:1:3": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1108,7 +1108,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScCQxebyArQG-Pin5o2iTCek"
   }
 ],
-"tt18965406:1:4": [
+"tt19244304:1:4": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1120,7 +1120,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScCBg4joKmHoo_IoHgsUyRJs"
   }
 ],
-"tt18965406:1:5": [
+"tt19244304:1:5": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1132,7 +1132,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScCllpoKkRtt5GtZBSYuy3qZ"
   }
 ],
-"tt18965406:1:6": [
+"tt19244304:1:6": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1144,7 +1144,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScBRH72H7WnnOPQIgpDb0xD1"
   }
 ],
-"tt18965406:1:7": [
+"tt19244304:1:7": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -1156,7 +1156,7 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScDAhVGZ0gTPvb23s0xc-YKK"
   }
 ],
-"tt18965406:1:8": [
+"tt19244304:1:8": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
