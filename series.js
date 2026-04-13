@@ -761,7 +761,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yGRUPHg6Buh5xIqvLt5xT1F"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883834.mp4"
   }
 ],
 "tt5753856:1:2": [
@@ -773,7 +773,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yGeoUNUpotv5dG-jZgdIovj"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883840.mp4"
   }
 ],
 "tt5753856:1:3": [
@@ -785,7 +785,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yH6tvm_X_BGNRdOWJwnBZG_"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883851.mp4"
   }
 ],
 "tt5753856:1:4": [
@@ -797,7 +797,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFIQzzmaiaZvjZvUnogJEUV"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883853.mp4"
   }
 ],
 "tt5753856:1:5": [
@@ -809,7 +809,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFg-XNxORMR01eDFS1XrKfx"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883860.mp4"
   }
 ],
 "tt5753856:1:6": [
@@ -821,7 +821,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFUg2a4UO0X-S2nWHe1KD1V"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883868.mp4"
   }
 ],
 "tt5753856:1:7": [
@@ -833,7 +833,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFEgDjkSUk_6Vwv25k3ooon"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883873.mp4"
   }
 ],
 "tt5753856:1:8": [
@@ -845,7 +845,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFOxH5RbEHxVNS43-Y2GI4W"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883875.mp4"
   }
 ],
 "tt5753856:1:9": [
@@ -857,7 +857,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yF0grblI8CZgwdnUz8nfaEG"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883877.mp4"
   }
 ],
 "tt5753856:1:10": [
@@ -869,7 +869,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFcpCbRfPvGdMmM9RprkHnW"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883882.mp4"
   }
 ],
 
@@ -883,7 +883,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_ID3XhCMp2tfE5FSVEdJrs3"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883894.mp4"
   }
 ],
 "tt5753856:2:2": [
@@ -895,7 +895,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_Lekw3-SETSkqINgBBslk94"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883904.mp4"
   }
 ],
 "tt5753856:2:3": [
@@ -907,7 +907,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_LUqKDWTygdP9wofdmNrECh"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883909.mp4"
   }
 ],
 "tt5753856:2:4": [
@@ -919,7 +919,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_JChghf2UAF7WM6f5fn_9nF"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883918.mp4"
   }
 ],
 "tt5753856:2:5": [
@@ -931,7 +931,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_JLMs4y8H0sflVitAo6ZmPO"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883927.mp4"
   }
 ],
 "tt5753856:2:6": [
@@ -943,7 +943,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_I94PlF1qhshJ3ZJ7AiC64X"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883936.mp4"
   }
 ],
 "tt5753856:2:7": [
@@ -955,7 +955,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_JO0OxMdNnKnitBz5vR7LQT"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883939.mp4"
   }
 ],
 "tt5753856:2:8": [
@@ -967,7 +967,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_IIp0pr73zBT2CyZ9-FoYCf"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883947.mp4"
   }
 ],
 
@@ -981,7 +981,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_KaAL7rvT-vPvMYLNGCHORJ"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883955.mp4"
   }
 ],
 "tt5753856:3:2": [
@@ -993,7 +993,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_Lj74PA6gn60_umCQ5ek0rD"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883957.mp4"
   }
 ],
 "tt5753856:3:3": [
@@ -1005,7 +1005,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_LWWWzzg1QZ3XCFeYNOMmE3"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883962.mp4"
   }
 ],
 "tt5753856:3:4": [
@@ -1017,7 +1017,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_Ipkaoamf2RrkGiXyK3IfBO"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883967.mp4"
   }
 ],
 "tt5753856:3:5": [
@@ -1029,7 +1029,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_I2I1bYDjIcmaf6KQ91Z5R4"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883970.mp4"
   }
 ],
 "tt5753856:3:6": [
@@ -1041,7 +1041,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_LFNTH11w4xiiQRdGqHNAoJ"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883975.mp4"
   }
 ],
 "tt5753856:3:7": [
@@ -1053,7 +1053,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_LAGgSuNOMiEJZaf_l4x_gz"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883978.mp4"
   }
 ],
 "tt5753856:3:8": [
@@ -1065,9 +1065,10 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_Lyt45rDOP9ayqSD_mYeF7f"
+    url: "http://mainxs.site:80/series/619126419/568627784/3883981.mp4"
   }
 ],
+
 
 
 // ==================== IT: Bem-Vindos a Derry ====================
