@@ -16,6 +16,13 @@ const manifest = {
     resources: ["stream", "catalog"],
     types: ["movie", "series"],
     idPrefixes: ["tt"],
+
+    // === Novo campo solicitado ===
+    stremioAddonsConfig: {
+        issuer: "https://stremio-addons.net",
+        signature: "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..UQyF8DlipC7V3s79CYTqyQ.KGWRXppVxxPGV7I-6VARM33Vx-IdhiSo9DM71VQCofFLHv-t093Flp8Wj_eiy-lVWY-BjDS9quFcVW6c9hDObwINNl_avbwOA1i8txctq-6JAQ6bSDI_i3r4j2QqCR_Y.tGe8pTJsphbdjaUPPh3UbQ"
+    },
+    
     catalogs: [
         { type: "movie", id: "cloutstream-recentes", name: "Últimos Filmes", extra: [{ name: "search", isRequired: false }] },
         { type: "series", id: "cloutstream-recentes-series", name: "Últimas Séries", extra: [{ name: "search", isRequired: false }] }
