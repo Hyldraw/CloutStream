@@ -761,7 +761,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDoBNw1QdqX1PTAOyg4zfn-"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yGRUPHg6Buh5xIqvLt5xT1F"
   }
 ],
 "tt5753856:1:2": [
@@ -773,7 +773,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB_lby-PUDo6agY46pCH8u4"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yGeoUNUpotv5dG-jZgdIovj"
   }
 ],
 "tt5753856:1:3": [
@@ -785,7 +785,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKID1hV5jVoCtT5NysGL3TG2z"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yH6tvm_X_BGNRdOWJwnBZG_"
   }
 ],
 "tt5753856:1:4": [
@@ -797,7 +797,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIC2_3N35cDmK5ERkWLd60Eu"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFIQzzmaiaZvjZvUnogJEUV"
   }
 ],
 "tt5753856:1:5": [
@@ -809,7 +809,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDVrehmt1vxWMfU0Nng4FSJ"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFg-XNxORMR01eDFS1XrKfx"
   }
 ],
 "tt5753856:1:6": [
@@ -821,7 +821,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICkreZki4JyyvGxoCiXmShq"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFUg2a4UO0X-S2nWHe1KD1V"
   }
 ],
 "tt5753856:1:7": [
@@ -833,7 +833,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB2zjNXjN-YklDj8hVmFkJK"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFEgDjkSUk_6Vwv25k3ooon"
   }
 ],
 "tt5753856:1:8": [
@@ -845,7 +845,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICI8rvZIyV0y1xHZ4vmeZqC"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFOxH5RbEHxVNS43-Y2GI4W"
   }
 ],
 "tt5753856:1:9": [
@@ -857,7 +857,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBZGrgLrGJFLJMyw4aoJfra"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yF0grblI8CZgwdnUz8nfaEG"
   }
 ],
 "tt5753856:1:10": [
@@ -869,7 +869,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBZUbgpazNPESjoBUnoOOuD"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFcpCbRfPvGdMmM9RprkHnW"
   }
 ],
 
@@ -883,7 +883,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAWLbgCb3UTcrEGmUPlfEBZ"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_ID3XhCMp2tfE5FSVEdJrs3"
   }
 ],
 "tt5753856:2:2": [
@@ -895,7 +895,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB6oIUSQzmFUVmc2uDzBl2D"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_Lekw3-SETSkqINgBBslk94"
   }
 ],
 "tt5753856:2:3": [
@@ -907,7 +907,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDalNii2RUX2osoLb2Mdben"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_LUqKDWTygdP9wofdmNrECh"
   }
 ],
 "tt5753856:2:4": [
@@ -919,7 +919,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAhgdxA6L-xGXCqznSNK3M9"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_JChghf2UAF7WM6f5fn_9nF"
   }
 ],
 "tt5753856:2:5": [
@@ -931,7 +931,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIARwcTlWjFXwDgGPOsRnXbd"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_JLMs4y8H0sflVitAo6ZmPO"
   }
 ],
 "tt5753856:2:6": [
@@ -943,7 +943,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBlkHDqBUxbAjrUdVe3J2CT"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_I94PlF1qhshJ3ZJ7AiC64X"
   }
 ],
 "tt5753856:2:7": [
@@ -955,7 +955,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIC8AOnLC217Zxlo-tI8qp_q"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_JO0OxMdNnKnitBz5vR7LQT"
   }
 ],
 "tt5753856:2:8": [
@@ -967,7 +967,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAWiAYqauUbaWdIbpUYWg9_"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_IIp0pr73zBT2CyZ9-FoYCf"
   }
 ],
 
@@ -981,7 +981,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDnc8fJptN9YZ6zdE4ilEa6"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_KaAL7rvT-vPvMYLNGCHORJ"
   }
 ],
 "tt5753856:3:2": [
@@ -993,7 +993,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAsd9mzQ8hPs5Ki7iJ3UbLy"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_Lj74PA6gn60_umCQ5ek0rD"
   }
 ],
 "tt5753856:3:3": [
@@ -1005,7 +1005,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBH7iLE-qj6KAp8RnKeRd7Q"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_LWWWzzg1QZ3XCFeYNOMmE3"
   }
 ],
 "tt5753856:3:4": [
@@ -1017,7 +1017,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICPnaXWN8cpdsulhMTFxN2h"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_Ipkaoamf2RrkGiXyK3IfBO"
   }
 ],
 "tt5753856:3:5": [
@@ -1029,7 +1029,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICDw7JoG4Ht9G17gI2cDG4v"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_I2I1bYDjIcmaf6KQ91Z5R4"
   }
 ],
 "tt5753856:3:6": [
@@ -1041,7 +1041,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAwx_NiR_chm6a1ivSfMVz0"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_LFNTH11w4xiiQRdGqHNAoJ"
   }
 ],
 "tt5753856:3:7": [
@@ -1053,7 +1053,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBWrUvv_HwvbxQKCKg1xbN_"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_LAGgSuNOMiEJZaf_l4x_gz"
   }
 ],
 "tt5753856:3:8": [
@@ -1065,9 +1065,10 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDR9PQlyep4SAzEHWqBAiOc"
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z9duTouqXwusqHdKZnOm6_Lyt45rDOP9ayqSD_mYeF7f"
   }
 ],
+
 
 // ==================== IT: Bem-Vindos a Derry ====================
 
