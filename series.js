@@ -451,6 +451,725 @@ const series = {
   }
 ],
 
+// ==================== Gen V ====================
+
+// Temporada 1 (2023)
+"tt2054838:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2023)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTWpLVUnIEdKdY4K9rrMTG3u"
+  }
+],
+"tt2054838:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2023)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTU2A8eqNwOik2bK-3vBHHt2"
+  }
+],
+"tt2054838:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2023)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTUnb1fpHRpqsywd7Bl19XrC"
+  }
+],
+"tt2054838:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2023)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTVsL8M0VHAyCFXLShCmFvby"
+  }
+],
+"tt2054838:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2023)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTWb9bQcPM_I5uiWMaKU7dyg"
+  }
+],
+"tt2054838:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2023)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTWp2B9otg3lEMhRnoaGQjUx"
+  }
+],
+"tt2054838:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2023)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTUtLQlNsrdijAi-Sn6IZAEH"
+  }
+],
+"tt2054838:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2023)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTU1de3AMmxhmCoQlSO6NMHF"
+  }
+],
+
+// ==================== The Last of Us ====================
+
+// Temporada 1 (2023)
+"tt3581920:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2023)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpyIIX_8jWrWyYiqBg7iL7vv"
+  }
+],
+"tt3581920:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2023)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpxTWMIHEewQUbXlt57IBS7G"
+  }
+],
+"tt3581920:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2023)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpyJRcWwFhf8rPTG8Mz1Uv8E"
+  }
+],
+"tt3581920:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2023)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpwRFwwRFYSh5sU2mJIxfbim"
+  }
+],
+"tt3581920:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2023)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpxF1Ey9B_0CGSS4r2Yf5ygY"
+  }
+],
+"tt3581920:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2023)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpyhQAp8iV4spl818rCzzHAL"
+  }
+],
+"tt3581920:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2023)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpxDMT5DwlsuguExRgz6HOF7"
+  }
+],
+"tt3581920:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2023)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpzZUN7W3nD2lGSzkfScguxJ"
+  }
+],
+"tt3581920:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2023)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpyYlZKv2pyupSoLSjtqRPjl"
+  }
+],
+
+// Temporada 2 (2025)
+"tt3581920:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2025)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpweKLk-WLlScA_qIT9QjGpw"
+  }
+],
+"tt3581920:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2025)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpzTS8_cHNKGzo6kKJWs6YFT"
+  }
+],
+"tt3581920:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2025)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpx0iF8qYrpWx3rJAo8X6eAz"
+  }
+],
+"tt3581920:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2025)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpxDVWueP62-O3xNs95b1LcL"
+  }
+],
+"tt3581920:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2025)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpxioxEc61oBotdRdJDuh0-P"
+  }
+],
+"tt3581920:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2025)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpwkfXjuX7DGRXbEzY-E8b_V"
+  }
+],
+"tt3581920:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Last of Us (2025)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Zyvhi-CF9omXa7YQ_PZYJpwOHBGpWt0h1KSbN0nP6KPh"
+  }
+],
+
+// ==================== Dark ====================
+
+// Temporada 1 (2017)
+"tt5705972:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2017)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDoBNw1QdqX1PTAOyg4zfn-"
+  }
+],
+"tt5705972:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2017)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB_lby-PUDo6agY46pCH8u4"
+  }
+],
+"tt5705972:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2017)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKID1hV5jVoCtT5NysGL3TG2z"
+  }
+],
+"tt5705972:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2017)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIC2_3N35cDmK5ERkWLd60Eu"
+  }
+],
+"tt5705972:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2017)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDVrehmt1vxWMfU0Nng4FSJ"
+  }
+],
+"tt5705972:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2017)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICkreZki4JyyvGxoCiXmShq"
+  }
+],
+"tt5705972:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2017)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB2zjNXjN-YklDj8hVmFkJK"
+  }
+],
+"tt5705972:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2017)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICI8rvZIyV0y1xHZ4vmeZqC"
+  }
+],
+"tt5705972:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2017)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBZGrgLrGJFLJMyw4aoJfra"
+  }
+],
+"tt5705972:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2017)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBZUbgpazNPESjoBUnoOOuD"
+  }
+],
+
+// Temporada 2 (2019)
+"tt5705972:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2019)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAWLbgCb3UTcrEGmUPlfEBZ"
+  }
+],
+"tt5705972:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2019)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIB6oIUSQzmFUVmc2uDzBl2D"
+  }
+],
+"tt5705972:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2019)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDalNii2RUX2osoLb2Mdben"
+  }
+],
+"tt5705972:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2019)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAhgdxA6L-xGXCqznSNK3M9"
+  }
+],
+"tt5705972:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2019)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIARwcTlWjFXwDgGPOsRnXbd"
+  }
+],
+"tt5705972:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2019)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBlkHDqBUxbAjrUdVe3J2CT"
+  }
+],
+"tt5705972:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2019)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIC8AOnLC217Zxlo-tI8qp_q"
+  }
+],
+"tt5705972:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2019)",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAWiAYqauUbaWdIbpUYWg9_"
+  }
+],
+
+// Temporada 3 (2020)
+"tt5705972:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2020)",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDnc8fJptN9YZ6zdE4ilEa6"
+  }
+],
+"tt5705972:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2020)",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAsd9mzQ8hPs5Ki7iJ3UbLy"
+  }
+],
+"tt5705972:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2020)",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBH7iLE-qj6KAp8RnKeRd7Q"
+  }
+],
+"tt5705972:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2020)",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICPnaXWN8cpdsulhMTFxN2h"
+  }
+],
+"tt5705972:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2020)",
+      ep: "T03·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKICDw7JoG4Ht9G17gI2cDG4v"
+  }
+],
+"tt5705972:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2020)",
+      ep: "T03·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIAwx_NiR_chm6a1ivSfMVz0"
+  }
+],
+"tt5705972:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2020)",
+      ep: "T03·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIBWrUvv_HwvbxQKCKg1xbN_"
+  }
+],
+"tt5705972:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dark (2020)",
+      ep: "T03·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z693vSxq2iQ37Yq-8mEEKIDR9PQlyep4SAzEHWqBAiOc"
+  }
+],
+
+// ==================== IT: Bem-Vindos a Derry ====================
+
+// Temporada 1 (2025)
+"tt18965406:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "IT: Bem-Vindos a Derry (2025)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScDRJ3vhlmvV-iuCvRofL_AE"
+  }
+],
+"tt18965406:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "IT: Bem-Vindos a Derry (2025)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScAhMM_kucNmDn4xe_RYOqrk"
+  }
+],
+"tt18965406:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "IT: Bem-Vindos a Derry (2025)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScCQxebyArQG-Pin5o2iTCek"
+  }
+],
+"tt18965406:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "IT: Bem-Vindos a Derry (2025)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScCBg4joKmHoo_IoHgsUyRJs"
+  }
+],
+"tt18965406:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "IT: Bem-Vindos a Derry (2025)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScCllpoKkRtt5GtZBSYuy3qZ"
+  }
+],
+"tt18965406:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "IT: Bem-Vindos a Derry (2025)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScBRH72H7WnnOPQIgpDb0xD1"
+  }
+],
+"tt18965406:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "IT: Bem-Vindos a Derry (2025)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScDAhVGZ0gTPvb23s0xc-YKK"
+  }
+],
+"tt18965406:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "IT: Bem-Vindos a Derry (2025)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z5UdzpS1CEm-imbo0U3VScA0y6bIeZM9ADMqfAWeHbgP"
+  }
+],
+
+
 // Dexter (Série) - Melhor Qualidade (P1: 4k2026.online)
 
 // ==================== TEMPORADA 1 (2006) ====================
