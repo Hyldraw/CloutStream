@@ -463,10 +463,10 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTWpLVUnIEdKdY4K9rrMTG3u"
+    url: "http://mainxs.site:80/series/619126419/568627784/4033694.mp4"
   }
 ],
-"tt13159924": [
+"tt13159924:1:2": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -475,7 +475,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTU2A8eqNwOik2bK-3vBHHt2"
+    url: "http://mainxs.site:80/series/619126419/568627784/4033699.mp4"
   }
 ],
 "tt13159924:1:3": [
@@ -487,7 +487,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTUnb1fpHRpqsywd7Bl19XrC"
+    url: "http://mainxs.site:80/series/619126419/568627784/4033703.mp4"
   }
 ],
 "tt13159924:1:4": [
@@ -499,7 +499,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTVsL8M0VHAyCFXLShCmFvby"
+    url: "http://mainxs.site:80/series/619126419/568627784/4033707.mp4"
   }
 ],
 "tt13159924:1:5": [
@@ -511,7 +511,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTWb9bQcPM_I5uiWMaKU7dyg"
+    url: "http://mainxs.site:80/series/619126419/568627784/4033710.mp4"
   }
 ],
 "tt13159924:1:6": [
@@ -523,7 +523,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTWp2B9otg3lEMhRnoaGQjUx"
+    url: "http://mainxs.site:80/series/619126419/568627784/4033717.mp4"
   }
 ],
 "tt13159924:1:7": [
@@ -535,7 +535,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTUtLQlNsrdijAi-Sn6IZAEH"
+    url: "http://mainxs.site:80/series/619126419/568627784/4033719.mp4"
   }
 ],
 "tt13159924:1:8": [
@@ -547,9 +547,108 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z29dA_watkJkKIzL48QfjTU1de3AMmxhmCoQlSO6NMHF"
+    url: "http://mainxs.site:80/series/619126419/568627784/4033723.mp4"
   }
 ],
+
+// Temporada 2 (2025)
+"tt13159924:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2025)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4033725.mp4"
+  }
+],
+"tt13159924:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2025)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4033730.mp4"
+  }
+],
+"tt13159924:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2025)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4033734.mp4"
+  }
+],
+"tt13159924:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2025)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4033738.mp4"
+  }
+],
+"tt13159924:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2025)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4033742.mp4"
+  }
+],
+"tt13159924:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2025)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4033745.mp4"
+  }
+],
+"tt13159924:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2025)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4033749.mp4"
+  }
+],
+"tt13159924:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Gen V (2025)",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4033752.mp4"
+  }
+],
+
 
 // ==================== The Last of Us ====================
 
