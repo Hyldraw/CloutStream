@@ -2,6 +2,2113 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// ==================== Monk ====================
+
+// Temporada 1 (2002)
+"tt0312172:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3913982.mp4"
+  }
+],
+"tt0312172:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3913986.mp4"
+  }
+],
+"tt0312172:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3913990.mp4"
+  }
+],
+"tt0312172:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3913994.mp4"
+  }
+],
+"tt0312172:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3913998.mp4"
+  }
+],
+"tt0312172:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914000.mp4"
+  }
+],
+"tt0312172:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914004.mp4"
+  }
+],
+"tt0312172:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914008.mp4"
+  }
+],
+"tt0312172:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914012.mp4"
+  }
+],
+"tt0312172:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914015.mp4"
+  }
+],
+"tt0312172:1:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914019.mp4"
+  }
+],
+"tt0312172:1:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914023.mp4"
+  }
+],
+"tt0312172:1:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2002)",
+      ep: "T01·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914027.mp4"
+  }
+],
+
+// Temporada 2 (2003)
+"tt0312172:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914031.mp4"
+  }
+],
+"tt0312172:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914034.mp4"
+  }
+],
+"tt0312172:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914037.mp4"
+  }
+],
+"tt0312172:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914041.mp4"
+  }
+],
+"tt0312172:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914045.mp4"
+  }
+],
+"tt0312172:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914049.mp4"
+  }
+],
+"tt0312172:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914050.mp4"
+  }
+],
+"tt0312172:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914054.mp4"
+  }
+],
+"tt0312172:2:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914058.mp4"
+  }
+],
+"tt0312172:2:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914062.mp4"
+  }
+],
+"tt0312172:2:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914066.mp4"
+  }
+],
+"tt0312172:2:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914070.mp4"
+  }
+],
+"tt0312172:2:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914074.mp4"
+  }
+],
+"tt0312172:2:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914078.mp4"
+  }
+],
+"tt0312172:2:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914082.mp4"
+  }
+],
+"tt0312172:2:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2003)",
+      ep: "T02·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914083.mp4"
+  }
+],
+
+// Temporada 3 (2004)
+"tt0312172:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914087.mp4"
+  }
+],
+"tt0312172:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914091.mp4"
+  }
+],
+"tt0312172:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914095.mp4"
+  }
+],
+"tt0312172:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914099.mp4"
+  }
+],
+"tt0312172:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914103.mp4"
+  }
+],
+"tt0312172:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914107.mp4"
+  }
+],
+"tt0312172:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914110.mp4"
+  }
+],
+"tt0312172:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914115.mp4"
+  }
+],
+"tt0312172:3:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914120.mp4"
+  }
+],
+"tt0312172:3:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914124.mp4"
+  }
+],
+"tt0312172:3:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914130.mp4"
+  }
+],
+"tt0312172:3:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914136.mp4"
+  }
+],
+"tt0312172:3:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914137.mp4"
+  }
+],
+"tt0312172:3:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914144.mp4"
+  }
+],
+"tt0312172:3:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914147.mp4"
+  }
+],
+"tt0312172:3:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2004)",
+      ep: "T03·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914154.mp4"
+  }
+],
+
+// Temporada 4 (2005)
+"tt0312172:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914157.mp4"
+  }
+],
+"tt0312172:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914159.mp4"
+  }
+],
+"tt0312172:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914163.mp4"
+  }
+],
+"tt0312172:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914166.mp4"
+  }
+],
+"tt0312172:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914175.mp4"
+  }
+],
+"tt0312172:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914176.mp4"
+  }
+],
+"tt0312172:4:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914181.mp4"
+  }
+],
+"tt0312172:4:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914185.mp4"
+  }
+],
+"tt0312172:4:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914194.mp4"
+  }
+],
+"tt0312172:4:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914202.mp4"
+  }
+],
+"tt0312172:4:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914209.mp4"
+  }
+],
+"tt0312172:4:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914214.mp4"
+  }
+],
+"tt0312172:4:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914216.mp4"
+  }
+],
+"tt0312172:4:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914220.mp4"
+  }
+],
+"tt0312172:4:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914224.mp4"
+  }
+],
+"tt0312172:4:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2005)",
+      ep: "T04·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914231.mp4"
+  }
+],
+
+// Temporada 5 (2006)
+"tt0312172:5:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914237.mp4"
+  }
+],
+"tt0312172:5:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914242.mp4"
+  }
+],
+"tt0312172:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914247.mp4"
+  }
+],
+"tt0312172:5:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914252.mp4"
+  }
+],
+"tt0312172:5:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914256.mp4"
+  }
+],
+"tt0312172:5:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914261.mp4"
+  }
+],
+"tt0312172:5:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914265.mp4"
+  }
+],
+"tt0312172:5:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914269.mp4"
+  }
+],
+"tt0312172:5:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914273.mp4"
+  }
+],
+"tt0312172:5:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914277.mp4"
+  }
+],
+"tt0312172:5:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914281.mp4"
+  }
+],
+"tt0312172:5:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914286.mp4"
+  }
+],
+"tt0312172:5:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914290.mp4"
+  }
+],
+"tt0312172:5:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914295.mp4"
+  }
+],
+"tt0312172:5:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914297.mp4"
+  }
+],
+"tt0312172:5:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2006)",
+      ep: "T05·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914300.mp4"
+  }
+],
+
+// Temporada 6 (2007)
+"tt0312172:6:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914303.mp4"
+  }
+],
+"tt0312172:6:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914306.mp4"
+  }
+],
+"tt0312172:6:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914313.mp4"
+  }
+],
+"tt0312172:6:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914325.mp4"
+  }
+],
+"tt0312172:6:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914329.mp4"
+  }
+],
+"tt0312172:6:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914334.mp4"
+  }
+],
+"tt0312172:6:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914336.mp4"
+  }
+],
+"tt0312172:6:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914350.mp4"
+  }
+],
+"tt0312172:6:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914355.mp4"
+  }
+],
+"tt0312172:6:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914360.mp4"
+  }
+],
+"tt0312172:6:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914370.mp4"
+  }
+],
+"tt0312172:6:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914385.mp4"
+  }
+],
+"tt0312172:6:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914407.mp4"
+  }
+],
+"tt0312172:6:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914414.mp4"
+  }
+],
+"tt0312172:6:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914420.mp4"
+  }
+],
+"tt0312172:6:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2007)",
+      ep: "T06·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914425.mp4"
+  }
+],
+
+// Temporada 7 (2008)
+"tt0312172:7:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914428.mp4"
+  }
+],
+"tt0312172:7:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914435.mp4"
+  }
+],
+"tt0312172:7:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914437.mp4"
+  }
+],
+"tt0312172:7:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914442.mp4"
+  }
+],
+"tt0312172:7:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914446.mp4"
+  }
+],
+"tt0312172:7:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914449.mp4"
+  }
+],
+"tt0312172:7:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914453.mp4"
+  }
+],
+"tt0312172:7:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914457.mp4"
+  }
+],
+"tt0312172:7:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914463.mp4"
+  }
+],
+"tt0312172:7:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914468.mp4"
+  }
+],
+"tt0312172:7:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914475.mp4"
+  }
+],
+"tt0312172:7:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914479.mp4"
+  }
+],
+"tt0312172:7:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914484.mp4"
+  }
+],
+"tt0312172:7:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914487.mp4"
+  }
+],
+"tt0312172:7:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914490.mp4"
+  }
+],
+"tt0312172:7:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2008)",
+      ep: "T07·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914496.mp4"
+  }
+],
+
+// Temporada 8 (2009)
+"tt0312172:8:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914503.mp4"
+  }
+],
+"tt0312172:8:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914506.mp4"
+  }
+],
+"tt0312172:8:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914509.mp4"
+  }
+],
+"tt0312172:8:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914512.mp4"
+  }
+],
+"tt0312172:8:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914513.mp4"
+  }
+],
+"tt0312172:8:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914517.mp4"
+  }
+],
+"tt0312172:8:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914519.mp4"
+  }
+],
+"tt0312172:8:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914523.mp4"
+  }
+],
+"tt0312172:8:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914527.mp4"
+  }
+],
+"tt0312172:8:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914530.mp4"
+  }
+],
+"tt0312172:8:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914533.mp4"
+  }
+],
+"tt0312172:8:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914537.mp4"
+  }
+],
+"tt0312172:8:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914540.mp4"
+  }
+],
+"tt0312172:8:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914543.mp4"
+  }
+],
+"tt0312172:8:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914545.mp4"
+  }
+],
+"tt0312172:8:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Monk (2009)",
+      ep: "T08·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3914548.mp4"
+  }
+],
+
+// ==================== Pesadelo na Cozinha ====================
+
+// Temporada 1 (2017)
+"tt6526624:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902551.mp4"
+  }
+],
+"tt6526624:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902552.mp4"
+  }
+],
+"tt6526624:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902558.mp4"
+  }
+],
+"tt6526624:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902560.mp4"
+  }
+],
+"tt6526624:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902565.mp4"
+  }
+],
+"tt6526624:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902570.mp4"
+  }
+],
+"tt6526624:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902574.mp4"
+  }
+],
+"tt6526624:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902579.mp4"
+  }
+],
+"tt6526624:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902581.mp4"
+  }
+],
+"tt6526624:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902587.mp4"
+  }
+],
+"tt6526624:1:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902591.mp4"
+  }
+],
+"tt6526624:1:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902595.mp4"
+  }
+],
+"tt6526624:1:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2017)",
+      ep: "T01·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902598.mp4"
+  }
+],
+
+// Temporada 2 (2019)
+"tt6526624:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2019)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902601.mp4"
+  }
+],
+"tt6526624:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2019)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902604.mp4"
+  }
+],
+"tt6526624:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2019)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902607.mp4"
+  }
+],
+"tt6526624:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2019)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902609.mp4"
+  }
+],
+"tt6526624:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2019)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902612.mp4"
+  }
+],
+"tt6526624:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2019)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902614.mp4"
+  }
+],
+"tt6526624:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2019)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902616.mp4"
+  }
+],
+
+// Temporada 3 (2021)
+"tt6526624:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2021)",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902618.mp4"
+  }
+],
+"tt6526624:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2021)",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902620.mp4"
+  }
+],
+"tt6526624:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2021)",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902621.mp4"
+  }
+],
+"tt6526624:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2021)",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902622.mp4"
+  }
+],
+
+// Temporada 4 (2023)
+"tt6526624:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2023)",
+      ep: "T04·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902623.mp4"
+  }
+],
+"tt6526624:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2023)",
+      ep: "T04·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902624.mp4"
+  }
+],
+"tt6526624:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2023)",
+      ep: "T04·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902625.mp4"
+  }
+],
+"tt6526624:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2023)",
+      ep: "T04·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902626.mp4"
+  }
+],
+"tt6526624:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2023)",
+      ep: "T04·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902627.mp4"
+  }
+],
+"tt6526624:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2023)",
+      ep: "T04·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902628.mp4"
+  }
+],
+"tt6526624:4:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2023)",
+      ep: "T04·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902629.mp4"
+  }
+],
+"tt6526624:4:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2023)",
+      ep: "T04·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902630.mp4"
+  }
+],
+"tt6526624:4:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2023)",
+      ep: "T04·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902631.mp4"
+  }
+],
+"tt6526624:4:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2023)",
+      ep: "T04·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902632.mp4"
+  }
+],
+"tt6526624:4:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2023)",
+      ep: "T04·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902633.mp4"
+  }
+],
+"tt6526624:4:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2023)",
+      ep: "T04·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902634.mp4"
+  }
+],
+
+// Temporada 5 (2024)
+"tt6526624:5:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2024)",
+      ep: "T05·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902635.mp4"
+  }
+],
+"tt6526624:5:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2024)",
+      ep: "T05·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902637.mp4"
+  }
+],
+"tt6526624:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2024)",
+      ep: "T05·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3902639.mp4"
+  }
+],
+"tt6526624:5:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2024)",
+      ep: "T05·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4155318.mp4"
+  }
+],
+"tt6526624:5:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2024)",
+      ep: "T05·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4155540.mp4"
+  }
+],
+"tt6526624:5:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2024)",
+      ep: "T05·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4155541.mp4"
+  }
+],
+"tt6526624:5:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2024)",
+      ep: "T05·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4156854.mp4"
+  }
+],
+"tt6526624:5:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2024)",
+      ep: "T05·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "SEU_LINK_AQUI"
+  }
+],
+"tt6526624:5:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2024)",
+      ep: "T05·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "SEU_LINK_AQUI"
+  }
+],
+"tt6526624:5:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2024)",
+      ep: "T05·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "SEU_LINK_AQUI"
+  }
+],
+"tt6526624:5:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2024)",
+      ep: "T05·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "SEU_LINK_AQUI"
+  }
+],
+"tt6526624:5:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2024)",
+      ep: "T05·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "SEU_LINK_AQUI"
+  }
+],
+
+  
 // ==================== Snowfall ====================
 
 // Temporada 1 (2017)
