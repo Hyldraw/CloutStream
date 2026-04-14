@@ -2,6 +2,8884 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// ==================== The Office ====================
+
+// Temporada 1 (2005)
+"tt0386676:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915188.mp4"
+  }
+],
+"tt0386676:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915190.mp4"
+  }
+],
+"tt0386676:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915193.mp4"
+  }
+],
+"tt0386676:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915195.mp4"
+  }
+],
+"tt0386676:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915197.mp4"
+  }
+],
+"tt0386676:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915198.mp4"
+  }
+],
+
+// Temporada 2 (2005)
+"tt0386676:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915204.mp4"
+  }
+],
+"tt0386676:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915207.mp4"
+  }
+],
+"tt0386676:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915208.mp4"
+  }
+],
+"tt0386676:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915210.mp4"
+  }
+],
+"tt0386676:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915212.mp4"
+  }
+],
+"tt0386676:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915215.mp4"
+  }
+],
+"tt0386676:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915216.mp4"
+  }
+],
+"tt0386676:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915217.mp4"
+  }
+],
+"tt0386676:2:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915219.mp4"
+  }
+],
+"tt0386676:2:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915220.mp4"
+  }
+],
+"tt0386676:2:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915222.mp4"
+  }
+],
+"tt0386676:2:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915224.mp4"
+  }
+],
+"tt0386676:2:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915226.mp4"
+  }
+],
+"tt0386676:2:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915228.mp4"
+  }
+],
+"tt0386676:2:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915229.mp4"
+  }
+],
+"tt0386676:2:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915231.mp4"
+  }
+],
+"tt0386676:2:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915233.mp4"
+  }
+],
+"tt0386676:2:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915235.mp4"
+  }
+],
+"tt0386676:2:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915236.mp4"
+  }
+],
+"tt0386676:2:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915238.mp4"
+  }
+],
+"tt0386676:2:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915240.mp4"
+  }
+],
+"tt0386676:2:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2005)",
+      ep: "T02·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915242.mp4"
+  }
+],
+
+// Temporada 3 (2006)
+"tt0386676:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915245.mp4"
+  }
+],
+"tt0386676:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915247.mp4"
+  }
+],
+"tt0386676:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915248.mp4"
+  }
+],
+"tt0386676:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915249.mp4"
+  }
+],
+"tt0386676:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915250.mp4"
+  }
+],
+"tt0386676:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915252.mp4"
+  }
+],
+"tt0386676:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915254.mp4"
+  }
+],
+"tt0386676:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915255.mp4"
+  }
+],
+"tt0386676:3:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915256.mp4"
+  }
+],
+"tt0386676:3:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915258.mp4"
+  }
+],
+"tt0386676:3:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915260.mp4"
+  }
+],
+"tt0386676:3:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915263.mp4"
+  }
+],
+"tt0386676:3:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915265.mp4"
+  }
+],
+"tt0386676:3:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915272.mp4"
+  }
+],
+"tt0386676:3:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915274.mp4"
+  }
+],
+"tt0386676:3:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915277.mp4"
+  }
+],
+"tt0386676:3:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915280.mp4"
+  }
+],
+"tt0386676:3:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915284.mp4"
+  }
+],
+"tt0386676:3:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915288.mp4"
+  }
+],
+"tt0386676:3:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915291.mp4"
+  }
+],
+"tt0386676:3:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915292.mp4"
+  }
+],
+"tt0386676:3:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915295.mp4"
+  }
+],
+"tt0386676:3:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915297.mp4"
+  }
+],
+"tt0386676:3:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915302.mp4"
+  }
+],
+"tt0386676:3:25": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2006)",
+      ep: "T03·E25",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915305.mp4"
+  }
+],
+
+// Temporada 4 (2007)
+"tt0386676:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915307.mp4"
+  }
+],
+"tt0386676:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915311.mp4"
+  }
+],
+"tt0386676:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915313.mp4"
+  }
+],
+"tt0386676:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915316.mp4"
+  }
+],
+"tt0386676:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915320.mp4"
+  }
+],
+"tt0386676:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915324.mp4"
+  }
+],
+"tt0386676:4:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915331.mp4"
+  }
+],
+"tt0386676:4:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915336.mp4"
+  }
+],
+"tt0386676:4:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915338.mp4"
+  }
+],
+"tt0386676:4:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915340.mp4"
+  }
+],
+"tt0386676:4:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915344.mp4"
+  }
+],
+"tt0386676:4:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915347.mp4"
+  }
+],
+"tt0386676:4:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915352.mp4"
+  }
+],
+"tt0386676:4:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915354.mp4"
+  }
+],
+"tt0386676:4:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915356.mp4"
+  }
+],
+"tt0386676:4:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915358.mp4"
+  }
+],
+"tt0386676:4:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915361.mp4"
+  }
+],
+"tt0386676:4:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915367.mp4"
+  }
+],
+"tt0386676:4:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2007)",
+      ep: "T04·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915382.mp4"
+  }
+],
+
+// Temporada 5 (2008)
+"tt0386676:5:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915386.mp4"
+  }
+],
+"tt0386676:5:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915390.mp4"
+  }
+],
+"tt0386676:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915400.mp4"
+  }
+],
+"tt0386676:5:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915404.mp4"
+  }
+],
+"tt0386676:5:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915411.mp4"
+  }
+],
+"tt0386676:5:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915414.mp4"
+  }
+],
+"tt0386676:5:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915417.mp4"
+  }
+],
+"tt0386676:5:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915423.mp4"
+  }
+],
+"tt0386676:5:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915431.mp4"
+  }
+],
+"tt0386676:5:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915439.mp4"
+  }
+],
+"tt0386676:5:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915444.mp4"
+  }
+],
+"tt0386676:5:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915448.mp4"
+  }
+],
+"tt0386676:5:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915449.mp4"
+  }
+],
+"tt0386676:5:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915456.mp4"
+  }
+],
+"tt0386676:5:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915462.mp4"
+  }
+],
+"tt0386676:5:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915478.mp4"
+  }
+],
+"tt0386676:5:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915489.mp4"
+  }
+],
+"tt0386676:5:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915494.mp4"
+  }
+],
+"tt0386676:5:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915497.mp4"
+  }
+],
+"tt0386676:5:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915503.mp4"
+  }
+],
+"tt0386676:5:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915506.mp4"
+  }
+],
+"tt0386676:5:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915511.mp4"
+  }
+],
+"tt0386676:5:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915517.mp4"
+  }
+],
+"tt0386676:5:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915521.mp4"
+  }
+],
+"tt0386676:5:25": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E25",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915524.mp4"
+  }
+],
+"tt0386676:5:26": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E26",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915529.mp4"
+  }
+],
+"tt0386676:5:27": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E27",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915539.mp4"
+  }
+],
+"tt0386676:5:28": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2008)",
+      ep: "T05·E28",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915548.mp4"
+  }
+],
+
+// Temporada 6 (2009)
+"tt0386676:6:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915560.mp4"
+  }
+],
+"tt0386676:6:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915569.mp4"
+  }
+],
+"tt0386676:6:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915580.mp4"
+  }
+],
+"tt0386676:6:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915586.mp4"
+  }
+],
+"tt0386676:6:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915596.mp4"
+  }
+],
+"tt0386676:6:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915603.mp4"
+  }
+],
+"tt0386676:6:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915607.mp4"
+  }
+],
+"tt0386676:6:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915611.mp4"
+  }
+],
+"tt0386676:6:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915621.mp4"
+  }
+],
+"tt0386676:6:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915641.mp4"
+  }
+],
+"tt0386676:6:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915651.mp4"
+  }
+],
+"tt0386676:6:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915656.mp4"
+  }
+],
+"tt0386676:6:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915659.mp4"
+  }
+],
+"tt0386676:6:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915664.mp4"
+  }
+],
+"tt0386676:6:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915674.mp4"
+  }
+],
+"tt0386676:6:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915682.mp4"
+  }
+],
+"tt0386676:6:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915686.mp4"
+  }
+],
+"tt0386676:6:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915698.mp4"
+  }
+],
+"tt0386676:6:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915704.mp4"
+  }
+],
+"tt0386676:6:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915713.mp4"
+  }
+],
+"tt0386676:6:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915716.mp4"
+  }
+],
+"tt0386676:6:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915721.mp4"
+  }
+],
+"tt0386676:6:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915726.mp4"
+  }
+],
+"tt0386676:6:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915731.mp4"
+  }
+],
+"tt0386676:6:25": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E25",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915735.mp4"
+  }
+],
+"tt0386676:6:26": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2009)",
+      ep: "T06·E26",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915742.mp4"
+  }
+],
+
+// Temporada 7 (2010)
+"tt0386676:7:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915746.mp4"
+  }
+],
+"tt0386676:7:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915749.mp4"
+  }
+],
+"tt0386676:7:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915758.mp4"
+  }
+],
+"tt0386676:7:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915765.mp4"
+  }
+],
+"tt0386676:7:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915773.mp4"
+  }
+],
+"tt0386676:7:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915777.mp4"
+  }
+],
+"tt0386676:7:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915782.mp4"
+  }
+],
+"tt0386676:7:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915789.mp4"
+  }
+],
+"tt0386676:7:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915796.mp4"
+  }
+],
+"tt0386676:7:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915800.mp4"
+  }
+],
+"tt0386676:7:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915804.mp4"
+  }
+],
+"tt0386676:7:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915814.mp4"
+  }
+],
+"tt0386676:7:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915820.mp4"
+  }
+],
+"tt0386676:7:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915829.mp4"
+  }
+],
+"tt0386676:7:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915836.mp4"
+  }
+],
+"tt0386676:7:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915838.mp4"
+  }
+],
+"tt0386676:7:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915844.mp4"
+  }
+],
+"tt0386676:7:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915849.mp4"
+  }
+],
+"tt0386676:7:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915855.mp4"
+  }
+],
+"tt0386676:7:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915859.mp4"
+  }
+],
+"tt0386676:7:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915864.mp4"
+  }
+],
+"tt0386676:7:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915869.mp4"
+  }
+],
+"tt0386676:7:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915874.mp4"
+  }
+],
+"tt0386676:7:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915878.mp4"
+  }
+],
+"tt0386676:7:25": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E25",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915882.mp4"
+  }
+],
+"tt0386676:7:26": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2010)",
+      ep: "T07·E26",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915888.mp4"
+  }
+],
+
+// Temporada 8 (2011)
+"tt0386676:8:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915902.mp4"
+  }
+],
+"tt0386676:8:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915909.mp4"
+  }
+],
+"tt0386676:8:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915910.mp4"
+  }
+],
+"tt0386676:8:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915927.mp4"
+  }
+],
+"tt0386676:8:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915934.mp4"
+  }
+],
+"tt0386676:8:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915943.mp4"
+  }
+],
+"tt0386676:8:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915950.mp4"
+  }
+],
+"tt0386676:8:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915957.mp4"
+  }
+],
+"tt0386676:8:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915964.mp4"
+  }
+],
+"tt0386676:8:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915971.mp4"
+  }
+],
+"tt0386676:8:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915976.mp4"
+  }
+],
+"tt0386676:8:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915983.mp4"
+  }
+],
+"tt0386676:8:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915990.mp4"
+  }
+],
+"tt0386676:8:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915993.mp4"
+  }
+],
+"tt0386676:8:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3915999.mp4"
+  }
+],
+"tt0386676:8:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916005.mp4"
+  }
+],
+"tt0386676:8:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916007.mp4"
+  }
+],
+"tt0386676:8:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916014.mp4"
+  }
+],
+"tt0386676:8:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916023.mp4"
+  }
+],
+"tt0386676:8:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916025.mp4"
+  }
+],
+"tt0386676:8:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916038.mp4"
+  }
+],
+"tt0386676:8:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916051.mp4"
+  }
+],
+"tt0386676:8:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916065.mp4"
+  }
+],
+"tt0386676:8:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2011)",
+      ep: "T08·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916075.mp4"
+  }
+],
+
+// Temporada 9 (2012)
+"tt0386676:9:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916089.mp4"
+  }
+],
+"tt0386676:9:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916093.mp4"
+  }
+],
+"tt0386676:9:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916099.mp4"
+  }
+],
+"tt0386676:9:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916101.mp4"
+  }
+],
+"tt0386676:9:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916105.mp4"
+  }
+],
+"tt0386676:9:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916111.mp4"
+  }
+],
+"tt0386676:9:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916116.mp4"
+  }
+],
+"tt0386676:9:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916119.mp4"
+  }
+],
+"tt0386676:9:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916125.mp4"
+  }
+],
+"tt0386676:9:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916129.mp4"
+  }
+],
+"tt0386676:9:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916133.mp4"
+  }
+],
+"tt0386676:9:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916138.mp4"
+  }
+],
+"tt0386676:9:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916144.mp4"
+  }
+],
+"tt0386676:9:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916147.mp4"
+  }
+],
+"tt0386676:9:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916148.mp4"
+  }
+],
+"tt0386676:9:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916151.mp4"
+  }
+],
+"tt0386676:9:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916153.mp4"
+  }
+],
+"tt0386676:9:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916156.mp4"
+  }
+],
+"tt0386676:9:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916158.mp4"
+  }
+],
+"tt0386676:9:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916161.mp4"
+  }
+],
+"tt0386676:9:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916165.mp4"
+  }
+],
+"tt0386676:9:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916168.mp4"
+  }
+],
+"tt0386676:9:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916169.mp4"
+  }
+],
+"tt0386676:9:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916172.mp4"
+  }
+],
+"tt0386676:9:25": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Office (2012)",
+      ep: "T09·E25",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3916175.mp4"
+  }
+],
+
+// ==================== The Big Bang Theory ====================
+
+// Temporada 1 (2007)
+"tt0898266:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979062.mp4"
+  }
+],
+"tt0898266:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979065.mp4"
+  }
+],
+"tt0898266:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979071.mp4"
+  }
+],
+"tt0898266:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979073.mp4"
+  }
+],
+"tt0898266:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979078.mp4"
+  }
+],
+"tt0898266:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979080.mp4"
+  }
+],
+"tt0898266:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979084.mp4"
+  }
+],
+"tt0898266:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979087.mp4"
+  }
+],
+"tt0898266:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979093.mp4"
+  }
+],
+"tt0898266:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979098.mp4"
+  }
+],
+"tt0898266:1:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979100.mp4"
+  }
+],
+"tt0898266:1:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979105.mp4"
+  }
+],
+"tt0898266:1:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979109.mp4"
+  }
+],
+"tt0898266:1:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979114.mp4"
+  }
+],
+"tt0898266:1:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979123.mp4"
+  }
+],
+"tt0898266:1:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979131.mp4"
+  }
+],
+"tt0898266:1:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2007)",
+      ep: "T01·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979134.mp4"
+  }
+],
+
+// Temporada 2 (2008)
+"tt0898266:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979139.mp4"
+  }
+],
+"tt0898266:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979143.mp4"
+  }
+],
+"tt0898266:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979148.mp4"
+  }
+],
+"tt0898266:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979152.mp4"
+  }
+],
+"tt0898266:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979156.mp4"
+  }
+],
+"tt0898266:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979163.mp4"
+  }
+],
+"tt0898266:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979169.mp4"
+  }
+],
+"tt0898266:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979174.mp4"
+  }
+],
+"tt0898266:2:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979178.mp4"
+  }
+],
+"tt0898266:2:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979182.mp4"
+  }
+],
+"tt0898266:2:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979187.mp4"
+  }
+],
+"tt0898266:2:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979192.mp4"
+  }
+],
+"tt0898266:2:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979197.mp4"
+  }
+],
+"tt0898266:2:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979202.mp4"
+  }
+],
+"tt0898266:2:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979207.mp4"
+  }
+],
+"tt0898266:2:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979211.mp4"
+  }
+],
+"tt0898266:2:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979215.mp4"
+  }
+],
+"tt0898266:2:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979219.mp4"
+  }
+],
+"tt0898266:2:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979226.mp4"
+  }
+],
+"tt0898266:2:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979231.mp4"
+  }
+],
+"tt0898266:2:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979236.mp4"
+  }
+],
+"tt0898266:2:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979238.mp4"
+  }
+],
+"tt0898266:2:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2008)",
+      ep: "T02·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979243.mp4"
+  }
+],
+
+// Temporada 3 (2009)
+"tt0898266:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979248.mp4"
+  }
+],
+"tt0898266:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979253.mp4"
+  }
+],
+"tt0898266:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979258.mp4"
+  }
+],
+"tt0898266:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979263.mp4"
+  }
+],
+"tt0898266:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979268.mp4"
+  }
+],
+"tt0898266:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979272.mp4"
+  }
+],
+"tt0898266:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979277.mp4"
+  }
+],
+"tt0898266:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979282.mp4"
+  }
+],
+"tt0898266:3:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979287.mp4"
+  }
+],
+"tt0898266:3:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979292.mp4"
+  }
+],
+"tt0898266:3:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979297.mp4"
+  }
+],
+"tt0898266:3:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979302.mp4"
+  }
+],
+"tt0898266:3:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979307.mp4"
+  }
+],
+"tt0898266:3:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979312.mp4"
+  }
+],
+"tt0898266:3:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979317.mp4"
+  }
+],
+"tt0898266:3:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979321.mp4"
+  }
+],
+"tt0898266:3:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979327.mp4"
+  }
+],
+"tt0898266:3:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979331.mp4"
+  }
+],
+"tt0898266:3:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979341.mp4"
+  }
+],
+"tt0898266:3:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979346.mp4"
+  }
+],
+"tt0898266:3:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979359.mp4"
+  }
+],
+"tt0898266:3:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979362.mp4"
+  }
+],
+"tt0898266:3:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2009)",
+      ep: "T03·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979369.mp4"
+  }
+],
+
+// Temporada 4 (2010)
+"tt0898266:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979373.mp4"
+  }
+],
+"tt0898266:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979382.mp4"
+  }
+],
+"tt0898266:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979393.mp4"
+  }
+],
+"tt0898266:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979405.mp4"
+  }
+],
+"tt0898266:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979419.mp4"
+  }
+],
+"tt0898266:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979422.mp4"
+  }
+],
+"tt0898266:4:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979432.mp4"
+  }
+],
+"tt0898266:4:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979444.mp4"
+  }
+],
+"tt0898266:4:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979449.mp4"
+  }
+],
+"tt0898266:4:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979458.mp4"
+  }
+],
+"tt0898266:4:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979465.mp4"
+  }
+],
+"tt0898266:4:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979477.mp4"
+  }
+],
+"tt0898266:4:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979492.mp4"
+  }
+],
+"tt0898266:4:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979497.mp4"
+  }
+],
+"tt0898266:4:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979503.mp4"
+  }
+],
+"tt0898266:4:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979510.mp4"
+  }
+],
+"tt0898266:4:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979512.mp4"
+  }
+],
+"tt0898266:4:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979520.mp4"
+  }
+],
+"tt0898266:4:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979526.mp4"
+  }
+],
+"tt0898266:4:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979531.mp4"
+  }
+],
+"tt0898266:4:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979544.mp4"
+  }
+],
+"tt0898266:4:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979551.mp4"
+  }
+],
+"tt0898266:4:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979561.mp4"
+  }
+],
+"tt0898266:4:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2010)",
+      ep: "T04·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979576.mp4"
+  }
+],
+
+// Temporada 5 (2011)
+"tt0898266:5:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979582.mp4"
+  }
+],
+"tt0898266:5:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979589.mp4"
+  }
+],
+"tt0898266:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979602.mp4"
+  }
+],
+"tt0898266:5:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979611.mp4"
+  }
+],
+"tt0898266:5:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979617.mp4"
+  }
+],
+"tt0898266:5:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979621.mp4"
+  }
+],
+"tt0898266:5:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979625.mp4"
+  }
+],
+"tt0898266:5:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979634.mp4"
+  }
+],
+"tt0898266:5:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979639.mp4"
+  }
+],
+"tt0898266:5:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979642.mp4"
+  }
+],
+"tt0898266:5:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979648.mp4"
+  }
+],
+"tt0898266:5:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979653.mp4"
+  }
+],
+"tt0898266:5:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979660.mp4"
+  }
+],
+"tt0898266:5:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979664.mp4"
+  }
+],
+"tt0898266:5:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979669.mp4"
+  }
+],
+"tt0898266:5:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979673.mp4"
+  }
+],
+"tt0898266:5:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979676.mp4"
+  }
+],
+"tt0898266:5:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979682.mp4"
+  }
+],
+"tt0898266:5:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979691.mp4"
+  }
+],
+"tt0898266:5:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979693.mp4"
+  }
+],
+"tt0898266:5:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979698.mp4"
+  }
+],
+"tt0898266:5:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979701.mp4"
+  }
+],
+"tt0898266:5:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979705.mp4"
+  }
+],
+"tt0898266:5:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2011)",
+      ep: "T05·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979709.mp4"
+  }
+],
+
+// Temporada 6 (2012)
+"tt0898266:6:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979713.mp4"
+  }
+],
+"tt0898266:6:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979718.mp4"
+  }
+],
+"tt0898266:6:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979721.mp4"
+  }
+],
+"tt0898266:6:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979724.mp4"
+  }
+],
+"tt0898266:6:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979729.mp4"
+  }
+],
+"tt0898266:6:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979733.mp4"
+  }
+],
+"tt0898266:6:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979738.mp4"
+  }
+],
+"tt0898266:6:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979743.mp4"
+  }
+],
+"tt0898266:6:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979746.mp4"
+  }
+],
+"tt0898266:6:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979751.mp4"
+  }
+],
+"tt0898266:6:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979756.mp4"
+  }
+],
+"tt0898266:6:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979761.mp4"
+  }
+],
+"tt0898266:6:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979766.mp4"
+  }
+],
+"tt0898266:6:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979771.mp4"
+  }
+],
+"tt0898266:6:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979776.mp4"
+  }
+],
+"tt0898266:6:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979781.mp4"
+  }
+],
+"tt0898266:6:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979785.mp4"
+  }
+],
+"tt0898266:6:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979789.mp4"
+  }
+],
+"tt0898266:6:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979793.mp4"
+  }
+],
+"tt0898266:6:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979797.mp4"
+  }
+],
+"tt0898266:6:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979801.mp4"
+  }
+],
+"tt0898266:6:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979805.mp4"
+  }
+],
+"tt0898266:6:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979809.mp4"
+  }
+],
+"tt0898266:6:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2012)",
+      ep: "T06·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979813.mp4"
+  }
+],
+
+// Temporada 7 (2013)
+"tt0898266:7:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979817.mp4"
+  }
+],
+"tt0898266:7:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979821.mp4"
+  }
+],
+"tt0898266:7:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979825.mp4"
+  }
+],
+"tt0898266:7:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979829.mp4"
+  }
+],
+"tt0898266:7:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979833.mp4"
+  }
+],
+"tt0898266:7:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979837.mp4"
+  }
+],
+"tt0898266:7:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979841.mp4"
+  }
+],
+"tt0898266:7:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979844.mp4"
+  }
+],
+"tt0898266:7:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979850.mp4"
+  }
+],
+"tt0898266:7:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979854.mp4"
+  }
+],
+"tt0898266:7:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979858.mp4"
+  }
+],
+"tt0898266:7:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979862.mp4"
+  }
+],
+"tt0898266:7:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979865.mp4"
+  }
+],
+"tt0898266:7:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979866.mp4"
+  }
+],
+"tt0898266:7:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979870.mp4"
+  }
+],
+"tt0898266:7:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979873.mp4"
+  }
+],
+"tt0898266:7:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979878.mp4"
+  }
+],
+"tt0898266:7:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979882.mp4"
+  }
+],
+"tt0898266:7:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979886.mp4"
+  }
+],
+"tt0898266:7:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979889.mp4"
+  }
+],
+"tt0898266:7:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979893.mp4"
+  }
+],
+"tt0898266:7:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979897.mp4"
+  }
+],
+"tt0898266:7:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979901.mp4"
+  }
+],
+"tt0898266:7:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2013)",
+      ep: "T07·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979907.mp4"
+  }
+],
+
+// Temporada 8 (2014)
+"tt0898266:8:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979911.mp4"
+  }
+],
+"tt0898266:8:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979915.mp4"
+  }
+],
+"tt0898266:8:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979918.mp4"
+  }
+],
+"tt0898266:8:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979923.mp4"
+  }
+],
+"tt0898266:8:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979928.mp4"
+  }
+],
+"tt0898266:8:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979931.mp4"
+  }
+],
+"tt0898266:8:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979935.mp4"
+  }
+],
+"tt0898266:8:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979939.mp4"
+  }
+],
+"tt0898266:8:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979942.mp4"
+  }
+],
+"tt0898266:8:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979945.mp4"
+  }
+],
+"tt0898266:8:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979948.mp4"
+  }
+],
+"tt0898266:8:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979951.mp4"
+  }
+],
+"tt0898266:8:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979956.mp4"
+  }
+],
+"tt0898266:8:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979959.mp4"
+  }
+],
+"tt0898266:8:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979961.mp4"
+  }
+],
+"tt0898266:8:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979963.mp4"
+  }
+],
+"tt0898266:8:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979965.mp4"
+  }
+],
+"tt0898266:8:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979967.mp4"
+  }
+],
+"tt0898266:8:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979969.mp4"
+  }
+],
+"tt0898266:8:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979971.mp4"
+  }
+],
+"tt0898266:8:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979972.mp4"
+  }
+],
+"tt0898266:8:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979975.mp4"
+  }
+],
+"tt0898266:8:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979976.mp4"
+  }
+],
+"tt0898266:8:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2014)",
+      ep: "T08·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979979.mp4"
+  }
+],
+
+// Temporada 9 (2015)
+"tt0898266:9:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979982.mp4"
+  }
+],
+"tt0898266:9:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979988.mp4"
+  }
+],
+"tt0898266:9:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3979993.mp4"
+  }
+],
+"tt0898266:9:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980002.mp4"
+  }
+],
+"tt0898266:9:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980004.mp4"
+  }
+],
+"tt0898266:9:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980005.mp4"
+  }
+],
+"tt0898266:9:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980008.mp4"
+  }
+],
+"tt0898266:9:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980015.mp4"
+  }
+],
+"tt0898266:9:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980019.mp4"
+  }
+],
+"tt0898266:9:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980023.mp4"
+  }
+],
+"tt0898266:9:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980026.mp4"
+  }
+],
+"tt0898266:9:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980029.mp4"
+  }
+],
+"tt0898266:9:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980033.mp4"
+  }
+],
+"tt0898266:9:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980036.mp4"
+  }
+],
+"tt0898266:9:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980039.mp4"
+  }
+],
+"tt0898266:9:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980041.mp4"
+  }
+],
+"tt0898266:9:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980043.mp4"
+  }
+],
+"tt0898266:9:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980048.mp4"
+  }
+],
+"tt0898266:9:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980050.mp4"
+  }
+],
+"tt0898266:9:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980052.mp4"
+  }
+],
+"tt0898266:9:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980055.mp4"
+  }
+],
+"tt0898266:9:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980058.mp4"
+  }
+],
+"tt0898266:9:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980061.mp4"
+  }
+],
+"tt0898266:9:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2015)",
+      ep: "T09·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980065.mp4"
+  }
+],
+
+// Temporada 10 (2016)
+"tt0898266:10:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980066.mp4"
+  }
+],
+"tt0898266:10:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980069.mp4"
+  }
+],
+"tt0898266:10:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980072.mp4"
+  }
+],
+"tt0898266:10:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980075.mp4"
+  }
+],
+"tt0898266:10:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980078.mp4"
+  }
+],
+"tt0898266:10:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980082.mp4"
+  }
+],
+"tt0898266:10:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980085.mp4"
+  }
+],
+"tt0898266:10:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980088.mp4"
+  }
+],
+"tt0898266:10:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980089.mp4"
+  }
+],
+"tt0898266:10:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980092.mp4"
+  }
+],
+"tt0898266:10:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980094.mp4"
+  }
+],
+"tt0898266:10:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980097.mp4"
+  }
+],
+"tt0898266:10:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980102.mp4"
+  }
+],
+"tt0898266:10:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980104.mp4"
+  }
+],
+"tt0898266:10:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980107.mp4"
+  }
+],
+"tt0898266:10:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980112.mp4"
+  }
+],
+"tt0898266:10:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980116.mp4"
+  }
+],
+"tt0898266:10:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980122.mp4"
+  }
+],
+"tt0898266:10:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980131.mp4"
+  }
+],
+"tt0898266:10:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980137.mp4"
+  }
+],
+"tt0898266:10:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980143.mp4"
+  }
+],
+"tt0898266:10:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980151.mp4"
+  }
+],
+"tt0898266:10:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980156.mp4"
+  }
+],
+"tt0898266:10:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2016)",
+      ep: "T10·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980159.mp4"
+  }
+],
+
+// Temporada 11 (2017)
+"tt0898266:11:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980162.mp4"
+  }
+],
+"tt0898266:11:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980170.mp4"
+  }
+],
+"tt0898266:11:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980182.mp4"
+  }
+],
+"tt0898266:11:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980188.mp4"
+  }
+],
+"tt0898266:11:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980192.mp4"
+  }
+],
+"tt0898266:11:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980198.mp4"
+  }
+],
+"tt0898266:11:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980201.mp4"
+  }
+],
+"tt0898266:11:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980211.mp4"
+  }
+],
+"tt0898266:11:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980214.mp4"
+  }
+],
+"tt0898266:11:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980217.mp4"
+  }
+],
+"tt0898266:11:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980221.mp4"
+  }
+],
+"tt0898266:11:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980227.mp4"
+  }
+],
+"tt0898266:11:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980237.mp4"
+  }
+],
+"tt0898266:11:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980240.mp4"
+  }
+],
+"tt0898266:11:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980256.mp4"
+  }
+],
+"tt0898266:11:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980261.mp4"
+  }
+],
+"tt0898266:11:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980266.mp4"
+  }
+],
+"tt0898266:11:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980272.mp4"
+  }
+],
+"tt0898266:11:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980280.mp4"
+  }
+],
+"tt0898266:11:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980286.mp4"
+  }
+],
+"tt0898266:11:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980291.mp4"
+  }
+],
+"tt0898266:11:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980297.mp4"
+  }
+],
+"tt0898266:11:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980304.mp4"
+  }
+],
+"tt0898266:11:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2017)",
+      ep: "T11·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980309.mp4"
+  }
+],
+
+// Temporada 12 (2018)
+"tt0898266:12:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980320.mp4"
+  }
+],
+"tt0898266:12:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980327.mp4"
+  }
+],
+"tt0898266:12:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980333.mp4"
+  }
+],
+"tt0898266:12:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980340.mp4"
+  }
+],
+"tt0898266:12:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980347.mp4"
+  }
+],
+"tt0898266:12:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980355.mp4"
+  }
+],
+"tt0898266:12:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980365.mp4"
+  }
+],
+"tt0898266:12:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980369.mp4"
+  }
+],
+"tt0898266:12:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980382.mp4"
+  }
+],
+"tt0898266:12:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980392.mp4"
+  }
+],
+"tt0898266:12:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980394.mp4"
+  }
+],
+"tt0898266:12:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980407.mp4"
+  }
+],
+"tt0898266:12:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980412.mp4"
+  }
+],
+"tt0898266:12:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980422.mp4"
+  }
+],
+"tt0898266:12:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980433.mp4"
+  }
+],
+"tt0898266:12:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980444.mp4"
+  }
+],
+"tt0898266:12:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980454.mp4"
+  }
+],
+"tt0898266:12:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980456.mp4"
+  }
+],
+"tt0898266:12:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980462.mp4"
+  }
+],
+"tt0898266:12:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980467.mp4"
+  }
+],
+"tt0898266:12:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980478.mp4"
+  }
+],
+"tt0898266:12:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980489.mp4"
+  }
+],
+"tt0898266:12:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980500.mp4"
+  }
+],
+"tt0898266:12:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Big Bang Theory (2018)",
+      ep: "T12·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3980505.mp4"
+  }
+],
+
+// ==================== Modern Family ====================
+
+// Temporada 1 (2009)
+"tt1442437:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937691.mp4"
+  }
+],
+"tt1442437:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937694.mp4"
+  }
+],
+"tt1442437:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937706.mp4"
+  }
+],
+"tt1442437:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937714.mp4"
+  }
+],
+"tt1442437:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937725.mp4"
+  }
+],
+"tt1442437:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937735.mp4"
+  }
+],
+"tt1442437:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937741.mp4"
+  }
+],
+"tt1442437:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937749.mp4"
+  }
+],
+"tt1442437:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937757.mp4"
+  }
+],
+"tt1442437:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937765.mp4"
+  }
+],
+"tt1442437:1:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937774.mp4"
+  }
+],
+"tt1442437:1:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937775.mp4"
+  }
+],
+"tt1442437:1:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937783.mp4"
+  }
+],
+"tt1442437:1:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937790.mp4"
+  }
+],
+"tt1442437:1:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937795.mp4"
+  }
+],
+"tt1442437:1:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937800.mp4"
+  }
+],
+"tt1442437:1:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937805.mp4"
+  }
+],
+"tt1442437:1:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937811.mp4"
+  }
+],
+"tt1442437:1:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937819.mp4"
+  }
+],
+"tt1442437:1:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937824.mp4"
+  }
+],
+"tt1442437:1:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937835.mp4"
+  }
+],
+"tt1442437:1:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937845.mp4"
+  }
+],
+"tt1442437:1:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937851.mp4"
+  }
+],
+"tt1442437:1:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2009)",
+      ep: "T01·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937858.mp4"
+  }
+],
+
+// Temporada 2 (2010)
+"tt1442437:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937864.mp4"
+  }
+],
+"tt1442437:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937873.mp4"
+  }
+],
+"tt1442437:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937880.mp4"
+  }
+],
+"tt1442437:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937887.mp4"
+  }
+],
+"tt1442437:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937894.mp4"
+  }
+],
+"tt1442437:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937904.mp4"
+  }
+],
+"tt1442437:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937915.mp4"
+  }
+],
+"tt1442437:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937923.mp4"
+  }
+],
+"tt1442437:2:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937928.mp4"
+  }
+],
+"tt1442437:2:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937937.mp4"
+  }
+],
+"tt1442437:2:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937950.mp4"
+  }
+],
+"tt1442437:2:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937967.mp4"
+  }
+],
+"tt1442437:2:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3937980.mp4"
+  }
+],
+"tt1442437:2:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938001.mp4"
+  }
+],
+"tt1442437:2:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938017.mp4"
+  }
+],
+"tt1442437:2:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938028.mp4"
+  }
+],
+"tt1442437:2:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938038.mp4"
+  }
+],
+"tt1442437:2:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938049.mp4"
+  }
+],
+"tt1442437:2:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938060.mp4"
+  }
+],
+"tt1442437:2:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938070.mp4"
+  }
+],
+"tt1442437:2:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938082.mp4"
+  }
+],
+"tt1442437:2:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938093.mp4"
+  }
+],
+"tt1442437:2:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938103.mp4"
+  }
+],
+"tt1442437:2:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2010)",
+      ep: "T02·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938111.mp4"
+  }
+],
+
+// Temporada 3 (2011)
+"tt1442437:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938119.mp4"
+  }
+],
+"tt1442437:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938127.mp4"
+  }
+],
+"tt1442437:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938132.mp4"
+  }
+],
+"tt1442437:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938133.mp4"
+  }
+],
+"tt1442437:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938147.mp4"
+  }
+],
+"tt1442437:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938155.mp4"
+  }
+],
+"tt1442437:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938167.mp4"
+  }
+],
+"tt1442437:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938175.mp4"
+  }
+],
+"tt1442437:3:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938177.mp4"
+  }
+],
+"tt1442437:3:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938183.mp4"
+  }
+],
+"tt1442437:3:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938205.mp4"
+  }
+],
+"tt1442437:3:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938216.mp4"
+  }
+],
+"tt1442437:3:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938226.mp4"
+  }
+],
+"tt1442437:3:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938233.mp4"
+  }
+],
+"tt1442437:3:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938241.mp4"
+  }
+],
+"tt1442437:3:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938248.mp4"
+  }
+],
+"tt1442437:3:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938254.mp4"
+  }
+],
+"tt1442437:3:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938262.mp4"
+  }
+],
+"tt1442437:3:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938266.mp4"
+  }
+],
+"tt1442437:3:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938274.mp4"
+  }
+],
+"tt1442437:3:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938280.mp4"
+  }
+],
+"tt1442437:3:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938285.mp4"
+  }
+],
+"tt1442437:3:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938291.mp4"
+  }
+],
+"tt1442437:3:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2011)",
+      ep: "T03·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938296.mp4"
+  }
+],
+
+// Temporada 4 (2012)
+"tt1442437:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938302.mp4"
+  }
+],
+"tt1442437:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938311.mp4"
+  }
+],
+"tt1442437:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938317.mp4"
+  }
+],
+"tt1442437:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938321.mp4"
+  }
+],
+"tt1442437:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938327.mp4"
+  }
+],
+"tt1442437:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938334.mp4"
+  }
+],
+"tt1442437:4:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938341.mp4"
+  }
+],
+"tt1442437:4:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938348.mp4"
+  }
+],
+"tt1442437:4:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938355.mp4"
+  }
+],
+"tt1442437:4:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938361.mp4"
+  }
+],
+"tt1442437:4:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938367.mp4"
+  }
+],
+"tt1442437:4:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938374.mp4"
+  }
+],
+"tt1442437:4:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938379.mp4"
+  }
+],
+"tt1442437:4:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938385.mp4"
+  }
+],
+"tt1442437:4:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938390.mp4"
+  }
+],
+"tt1442437:4:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938393.mp4"
+  }
+],
+"tt1442437:4:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938399.mp4"
+  }
+],
+"tt1442437:4:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938408.mp4"
+  }
+],
+"tt1442437:4:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938414.mp4"
+  }
+],
+"tt1442437:4:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938419.mp4"
+  }
+],
+"tt1442437:4:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938423.mp4"
+  }
+],
+"tt1442437:4:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938428.mp4"
+  }
+],
+"tt1442437:4:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938432.mp4"
+  }
+],
+"tt1442437:4:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2012)",
+      ep: "T04·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938437.mp4"
+  }
+],
+
+// Temporada 5 (2013)
+"tt1442437:5:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938441.mp4"
+  }
+],
+"tt1442437:5:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938445.mp4"
+  }
+],
+"tt1442437:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938449.mp4"
+  }
+],
+"tt1442437:5:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938453.mp4"
+  }
+],
+"tt1442437:5:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938455.mp4"
+  }
+],
+"tt1442437:5:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938459.mp4"
+  }
+],
+"tt1442437:5:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938465.mp4"
+  }
+],
+"tt1442437:5:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938468.mp4"
+  }
+],
+"tt1442437:5:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938476.mp4"
+  }
+],
+"tt1442437:5:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938484.mp4"
+  }
+],
+"tt1442437:5:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938489.mp4"
+  }
+],
+"tt1442437:5:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938502.mp4"
+  }
+],
+"tt1442437:5:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938510.mp4"
+  }
+],
+"tt1442437:5:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938513.mp4"
+  }
+],
+"tt1442437:5:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938517.mp4"
+  }
+],
+"tt1442437:5:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938522.mp4"
+  }
+],
+"tt1442437:5:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938526.mp4"
+  }
+],
+"tt1442437:5:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938530.mp4"
+  }
+],
+"tt1442437:5:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938535.mp4"
+  }
+],
+"tt1442437:5:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938544.mp4"
+  }
+],
+"tt1442437:5:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938545.mp4"
+  }
+],
+"tt1442437:5:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938552.mp4"
+  }
+],
+"tt1442437:5:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938557.mp4"
+  }
+],
+"tt1442437:5:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2013)",
+      ep: "T05·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938561.mp4"
+  }
+],
+
+// Temporada 6 (2014)
+"tt1442437:6:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938564.mp4"
+  }
+],
+"tt1442437:6:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938567.mp4"
+  }
+],
+"tt1442437:6:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938569.mp4"
+  }
+],
+"tt1442437:6:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938571.mp4"
+  }
+],
+"tt1442437:6:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938573.mp4"
+  }
+],
+"tt1442437:6:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938576.mp4"
+  }
+],
+"tt1442437:6:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938579.mp4"
+  }
+],
+"tt1442437:6:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938583.mp4"
+  }
+],
+"tt1442437:6:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938588.mp4"
+  }
+],
+"tt1442437:6:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938592.mp4"
+  }
+],
+"tt1442437:6:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938596.mp4"
+  }
+],
+"tt1442437:6:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938600.mp4"
+  }
+],
+"tt1442437:6:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938603.mp4"
+  }
+],
+"tt1442437:6:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938606.mp4"
+  }
+],
+"tt1442437:6:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938609.mp4"
+  }
+],
+"tt1442437:6:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938612.mp4"
+  }
+],
+"tt1442437:6:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938614.mp4"
+  }
+],
+"tt1442437:6:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938616.mp4"
+  }
+],
+"tt1442437:6:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938618.mp4"
+  }
+],
+"tt1442437:6:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938621.mp4"
+  }
+],
+"tt1442437:6:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938623.mp4"
+  }
+],
+"tt1442437:6:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938625.mp4"
+  }
+],
+"tt1442437:6:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938627.mp4"
+  }
+],
+"tt1442437:6:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2014)",
+      ep: "T06·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938630.mp4"
+  }
+],
+
+// Temporada 7 (2015)
+"tt1442437:7:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938632.mp4"
+  }
+],
+"tt1442437:7:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938634.mp4"
+  }
+],
+"tt1442437:7:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938637.mp4"
+  }
+],
+"tt1442437:7:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938638.mp4"
+  }
+],
+"tt1442437:7:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938640.mp4"
+  }
+],
+"tt1442437:7:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938642.mp4"
+  }
+],
+"tt1442437:7:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938644.mp4"
+  }
+],
+"tt1442437:7:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938646.mp4"
+  }
+],
+"tt1442437:7:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938647.mp4"
+  }
+],
+"tt1442437:7:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938648.mp4"
+  }
+],
+"tt1442437:7:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938649.mp4"
+  }
+],
+"tt1442437:7:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938654.mp4"
+  }
+],
+"tt1442437:7:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938657.mp4"
+  }
+],
+"tt1442437:7:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938659.mp4"
+  }
+],
+"tt1442437:7:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938665.mp4"
+  }
+],
+"tt1442437:7:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938669.mp4"
+  }
+],
+"tt1442437:7:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938679.mp4"
+  }
+],
+"tt1442437:7:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938689.mp4"
+  }
+],
+"tt1442437:7:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938695.mp4"
+  }
+],
+"tt1442437:7:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938706.mp4"
+  }
+],
+"tt1442437:7:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938711.mp4"
+  }
+],
+"tt1442437:7:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938714.mp4"
+  }
+],
+"tt1442437:7:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "SEU_LINK_AQUI"
+  }
+],
+"tt1442437:7:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2015)",
+      ep: "T07·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "SEU_LINK_AQUI"
+  }
+],
+
+// Temporada 8 (2016)
+"tt1442437:8:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938718.mp4"
+  }
+],
+"tt1442437:8:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938726.mp4"
+  }
+],
+"tt1442437:8:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938732.mp4"
+  }
+],
+"tt1442437:8:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938734.mp4"
+  }
+],
+"tt1442437:8:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938743.mp4"
+  }
+],
+"tt1442437:8:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938751.mp4"
+  }
+],
+"tt1442437:8:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938764.mp4"
+  }
+],
+"tt1442437:8:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938772.mp4"
+  }
+],
+"tt1442437:8:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938775.mp4"
+  }
+],
+"tt1442437:8:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938783.mp4"
+  }
+],
+"tt1442437:8:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938797.mp4"
+  }
+],
+"tt1442437:8:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938806.mp4"
+  }
+],
+"tt1442437:8:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938821.mp4"
+  }
+],
+"tt1442437:8:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938834.mp4"
+  }
+],
+"tt1442437:8:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938846.mp4"
+  }
+],
+"tt1442437:8:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938852.mp4"
+  }
+],
+"tt1442437:8:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938858.mp4"
+  }
+],
+"tt1442437:8:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938864.mp4"
+  }
+],
+"tt1442437:8:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938868.mp4"
+  }
+],
+"tt1442437:8:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938874.mp4"
+  }
+],
+"tt1442437:8:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938878.mp4"
+  }
+],
+"tt1442437:8:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938883.mp4"
+  }
+],
+"tt1442437:8:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "SEU_LINK_AQUI"
+  }
+],
+"tt1442437:8:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2016)",
+      ep: "T08·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "SEU_LINK_AQUI"
+  }
+],
+
+// Temporada 9 (2017)
+"tt1442437:9:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938888.mp4"
+  }
+],
+"tt1442437:9:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938890.mp4"
+  }
+],
+"tt1442437:9:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938896.mp4"
+  }
+],
+"tt1442437:9:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938905.mp4"
+  }
+],
+"tt1442437:9:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938909.mp4"
+  }
+],
+"tt1442437:9:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938916.mp4"
+  }
+],
+"tt1442437:9:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938921.mp4"
+  }
+],
+"tt1442437:9:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938926.mp4"
+  }
+],
+"tt1442437:9:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938934.mp4"
+  }
+],
+"tt1442437:9:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938939.mp4"
+  }
+],
+"tt1442437:9:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938943.mp4"
+  }
+],
+"tt1442437:9:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938947.mp4"
+  }
+],
+"tt1442437:9:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938951.mp4"
+  }
+],
+"tt1442437:9:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938955.mp4"
+  }
+],
+"tt1442437:9:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938959.mp4"
+  }
+],
+"tt1442437:9:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938963.mp4"
+  }
+],
+"tt1442437:9:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938969.mp4"
+  }
+],
+"tt1442437:9:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938975.mp4"
+  }
+],
+"tt1442437:9:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938979.mp4"
+  }
+],
+"tt1442437:9:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938983.mp4"
+  }
+],
+"tt1442437:9:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938987.mp4"
+  }
+],
+"tt1442437:9:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2017)",
+      ep: "T09·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938989.mp4"
+  }
+],
+
+// Temporada 10 (2018)
+"tt1442437:10:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938991.mp4"
+  }
+],
+"tt1442437:10:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938993.mp4"
+  }
+],
+"tt1442437:10:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3938999.mp4"
+  }
+],
+"tt1442437:10:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939004.mp4"
+  }
+],
+"tt1442437:10:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939012.mp4"
+  }
+],
+"tt1442437:10:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939016.mp4"
+  }
+],
+"tt1442437:10:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939019.mp4"
+  }
+],
+"tt1442437:10:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939025.mp4"
+  }
+],
+"tt1442437:10:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939030.mp4"
+  }
+],
+"tt1442437:10:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939038.mp4"
+  }
+],
+"tt1442437:10:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939045.mp4"
+  }
+],
+"tt1442437:10:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939047.mp4"
+  }
+],
+"tt1442437:10:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939053.mp4"
+  }
+],
+"tt1442437:10:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939064.mp4"
+  }
+],
+"tt1442437:10:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939068.mp4"
+  }
+],
+"tt1442437:10:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939075.mp4"
+  }
+],
+"tt1442437:10:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939078.mp4"
+  }
+],
+"tt1442437:10:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939083.mp4"
+  }
+],
+"tt1442437:10:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939093.mp4"
+  }
+],
+"tt1442437:10:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939099.mp4"
+  }
+],
+"tt1442437:10:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939102.mp4"
+  }
+],
+"tt1442437:10:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2018)",
+      ep: "T10·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939106.mp4"
+  }
+],
+
+// Temporada 11 (2019)
+"tt1442437:11:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939115.mp4"
+  }
+],
+"tt1442437:11:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939119.mp4"
+  }
+],
+"tt1442437:11:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939125.mp4"
+  }
+],
+"tt1442437:11:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939129.mp4"
+  }
+],
+"tt1442437:11:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939133.mp4"
+  }
+],
+"tt1442437:11:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939137.mp4"
+  }
+],
+"tt1442437:11:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939140.mp4"
+  }
+],
+"tt1442437:11:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939143.mp4"
+  }
+],
+"tt1442437:11:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939146.mp4"
+  }
+],
+"tt1442437:11:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939150.mp4"
+  }
+],
+"tt1442437:11:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939154.mp4"
+  }
+],
+"tt1442437:11:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939157.mp4"
+  }
+],
+"tt1442437:11:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939161.mp4"
+  }
+],
+"tt1442437:11:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939165.mp4"
+  }
+],
+"tt1442437:11:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939167.mp4"
+  }
+],
+"tt1442437:11:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939171.mp4"
+  }
+],
+"tt1442437:11:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3939176.mp4"
+  }
+],
+"tt1442437:11:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Modern Family (2019)",
+      ep: "T11·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "SEU_LINK_AQUI"
+  }
+],
+
 // Dexter: Sangue Novo (Série)
 
 // ==================== TEMPORADA 1 (2021) ====================
