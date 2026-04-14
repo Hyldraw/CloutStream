@@ -2,6 +2,776 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// ==================== Power ====================
+
+// Temporada 1 (2014)
+"tt3281796:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2014)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905580.mp4"
+  }
+],
+"tt3281796:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2014)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905584.mp4"
+  }
+],
+"tt3281796:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2014)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905586.mp4"
+  }
+],
+"tt3281796:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2014)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905590.mp4"
+  }
+],
+"tt3281796:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2014)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905599.mp4"
+  }
+],
+"tt3281796:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2014)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905608.mp4"
+  }
+],
+"tt3281796:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2014)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905618.mp4"
+  }
+],
+"tt3281796:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2014)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905626.mp4"
+  }
+],
+
+// Temporada 2 (2015)
+"tt3281796:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2015)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905630.mp4"
+  }
+],
+"tt3281796:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2015)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905641.mp4"
+  }
+],
+"tt3281796:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2015)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905650.mp4"
+  }
+],
+"tt3281796:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2015)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905651.mp4"
+  }
+],
+"tt3281796:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2015)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905655.mp4"
+  }
+],
+"tt3281796:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2015)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905659.mp4"
+  }
+],
+"tt3281796:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2015)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905669.mp4"
+  }
+],
+"tt3281796:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2015)",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905672.mp4"
+  }
+],
+"tt3281796:2:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2015)",
+      ep: "T02·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905675.mp4"
+  }
+],
+"tt3281796:2:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2015)",
+      ep: "T02·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905681.mp4"
+  }
+],
+
+// Temporada 3 (2016)
+"tt3281796:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2016)",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905687.mp4"
+  }
+],
+"tt3281796:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2016)",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905690.mp4"
+  }
+],
+"tt3281796:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2016)",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905694.mp4"
+  }
+],
+"tt3281796:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2016)",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905703.mp4"
+  }
+],
+"tt3281796:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2016)",
+      ep: "T03·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905712.mp4"
+  }
+],
+"tt3281796:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2016)",
+      ep: "T03·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905716.mp4"
+  }
+],
+"tt3281796:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2016)",
+      ep: "T03·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905721.mp4"
+  }
+],
+"tt3281796:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2016)",
+      ep: "T03·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905726.mp4"
+  }
+],
+"tt3281796:3:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2016)",
+      ep: "T03·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905730.mp4"
+  }
+],
+"tt3281796:3:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2016)",
+      ep: "T03·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905734.mp4"
+  }
+],
+
+// Temporada 4 (2017)
+"tt3281796:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2017)",
+      ep: "T04·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905739.mp4"
+  }
+],
+"tt3281796:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2017)",
+      ep: "T04·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905743.mp4"
+  }
+],
+"tt3281796:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2017)",
+      ep: "T04·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905746.mp4"
+  }
+],
+"tt3281796:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2017)",
+      ep: "T04·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905749.mp4"
+  }
+],
+"tt3281796:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2017)",
+      ep: "T04·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905753.mp4"
+  }
+],
+"tt3281796:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2017)",
+      ep: "T04·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905756.mp4"
+  }
+],
+"tt3281796:4:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2017)",
+      ep: "T04·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905759.mp4"
+  }
+],
+"tt3281796:4:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2017)",
+      ep: "T04·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905762.mp4"
+  }
+],
+"tt3281796:4:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2017)",
+      ep: "T04·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905767.mp4"
+  }
+],
+"tt3281796:4:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2017)",
+      ep: "T04·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905769.mp4"
+  }
+],
+
+// Temporada 5 (2018)
+"tt3281796:5:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2018)",
+      ep: "T05·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905772.mp4"
+  }
+],
+"tt3281796:5:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2018)",
+      ep: "T05·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905776.mp4"
+  }
+],
+"tt3281796:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2018)",
+      ep: "T05·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905779.mp4"
+  }
+],
+"tt3281796:5:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2018)",
+      ep: "T05·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905782.mp4"
+  }
+],
+"tt3281796:5:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2018)",
+      ep: "T05·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905786.mp4"
+  }
+],
+"tt3281796:5:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2018)",
+      ep: "T05·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905789.mp4"
+  }
+],
+"tt3281796:5:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2018)",
+      ep: "T05·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905792.mp4"
+  }
+],
+"tt3281796:5:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2018)",
+      ep: "T05·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905794.mp4"
+  }
+],
+"tt3281796:5:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2018)",
+      ep: "T05·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905797.mp4"
+  }
+],
+"tt3281796:5:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2018)",
+      ep: "T05·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905800.mp4"
+  }
+],
+
+// Temporada 6 (2019)
+"tt3281796:6:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905803.mp4"
+  }
+],
+"tt3281796:6:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905806.mp4"
+  }
+],
+"tt3281796:6:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905809.mp4"
+  }
+],
+"tt3281796:6:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905812.mp4"
+  }
+],
+"tt3281796:6:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905815.mp4"
+  }
+],
+"tt3281796:6:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905818.mp4"
+  }
+],
+"tt3281796:6:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905821.mp4"
+  }
+],
+"tt3281796:6:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905824.mp4"
+  }
+],
+"tt3281796:6:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905826.mp4"
+  }
+],
+"tt3281796:6:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905828.mp4"
+  }
+],
+"tt3281796:6:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905831.mp4"
+  }
+],
+"tt3281796:6:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905834.mp4"
+  }
+],
+"tt3281796:6:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905836.mp4"
+  }
+],
+"tt3281796:6:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905838.mp4"
+  }
+],
+"tt3281796:6:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Power (2019)",
+      ep: "T06·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3905840.mp4"
+  }
+],
+  
 // Cães de Caça (Série)
 
 // ==================== TEMPORADA 1 (2025) ====================
