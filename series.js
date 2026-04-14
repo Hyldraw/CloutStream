@@ -2,6 +2,405 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// Dexter: Sangue Novo (Série)
+
+// ==================== TEMPORADA 1 (2021) ====================
+"tt14164730:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Sangue Novo (2021)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3973638.mp4"
+  }
+],
+
+"tt14164730:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Sangue Novo (2021)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3973645.mp4"
+  }
+],
+
+"tt14164730:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Sangue Novo (2021)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3973650.mp4"
+  }
+],
+
+"tt14164730:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Sangue Novo (2021)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3973660.mp4"
+  }
+],
+
+"tt14164730:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Sangue Novo (2021)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3973666.mp4"
+  }
+],
+
+"tt14164730:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Sangue Novo (2021)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3973669.mp4"
+  }
+],
+
+"tt14164730:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Sangue Novo (2021)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3973673.mp4"
+  }
+],
+
+"tt14164730:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Sangue Novo (2021)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3973681.mp4"
+  }
+],
+
+"tt14164730:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Sangue Novo (2021)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3973685.mp4"
+  }
+],
+
+"tt14164730:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Sangue Novo (2021)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3973694.mp4"
+  }
+],
+
+// Dexter: Ressurreição (Série)
+
+// ==================== TEMPORADA 1 (2025) ====================
+"tt33043892:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Ressurreição (2025)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114320.mp4"
+  }
+],
+
+"tt33043892:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Ressurreição (2025)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114326.mp4"
+  }
+],
+
+"tt33043892:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Ressurreição (2025)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114345.mp4"
+  }
+],
+
+"tt33043892:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Ressurreição (2025)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114356.mp4"
+  }
+],
+
+"tt33043892:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Ressurreição (2025)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114365.mp4"
+  }
+],
+
+"tt33043892:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Ressurreição (2025)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114369.mp4"
+  }
+],
+
+"tt33043892:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Ressurreição (2025)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114374.mp4"
+  }
+],
+
+"tt33043892:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Ressurreição (2025)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114383.mp4"
+  }
+],
+
+"tt33043892:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Ressurreição (2025)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114390.mp4"
+  }
+],
+
+"tt33043892:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Ressurreição (2025)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4114399.mp4"
+  }
+],
+
+// Dexter: Pecado Original (Série)
+
+// ==================== TEMPORADA 1 (2024) ====================
+"tt32252772:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Pecado Original (2024)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4089840.mp4"
+  }
+],
+
+"tt32252772:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Pecado Original (2024)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4089843.mp4"
+  }
+],
+
+"tt32252772:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Pecado Original (2024)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4089848.mp4"
+  }
+],
+
+"tt32252772:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Pecado Original (2024)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4089853.mp4"
+  }
+],
+
+"tt32252772:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Pecado Original (2024)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4089860.mp4"
+  }
+],
+
+"tt32252772:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Pecado Original (2024)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4089869.mp4"
+  }
+],
+
+"tt32252772:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Pecado Original (2024)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4089870.mp4"
+  }
+],
+
+"tt32252772:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Pecado Original (2024)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4089873.mp4"
+  }
+],
+
+"tt32252772:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Pecado Original (2024)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4089874.mp4"
+  }
+],
+
+"tt32252772:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Dexter: Pecado Original (2024)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4089877.mp4"
+  }
+],
+
 // ==================== Power ====================
 
 // Temporada 1 (2014)
