@@ -2,6 +2,100 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// Marshals: Uma História de Yellowstone (Série)
+
+// ==================== TEMPORADA 1 (2026) ====================
+"tt36849871:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Marshals: Uma História de Yellowstone (2026)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4136534.mp4"
+  }
+],
+
+"tt36849871:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Marshals: Uma História de Yellowstone (2026)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4137633.mp4"
+  }
+],
+
+"tt36849871:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Marshals: Uma História de Yellowstone (2026)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4156088.mp4"
+  }
+],
+
+"tt36849871:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Marshals: Uma História de Yellowstone (2026)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4156090.mp4"
+  }
+],
+
+"tt36849871:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Marshals: Uma História de Yellowstone (2026)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4156095.mp4"
+  }
+],
+
+"tt36849871:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Marshals: Uma História de Yellowstone (2026)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4157339.mp4"
+  }
+],
+
+"tt36849871:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Marshals: Uma História de Yellowstone (2026)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4158174.mp4"
+  }
+],
+
 // ==================== Monk ====================
 
 // Temporada 1 (2002)
