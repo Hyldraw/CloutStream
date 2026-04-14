@@ -2,6 +2,1211 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// ==================== Snowfall ====================
+
+// Temporada 1 (2017)
+"tt6439752:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2017)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942046.mp4"
+  }
+],
+"tt6439752:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2017)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942053.mp4"
+  }
+],
+"tt6439752:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2017)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942056.mp4"
+  }
+],
+"tt6439752:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2017)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942064.mp4"
+  }
+],
+"tt6439752:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2017)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942069.mp4"
+  }
+],
+"tt6439752:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2017)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942074.mp4"
+  }
+],
+"tt6439752:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2017)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942081.mp4"
+  }
+],
+"tt6439752:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2017)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942084.mp4"
+  }
+],
+"tt6439752:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2017)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942086.mp4"
+  }
+],
+"tt6439752:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2017)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942092.mp4"
+  }
+],
+
+// Temporada 2 (2018)
+"tt6439752:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2018)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942101.mp4"
+  }
+],
+"tt6439752:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2018)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942104.mp4"
+  }
+],
+"tt6439752:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2018)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942110.mp4"
+  }
+],
+"tt6439752:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2018)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942117.mp4"
+  }
+],
+"tt6439752:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2018)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942128.mp4"
+  }
+],
+"tt6439752:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2018)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942134.mp4"
+  }
+],
+"tt6439752:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2018)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942140.mp4"
+  }
+],
+"tt6439752:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2018)",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942145.mp4"
+  }
+],
+"tt6439752:2:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2018)",
+      ep: "T02·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942151.mp4"
+  }
+],
+"tt6439752:2:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2018)",
+      ep: "T02·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942155.mp4"
+  }
+],
+
+// Temporada 3 (2019)
+"tt6439752:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2019)",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942159.mp4"
+  }
+],
+"tt6439752:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2019)",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942165.mp4"
+  }
+],
+"tt6439752:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2019)",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942169.mp4"
+  }
+],
+"tt6439752:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2019)",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942173.mp4"
+  }
+],
+"tt6439752:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2019)",
+      ep: "T03·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942177.mp4"
+  }
+],
+"tt6439752:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2019)",
+      ep: "T03·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942181.mp4"
+  }
+],
+"tt6439752:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2019)",
+      ep: "T03·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942185.mp4"
+  }
+],
+"tt6439752:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2019)",
+      ep: "T03·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942188.mp4"
+  }
+],
+"tt6439752:3:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2019)",
+      ep: "T03·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942192.mp4"
+  }
+],
+"tt6439752:3:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2019)",
+      ep: "T03·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942197.mp4"
+  }
+],
+
+// Temporada 4 (2021)
+"tt6439752:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2021)",
+      ep: "T04·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942201.mp4"
+  }
+],
+"tt6439752:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2021)",
+      ep: "T04·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942205.mp4"
+  }
+],
+"tt6439752:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2021)",
+      ep: "T04·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942209.mp4"
+  }
+],
+"tt6439752:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2021)",
+      ep: "T04·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942212.mp4"
+  }
+],
+"tt6439752:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2021)",
+      ep: "T04·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942216.mp4"
+  }
+],
+"tt6439752:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2021)",
+      ep: "T04·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942220.mp4"
+  }
+],
+"tt6439752:4:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2021)",
+      ep: "T04·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942224.mp4"
+  }
+],
+"tt6439752:4:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2021)",
+      ep: "T04·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942228.mp4"
+  }
+],
+"tt6439752:4:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2021)",
+      ep: "T04·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942229.mp4"
+  }
+],
+"tt6439752:4:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2021)",
+      ep: "T04·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942232.mp4"
+  }
+],
+
+// Temporada 5 (2022)
+"tt6439752:5:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2022)",
+      ep: "T05·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942234.mp4"
+  }
+],
+"tt6439752:5:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2022)",
+      ep: "T05·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942235.mp4"
+  }
+],
+"tt6439752:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2022)",
+      ep: "T05·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942240.mp4"
+  }
+],
+"tt6439752:5:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2022)",
+      ep: "T05·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942243.mp4"
+  }
+],
+"tt6439752:5:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2022)",
+      ep: "T05·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942246.mp4"
+  }
+],
+"tt6439752:5:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2022)",
+      ep: "T05·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942251.mp4"
+  }
+],
+"tt6439752:5:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2022)",
+      ep: "T05·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942254.mp4"
+  }
+],
+"tt6439752:5:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2022)",
+      ep: "T05·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942261.mp4"
+  }
+],
+"tt6439752:5:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2022)",
+      ep: "T05·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942266.mp4"
+  }
+],
+"tt6439752:5:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2022)",
+      ep: "T05·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942274.mp4"
+  }
+],
+
+// Temporada 6 (2023)
+"tt6439752:6:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2023)",
+      ep: "T06·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942279.mp4"
+  }
+],
+"tt6439752:6:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2023)",
+      ep: "T06·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942283.mp4"
+  }
+],
+"tt6439752:6:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2023)",
+      ep: "T06·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942288.mp4"
+  }
+],
+"tt6439752:6:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2023)",
+      ep: "T06·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942291.mp4"
+  }
+],
+"tt6439752:6:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2023)",
+      ep: "T06·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942301.mp4"
+  }
+],
+"tt6439752:6:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2023)",
+      ep: "T06·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942308.mp4"
+  }
+],
+"tt6439752:6:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2023)",
+      ep: "T06·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942313.mp4"
+  }
+],
+"tt6439752:6:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2023)",
+      ep: "T06·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942323.mp4"
+  }
+],
+"tt6439752:6:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2023)",
+      ep: "T06·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942325.mp4"
+  }
+],
+"tt6439752:6:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Snowfall (2023)",
+      ep: "T06·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3942328.mp4"
+  }
+],
+
+// ==================== Top Boy ====================
+
+// Temporada 1 (2011)
+"tt1830379:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2011)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4035964.mp4"
+  }
+],
+"tt1830379:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2011)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4035971.mp4"
+  }
+],
+"tt1830379:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2011)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4035981.mp4"
+  }
+],
+"tt1830379:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2011)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4035988.mp4"
+  }
+],
+
+// Temporada 2 (2013)
+"tt1830379:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2013)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4035997.mp4"
+  }
+],
+"tt1830379:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2013)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036005.mp4"
+  }
+],
+"tt1830379:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2013)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036013.mp4"
+  }
+],
+"tt1830379:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2013)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036022.mp4"
+  }
+],
+
+// Temporada 3 (2019)
+"tt1830379:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2019)",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036031.mp4"
+  }
+],
+"tt1830379:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2019)",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036040.mp4"
+  }
+],
+"tt1830379:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2019)",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036051.mp4"
+  }
+],
+"tt1830379:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2019)",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036058.mp4"
+  }
+],
+"tt1830379:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2019)",
+      ep: "T03·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036067.mp4"
+  }
+],
+"tt1830379:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2019)",
+      ep: "T03·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036077.mp4"
+  }
+],
+"tt1830379:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2019)",
+      ep: "T03·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036086.mp4"
+  }
+],
+"tt1830379:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2019)",
+      ep: "T03·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036096.mp4"
+  }
+],
+"tt1830379:3:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2019)",
+      ep: "T03·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036104.mp4"
+  }
+],
+"tt1830379:3:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2019)",
+      ep: "T03·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036112.mp4"
+  }
+],
+
+// Temporada 4 (2022)
+"tt1830379:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2022)",
+      ep: "T04·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036121.mp4"
+  }
+],
+"tt1830379:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2022)",
+      ep: "T04·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036130.mp4"
+  }
+],
+"tt1830379:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2022)",
+      ep: "T04·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036137.mp4"
+  }
+],
+"tt1830379:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2022)",
+      ep: "T04·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036147.mp4"
+  }
+],
+"tt1830379:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2022)",
+      ep: "T04·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036155.mp4"
+  }
+],
+"tt1830379:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2022)",
+      ep: "T04·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036163.mp4"
+  }
+],
+"tt1830379:4:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2022)",
+      ep: "T04·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036171.mp4"
+  }
+],
+"tt1830379:4:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2022)",
+      ep: "T04·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036174.mp4"
+  }
+],
+
+// Temporada 5 (2023)
+"tt1830379:5:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2023)",
+      ep: "T05·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036181.mp4"
+  }
+],
+"tt1830379:5:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2023)",
+      ep: "T05·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036187.mp4"
+  }
+],
+"tt1830379:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2023)",
+      ep: "T05·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036191.mp4"
+  }
+],
+"tt1830379:5:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2023)",
+      ep: "T05·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036201.mp4"
+  }
+],
+"tt1830379:5:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2023)",
+      ep: "T05·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036206.mp4"
+  }
+],
+"tt1830379:5:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Top Boy (2023)",
+      ep: "T05·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4036213.mp4"
+  }
+],
+// ==================== Conflict ====================
+
+// Temporada 1 (2024)
+"tt27579939:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Conflict (2024)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Legendado"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095944.mp4"
+  }
+],
+"tt27579939:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Conflict (2024)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Legendado"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095952.mp4"
+  }
+],
+"tt27579939:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Conflict (2024)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Legendado"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095958.mp4"
+  }
+],
+"tt27579939:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Conflict (2024)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Legendado"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095962.mp4"
+  }
+],
+"tt27579939:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Conflict (2024)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Legendado"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095967.mp4"
+  }
+],
+"tt27579939:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Conflict (2024)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Legendado"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095972.mp4"
+  }
+],
+  
 // ==================== The Boys ====================
 
 // Temporada 1 (2019)
