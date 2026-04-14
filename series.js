@@ -2047,66 +2047,7 @@ const series = {
     url: "http://mainxs.site:80/series/619126419/568627784/4156854.mp4"
   }
 ],
-"tt6526624:5:8": [
-  {
-    name: "💫 CloutStream 1080p",
-    title: formatTitle({
-      name: "Pesadelo na Cozinha (2024)",
-      ep: "T05·E08",
-      service: "Direto HTTP",
-      flags: ["Português"],
-    }),
-    url: "SEU_LINK_AQUI"
-  }
-],
-"tt6526624:5:9": [
-  {
-    name: "💫 CloutStream 1080p",
-    title: formatTitle({
-      name: "Pesadelo na Cozinha (2024)",
-      ep: "T05·E09",
-      service: "Direto HTTP",
-      flags: ["Português"],
-    }),
-    url: "SEU_LINK_AQUI"
-  }
-],
-"tt6526624:5:10": [
-  {
-    name: "💫 CloutStream 1080p",
-    title: formatTitle({
-      name: "Pesadelo na Cozinha (2024)",
-      ep: "T05·E10",
-      service: "Direto HTTP",
-      flags: ["Português"],
-    }),
-    url: "SEU_LINK_AQUI"
-  }
-],
-"tt6526624:5:11": [
-  {
-    name: "💫 CloutStream 1080p",
-    title: formatTitle({
-      name: "Pesadelo na Cozinha (2024)",
-      ep: "T05·E11",
-      service: "Direto HTTP",
-      flags: ["Português"],
-    }),
-    url: "SEU_LINK_AQUI"
-  }
-],
-"tt6526624:5:12": [
-  {
-    name: "💫 CloutStream 1080p",
-    title: formatTitle({
-      name: "Pesadelo na Cozinha (2024)",
-      ep: "T05·E12",
-      service: "Direto HTTP",
-      flags: ["Português"],
-    }),
-    url: "SEU_LINK_AQUI"
-  }
-],
+
 
   
 // ==================== Snowfall ====================
