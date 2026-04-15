@@ -2,6 +2,139 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// Treta (Série)
+
+// ==================== TEMPORADA 1 (2023) ====================
+"tt14403178:1:1": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Treta (2023)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4015296.mp4"
+  }
+],
+
+"tt14403178:1:2": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Treta (2023)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4015297.mp4"
+  }
+],
+
+"tt14403178:1:3": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Treta (2023)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4015298.mp4"
+  }
+],
+
+"tt14403178:1:4": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Treta (2023)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4015299.mp4"
+  }
+],
+
+"tt14403178:1:5": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Treta (2023)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4015300.mp4"
+  }
+],
+
+"tt14403178:1:6": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Treta (2023)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4015301.mp4"
+  }
+],
+
+"tt14403178:1:7": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Treta (2023)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4015302.mp4"
+  }
+],
+
+"tt14403178:1:8": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Treta (2023)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4015303.mp4"
+  }
+],
+
+"tt14403178:1:9": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Treta (2023)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4015304.mp4"
+  }
+],
+
+"tt14403178:1:10": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Treta (2023)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4015305.mp4"
+  }
+],
+
 // ==================== Banshee ====================
 
 // Temporada 1 (2013)
