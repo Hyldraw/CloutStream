@@ -2,6 +2,49 @@
 const formatTitle = require("./formatTitle");
 
 const movies = {
+// Bruce, o Todo-Poderoso
+
+"tt0315327": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Bruce, o Todo-Poderoso (2000)",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/movie/619126419/568627784/4141550.mp4"
+  }
+],
+
+// O Mentiroso
+
+"tt0119528": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "O Mentiroso (1997)",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/A7lSfx1OgM1TfiDC4UwzkkM_nDb1smggHUFWLeKy0zXC2-W9zbi9To1xOA13eXIx"
+  }
+],
+
+// Ela, Eu e o Outro
+
+"tt0183505": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Ela, Eu e o Outro (2015)",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/A7lSfx1OgM1TfiDC4Uwzkrte7EqtbYh5hab4A4rQ0h2uq7srreSaS3ykMBCIQgSm"
+  }
+],
+
+
 // 2015
 // Hardcore: Missão Extrema
 "tt3072482": [
