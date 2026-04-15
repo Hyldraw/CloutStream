@@ -2,6 +2,47 @@
 const formatTitle = require("./formatTitle");
 
 const movies = {
+// Diário de um Banana (Filmes)
+
+// ==================== Diário de um Banana (2010) ====================
+"tt1196141": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Diário de um Banana (2010)",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/A7lSfx1OgM1TfiDC4Uwzks1b0A3lRe4MuVC8H3EPHxoYzNiRUmn8FJ3pCneHN228"
+  }
+],
+
+// ==================== Diário de um Banana 2: Rodrick é o Cara (2011) ====================
+"tt1650043": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Diário de um Banana 2: Rodrick é o Cara (2011)",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/A7lSfx1OgM1TfiDC4Uwzks1b0A3lRe4MuVC8H3EPHxrxl38eR8YMeIWem2DMHG0B"
+  }
+],
+
+// ==================== Diário de um Banana 3: Dias de Cão (2012) ====================
+"tt2023453": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Diário de um Banana 3: Dias de Cão (2012)",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/A7lSfx1OgM1TfiDC4Uwzks1b0A3lRe4MuVC8H3EPHxocdYLm3pReZH9H-ktopxBC"
+  }
+],
+
      // 2026
         // Peaky Blinders: O Homem Imortal
         "tt15574124": [
