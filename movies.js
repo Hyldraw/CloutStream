@@ -2,6 +2,20 @@
 const formatTitle = require("./formatTitle");
 
 const movies = {
+// 2015
+// Hardcore: Missão Extrema
+"tt3072482": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Hardcore: Missão Extrema (2015)",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/movie/619126419/568627784/4141480.mp4"
+  }
+],
+
 // Diário de um Banana (Filmes)
 
 // ==================== Diário de um Banana (2010) ====================
