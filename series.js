@@ -2,6 +2,401 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// ==================== Invencível (tt6741278) ====================
+
+// Temporada 1 (2021)
+"tt6741278:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2021)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFQuDFefcVZxbV6m9LBP8Mn"
+  }
+],
+"tt6741278:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2021)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yE-ZTdxZw0epoY4vt9QVz1p"
+  }
+],
+"tt6741278:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2021)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yF69QygqQGoGM0QvkbhuAsN"
+  }
+],
+"tt6741278:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2021)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yHYeOTBX9GOMZ4GZMWuNcNP"
+  }
+],
+"tt6741278:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2021)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yHJoNyxAWoidp2ekGS-I_qk"
+  }
+],
+"tt6741278:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2021)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yGA5iqtwdojH8YAzf5uu81c"
+  }
+],
+"tt6741278:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2021)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yH-PApcoSI-AIHAVIZrd8Zb"
+  }
+],
+"tt6741278:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2021)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yHIzuPZqD2s3MSSvBMOQqLM"
+  }
+],
+
+// Temporada 2 (2023)
+"tt6741278:2:0": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2023)",
+      ep: "T02·E00",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yEe44BRXATHARezpM7eDwEJ"
+  }
+],
+"tt6741278:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2023)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yGEhUtK50uefzU36X92X2_m"
+  }
+],
+"tt6741278:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2023)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yHzoDnIaBICx99kkh9haAYa"
+  }
+],
+"tt6741278:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2023)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yHe18n9qcVO4LiCpuzg_GZC"
+  }
+],
+"tt6741278:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2023)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yHXFdEPUkUEebF--R5BY6iL"
+  }
+],
+"tt6741278:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2023)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFN2_uJ5Kw1uvLANDcNre1L"
+  }
+],
+"tt6741278:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2023)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFPqywp49KQLnfa959T8hoE"
+  }
+],
+"tt6741278:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2023)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yHxQTrJ6O8w9-CHhTm4V3uc"
+  }
+],
+"tt6741278:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2023)",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yEdXOQ223qozjLYeS9fqfEh"
+  }
+],
+"tt6741278:2:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2023)",
+      ep: "T02·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3945673.mp4"
+  }
+],
+
+// Temporada 3 (2024)
+"tt6741278:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2024)",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yHdapu3vR9SeOii-mhiUriB"
+  }
+],
+"tt6741278:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2024)",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yHjaj9hfYxNLbIwYP9SVmbQ"
+  }
+],
+"tt6741278:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2024)",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yEOudqE1Ljfi0qCG2UrXuJA"
+  }
+],
+"tt6741278:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2024)",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yF-c5vSS_zsQnW9gBkzl6-F"
+  }
+],
+"tt6741278:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2024)",
+      ep: "T03·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFTjoChSgawowdcNC6HD3QQ"
+  }
+],
+"tt6741278:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2024)",
+      ep: "T03·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yFSuLv2bkMkRVqQe6mIxqaB"
+  }
+],
+"tt6741278:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2024)",
+      ep: "T03·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yGa2b2GP8BU5VDj0D3UDdXR"
+  }
+],
+"tt6741278:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2024)",
+      ep: "T03·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z7-mvZb-3iriE3TfyyLo2yHz0YiKrr37j5aCgP5N-Xd6"
+  }
+],
+
+// Temporada 4 (2025)
+"tt6741278:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2025)",
+      ep: "T04·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4Ndco6uGGSarHdUq00HxZ8e"
+  }
+],
+"tt6741278:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2025)",
+      ep: "T04·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4Nk6PPS8AEY6f2yCOFgXtjd"
+  }
+],
+"tt6741278:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2025)",
+      ep: "T04·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4PHZuyH-lZxD6iRvYOZ_CPE"
+  }
+],
+"tt6741278:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2025)",
+      ep: "T04·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4NxnJ9_AVVGL-sxJurahssL"
+  }
+],
+"tt6741278:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2025)",
+      ep: "T04·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4Oa8TakcZMdceQEwC_86jMd"
+  }
+],
+"tt6741278:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Invencível (2025)",
+      ep: "T04·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4ORxJrDCQYk8wruja-4E3KM"
+  }
+],
+
+  
 // ==================== CSI: Investigação Criminal ====================
 
 // Temporada 1
