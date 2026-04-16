@@ -2,6 +2,335 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// Scooby-Doo - Cadê você? (Série)
+
+// ==================== TEMPORADA 1 (1969) ====================
+"tt0063950:1:1": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284133.mp4"
+  }
+],
+
+"tt0063950:1:2": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284134.mp4"
+  }
+],
+
+"tt0063950:1:3": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284135.mp4"
+  }
+],
+
+"tt0063950:1:4": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284136.mp4"
+  }
+],
+
+"tt0063950:1:5": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284137.mp4"
+  }
+],
+
+"tt0063950:1:6": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284138.mp4"
+  }
+],
+
+"tt0063950:1:7": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284139.mp4"
+  }
+],
+
+"tt0063950:1:8": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284140.mp4"
+  }
+],
+
+"tt0063950:1:9": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284141.mp4"
+  }
+],
+
+"tt0063950:1:10": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284142.mp4"
+  }
+],
+
+"tt0063950:1:11": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284143.mp4"
+  }
+],
+
+"tt0063950:1:12": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284144.mp4"
+  }
+],
+
+"tt0063950:1:13": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284145.mp4"
+  }
+],
+
+"tt0063950:1:14": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284146.mp4"
+  }
+],
+
+"tt0063950:1:15": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284147.mp4"
+  }
+],
+
+"tt0063950:1:16": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284148.mp4"
+  }
+],
+
+"tt0063950:1:17": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1969)",
+      ep: "T01·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284149.mp4"
+  }
+],
+
+// ==================== TEMPORADA 2 (1970) ====================
+"tt0063950:2:1": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1970)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284150.mp4"
+  }
+],
+
+"tt0063950:2:2": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1970)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284151.mp4"
+  }
+],
+
+"tt0063950:2:3": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1970)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284152.mp4"
+  }
+],
+
+"tt0063950:2:4": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1970)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284153.mp4"
+  }
+],
+
+"tt0063950:2:5": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1970)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284154.mp4"
+  }
+],
+
+"tt0063950:2:6": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1970)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284155.mp4"
+  }
+],
+
+"tt0063950:2:7": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1970)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284156.mp4"
+  }
+],
+
+"tt0063950:2:8": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Scooby-Doo - Cadê você? (1970)",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/284157.mp4"
+  }
+],
+  
 // ==================== Invencível (tt6741278) ====================
 
 // Temporada 1 (2021)
