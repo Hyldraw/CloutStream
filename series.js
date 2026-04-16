@@ -2,6 +2,8311 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// ==================== CSI: Investigação Criminal ====================
+
+// Temporada 1
+"tt0247082:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955331.mp4"
+  }
+],
+"tt0247082:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955333.mp4"
+  }
+],
+"tt0247082:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955334.mp4"
+  }
+],
+"tt0247082:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955336.mp4"
+  }
+],
+"tt0247082:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955338.mp4"
+  }
+],
+"tt0247082:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955340.mp4"
+  }
+],
+"tt0247082:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955342.mp4"
+  }
+],
+"tt0247082:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955345.mp4"
+  }
+],
+"tt0247082:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955347.mp4"
+  }
+],
+"tt0247082:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955351.mp4"
+  }
+],
+"tt0247082:1:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955353.mp4"
+  }
+],
+"tt0247082:1:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955357.mp4"
+  }
+],
+"tt0247082:1:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955360.mp4"
+  }
+],
+"tt0247082:1:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955365.mp4"
+  }
+],
+"tt0247082:1:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955369.mp4"
+  }
+],
+"tt0247082:1:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955372.mp4"
+  }
+],
+"tt0247082:1:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955376.mp4"
+  }
+],
+"tt0247082:1:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955379.mp4"
+  }
+],
+"tt0247082:1:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955381.mp4"
+  }
+],
+"tt0247082:1:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955385.mp4"
+  }
+],
+"tt0247082:1:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955388.mp4"
+  }
+],
+"tt0247082:1:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955391.mp4"
+  }
+],
+"tt0247082:1:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T01·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955394.mp4"
+  }
+],
+
+// Temporada 2
+"tt0247082:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955397.mp4"
+  }
+],
+"tt0247082:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955400.mp4"
+  }
+],
+"tt0247082:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955403.mp4"
+  }
+],
+"tt0247082:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955407.mp4"
+  }
+],
+"tt0247082:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955409.mp4"
+  }
+],
+"tt0247082:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955412.mp4"
+  }
+],
+"tt0247082:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955417.mp4"
+  }
+],
+"tt0247082:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955418.mp4"
+  }
+],
+"tt0247082:2:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955420.mp4"
+  }
+],
+"tt0247082:2:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955423.mp4"
+  }
+],
+"tt0247082:2:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955427.mp4"
+  }
+],
+"tt0247082:2:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955430.mp4"
+  }
+],
+"tt0247082:2:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955434.mp4"
+  }
+],
+"tt0247082:2:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955437.mp4"
+  }
+],
+"tt0247082:2:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955442.mp4"
+  }
+],
+"tt0247082:2:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955450.mp4"
+  }
+],
+"tt0247082:2:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955452.mp4"
+  }
+],
+"tt0247082:2:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955457.mp4"
+  }
+],
+"tt0247082:2:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955461.mp4"
+  }
+],
+"tt0247082:2:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955465.mp4"
+  }
+],
+"tt0247082:2:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955471.mp4"
+  }
+],
+"tt0247082:2:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955472.mp4"
+  }
+],
+"tt0247082:2:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T02·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955477.mp4"
+  }
+],
+
+// Temporada 3
+"tt0247082:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955482.mp4"
+  }
+],
+"tt0247082:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955490.mp4"
+  }
+],
+"tt0247082:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955496.mp4"
+  }
+],
+"tt0247082:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955510.mp4"
+  }
+],
+"tt0247082:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955520.mp4"
+  }
+],
+"tt0247082:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955526.mp4"
+  }
+],
+"tt0247082:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955532.mp4"
+  }
+],
+"tt0247082:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955541.mp4"
+  }
+],
+"tt0247082:3:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955544.mp4"
+  }
+],
+"tt0247082:3:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955554.mp4"
+  }
+],
+"tt0247082:3:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955560.mp4"
+  }
+],
+"tt0247082:3:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955569.mp4"
+  }
+],
+"tt0247082:3:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955577.mp4"
+  }
+],
+"tt0247082:3:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955582.mp4"
+  }
+],
+"tt0247082:3:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955587.mp4"
+  }
+],
+"tt0247082:3:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955593.mp4"
+  }
+],
+"tt0247082:3:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955602.mp4"
+  }
+],
+"tt0247082:3:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955615.mp4"
+  }
+],
+"tt0247082:3:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955621.mp4"
+  }
+],
+"tt0247082:3:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955626.mp4"
+  }
+],
+"tt0247082:3:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955632.mp4"
+  }
+],
+"tt0247082:3:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955638.mp4"
+  }
+],
+"tt0247082:3:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T03·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955647.mp4"
+  }
+],
+
+// Temporada 4
+"tt0247082:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955654.mp4"
+  }
+],
+"tt0247082:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955658.mp4"
+  }
+],
+"tt0247082:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955662.mp4"
+  }
+],
+"tt0247082:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955667.mp4"
+  }
+],
+"tt0247082:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955671.mp4"
+  }
+],
+"tt0247082:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955676.mp4"
+  }
+],
+"tt0247082:4:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955677.mp4"
+  }
+],
+"tt0247082:4:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955682.mp4"
+  }
+],
+"tt0247082:4:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955685.mp4"
+  }
+],
+"tt0247082:4:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955691.mp4"
+  }
+],
+"tt0247082:4:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955695.mp4"
+  }
+],
+"tt0247082:4:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955698.mp4"
+  }
+],
+"tt0247082:4:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955702.mp4"
+  }
+],
+"tt0247082:4:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955705.mp4"
+  }
+],
+"tt0247082:4:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955712.mp4"
+  }
+],
+"tt0247082:4:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955714.mp4"
+  }
+],
+"tt0247082:4:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955716.mp4"
+  }
+],
+"tt0247082:4:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955725.mp4"
+  }
+],
+"tt0247082:4:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955734.mp4"
+  }
+],
+"tt0247082:4:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955745.mp4"
+  }
+],
+"tt0247082:4:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955755.mp4"
+  }
+],
+"tt0247082:4:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955763.mp4"
+  }
+],
+"tt0247082:4:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T04·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955771.mp4"
+  }
+],
+
+// Temporada 5
+"tt0247082:5:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955778.mp4"
+  }
+],
+"tt0247082:5:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955786.mp4"
+  }
+],
+"tt0247082:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955793.mp4"
+  }
+],
+"tt0247082:5:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955800.mp4"
+  }
+],
+"tt0247082:5:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955806.mp4"
+  }
+],
+"tt0247082:5:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955812.mp4"
+  }
+],
+"tt0247082:5:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955819.mp4"
+  }
+],
+"tt0247082:5:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955822.mp4"
+  }
+],
+"tt0247082:5:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955823.mp4"
+  }
+],
+"tt0247082:5:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955828.mp4"
+  }
+],
+"tt0247082:5:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955832.mp4"
+  }
+],
+"tt0247082:5:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955836.mp4"
+  }
+],
+"tt0247082:5:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955841.mp4"
+  }
+],
+"tt0247082:5:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955847.mp4"
+  }
+],
+"tt0247082:5:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955853.mp4"
+  }
+],
+"tt0247082:5:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955858.mp4"
+  }
+],
+"tt0247082:5:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955864.mp4"
+  }
+],
+"tt0247082:5:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955867.mp4"
+  }
+],
+"tt0247082:5:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955870.mp4"
+  }
+],
+"tt0247082:5:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955874.mp4"
+  }
+],
+"tt0247082:5:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955881.mp4"
+  }
+],
+"tt0247082:5:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955885.mp4"
+  }
+],
+"tt0247082:5:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955887.mp4"
+  }
+],
+"tt0247082:5:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T05·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955898.mp4"
+  }
+],
+
+// Temporada 6
+"tt0247082:6:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955904.mp4"
+  }
+],
+"tt0247082:6:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955916.mp4"
+  }
+],
+"tt0247082:6:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955917.mp4"
+  }
+],
+"tt0247082:6:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955922.mp4"
+  }
+],
+"tt0247082:6:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955928.mp4"
+  }
+],
+"tt0247082:6:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955942.mp4"
+  }
+],
+"tt0247082:6:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955957.mp4"
+  }
+],
+"tt0247082:6:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955966.mp4"
+  }
+],
+"tt0247082:6:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955969.mp4"
+  }
+],
+"tt0247082:6:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955971.mp4"
+  }
+],
+"tt0247082:6:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955973.mp4"
+  }
+],
+"tt0247082:6:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955977.mp4"
+  }
+],
+"tt0247082:6:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955985.mp4"
+  }
+],
+"tt0247082:6:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955989.mp4"
+  }
+],
+"tt0247082:6:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955995.mp4"
+  }
+],
+"tt0247082:6:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3955999.mp4"
+  }
+],
+"tt0247082:6:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956007.mp4"
+  }
+],
+"tt0247082:6:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956015.mp4"
+  }
+],
+"tt0247082:6:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956018.mp4"
+  }
+],
+"tt0247082:6:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956021.mp4"
+  }
+],
+"tt0247082:6:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956028.mp4"
+  }
+],
+"tt0247082:6:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956032.mp4"
+  }
+],
+"tt0247082:6:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956038.mp4"
+  }
+],
+"tt0247082:6:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T06·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956049.mp4"
+  }
+],
+
+// Temporada 7
+"tt0247082:7:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956056.mp4"
+  }
+],
+"tt0247082:7:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956067.mp4"
+  }
+],
+"tt0247082:7:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956073.mp4"
+  }
+],
+"tt0247082:7:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956082.mp4"
+  }
+],
+"tt0247082:7:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956098.mp4"
+  }
+],
+"tt0247082:7:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956103.mp4"
+  }
+],
+"tt0247082:7:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956114.mp4"
+  }
+],
+"tt0247082:7:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956127.mp4"
+  }
+],
+"tt0247082:7:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956132.mp4"
+  }
+],
+"tt0247082:7:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956139.mp4"
+  }
+],
+"tt0247082:7:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956153.mp4"
+  }
+],
+"tt0247082:7:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956159.mp4"
+  }
+],
+"tt0247082:7:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956168.mp4"
+  }
+],
+"tt0247082:7:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956169.mp4"
+  }
+],
+"tt0247082:7:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956179.mp4"
+  }
+],
+"tt0247082:7:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956190.mp4"
+  }
+],
+"tt0247082:7:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956192.mp4"
+  }
+],
+"tt0247082:7:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956200.mp4"
+  }
+],
+"tt0247082:7:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956216.mp4"
+  }
+],
+"tt0247082:7:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956217.mp4"
+  }
+],
+"tt0247082:7:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956225.mp4"
+  }
+],
+"tt0247082:7:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956232.mp4"
+  }
+],
+"tt0247082:7:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T07·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956243.mp4"
+  }
+],
+
+// Temporada 8
+"tt0247082:8:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956245.mp4"
+  }
+],
+"tt0247082:8:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956253.mp4"
+  }
+],
+"tt0247082:8:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956268.mp4"
+  }
+],
+"tt0247082:8:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956275.mp4"
+  }
+],
+"tt0247082:8:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956284.mp4"
+  }
+],
+"tt0247082:8:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956290.mp4"
+  }
+],
+"tt0247082:8:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956294.mp4"
+  }
+],
+"tt0247082:8:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956303.mp4"
+  }
+],
+"tt0247082:8:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956310.mp4"
+  }
+],
+"tt0247082:8:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956319.mp4"
+  }
+],
+"tt0247082:8:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956326.mp4"
+  }
+],
+"tt0247082:8:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956336.mp4"
+  }
+],
+"tt0247082:8:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956344.mp4"
+  }
+],
+"tt0247082:8:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956349.mp4"
+  }
+],
+"tt0247082:8:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956353.mp4"
+  }
+],
+"tt0247082:8:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956358.mp4"
+  }
+],
+"tt0247082:8:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T08·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956362.mp4"
+  }
+],
+
+// Temporada 9
+"tt0247082:9:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956368.mp4"
+  }
+],
+"tt0247082:9:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956374.mp4"
+  }
+],
+"tt0247082:9:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956377.mp4"
+  }
+],
+"tt0247082:9:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956384.mp4"
+  }
+],
+"tt0247082:9:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956388.mp4"
+  }
+],
+"tt0247082:9:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956396.mp4"
+  }
+],
+"tt0247082:9:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956401.mp4"
+  }
+],
+"tt0247082:9:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956414.mp4"
+  }
+],
+"tt0247082:9:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956419.mp4"
+  }
+],
+"tt0247082:9:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956425.mp4"
+  }
+],
+"tt0247082:9:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956439.mp4"
+  }
+],
+"tt0247082:9:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956446.mp4"
+  }
+],
+"tt0247082:9:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956451.mp4"
+  }
+],
+"tt0247082:9:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956460.mp4"
+  }
+],
+"tt0247082:9:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956468.mp4"
+  }
+],
+"tt0247082:9:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956477.mp4"
+  }
+],
+"tt0247082:9:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956487.mp4"
+  }
+],
+"tt0247082:9:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956497.mp4"
+  }
+],
+"tt0247082:9:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956502.mp4"
+  }
+],
+"tt0247082:9:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956511.mp4"
+  }
+],
+"tt0247082:9:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956518.mp4"
+  }
+],
+"tt0247082:9:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956526.mp4"
+  }
+],
+"tt0247082:9:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956531.mp4"
+  }
+],
+"tt0247082:9:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T09·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956537.mp4"
+  }
+],
+
+// Temporada 10
+"tt0247082:10:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956544.mp4"
+  }
+],
+"tt0247082:10:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956550.mp4"
+  }
+],
+"tt0247082:10:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956552.mp4"
+  }
+],
+"tt0247082:10:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956559.mp4"
+  }
+],
+"tt0247082:10:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956562.mp4"
+  }
+],
+"tt0247082:10:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956567.mp4"
+  }
+],
+"tt0247082:10:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956571.mp4"
+  }
+],
+"tt0247082:10:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956577.mp4"
+  }
+],
+"tt0247082:10:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956583.mp4"
+  }
+],
+"tt0247082:10:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956594.mp4"
+  }
+],
+"tt0247082:10:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956597.mp4"
+  }
+],
+"tt0247082:10:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956602.mp4"
+  }
+],
+"tt0247082:10:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956607.mp4"
+  }
+],
+"tt0247082:10:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956611.mp4"
+  }
+],
+"tt0247082:10:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956615.mp4"
+  }
+],
+"tt0247082:10:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956624.mp4"
+  }
+],
+"tt0247082:10:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956628.mp4"
+  }
+],
+"tt0247082:10:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956633.mp4"
+  }
+],
+"tt0247082:10:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956638.mp4"
+  }
+],
+"tt0247082:10:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956645.mp4"
+  }
+],
+"tt0247082:10:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956652.mp4"
+  }
+],
+"tt0247082:10:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956657.mp4"
+  }
+],
+"tt0247082:10:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T10·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956661.mp4"
+  }
+],
+
+// Temporada 11
+"tt0247082:11:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956664.mp4"
+  }
+],
+"tt0247082:11:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956668.mp4"
+  }
+],
+"tt0247082:11:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956676.mp4"
+  }
+],
+"tt0247082:11:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956682.mp4"
+  }
+],
+"tt0247082:11:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956684.mp4"
+  }
+],
+"tt0247082:11:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956689.mp4"
+  }
+],
+"tt0247082:11:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956692.mp4"
+  }
+],
+"tt0247082:11:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956697.mp4"
+  }
+],
+"tt0247082:11:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956700.mp4"
+  }
+],
+"tt0247082:11:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956703.mp4"
+  }
+],
+"tt0247082:11:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956707.mp4"
+  }
+],
+"tt0247082:11:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956713.mp4"
+  }
+],
+"tt0247082:11:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956722.mp4"
+  }
+],
+"tt0247082:11:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956727.mp4"
+  }
+],
+"tt0247082:11:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956733.mp4"
+  }
+],
+"tt0247082:11:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956739.mp4"
+  }
+],
+"tt0247082:11:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956745.mp4"
+  }
+],
+"tt0247082:11:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956751.mp4"
+  }
+],
+"tt0247082:11:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956764.mp4"
+  }
+],
+"tt0247082:11:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956768.mp4"
+  }
+],
+"tt0247082:11:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956772.mp4"
+  }
+],
+"tt0247082:11:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T11·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956777.mp4"
+  }
+],
+
+// Temporada 12
+"tt0247082:12:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956783.mp4"
+  }
+],
+"tt0247082:12:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956788.mp4"
+  }
+],
+"tt0247082:12:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956796.mp4"
+  }
+],
+"tt0247082:12:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956800.mp4"
+  }
+],
+"tt0247082:12:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956805.mp4"
+  }
+],
+"tt0247082:12:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956810.mp4"
+  }
+],
+"tt0247082:12:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956816.mp4"
+  }
+],
+"tt0247082:12:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956821.mp4"
+  }
+],
+"tt0247082:12:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956826.mp4"
+  }
+],
+"tt0247082:12:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956836.mp4"
+  }
+],
+"tt0247082:12:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956842.mp4"
+  }
+],
+"tt0247082:12:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956845.mp4"
+  }
+],
+"tt0247082:12:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956851.mp4"
+  }
+],
+"tt0247082:12:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956862.mp4"
+  }
+],
+"tt0247082:12:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956864.mp4"
+  }
+],
+"tt0247082:12:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956870.mp4"
+  }
+],
+"tt0247082:12:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956876.mp4"
+  }
+],
+"tt0247082:12:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956880.mp4"
+  }
+],
+"tt0247082:12:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956884.mp4"
+  }
+],
+"tt0247082:12:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956890.mp4"
+  }
+],
+"tt0247082:12:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956895.mp4"
+  }
+],
+"tt0247082:12:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T12·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956900.mp4"
+  }
+],
+
+// Temporada 13
+"tt0247082:13:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956905.mp4"
+  }
+],
+"tt0247082:13:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956909.mp4"
+  }
+],
+"tt0247082:13:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956914.mp4"
+  }
+],
+"tt0247082:13:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956920.mp4"
+  }
+],
+"tt0247082:13:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956924.mp4"
+  }
+],
+"tt0247082:13:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956928.mp4"
+  }
+],
+"tt0247082:13:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956931.mp4"
+  }
+],
+"tt0247082:13:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956935.mp4"
+  }
+],
+"tt0247082:13:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956939.mp4"
+  }
+],
+"tt0247082:13:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956942.mp4"
+  }
+],
+"tt0247082:13:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956947.mp4"
+  }
+],
+"tt0247082:13:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956951.mp4"
+  }
+],
+"tt0247082:13:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956955.mp4"
+  }
+],
+"tt0247082:13:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956959.mp4"
+  }
+],
+"tt0247082:13:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956965.mp4"
+  }
+],
+"tt0247082:13:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956970.mp4"
+  }
+],
+"tt0247082:13:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956972.mp4"
+  }
+],
+"tt0247082:13:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956976.mp4"
+  }
+],
+"tt0247082:13:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956980.mp4"
+  }
+],
+"tt0247082:13:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956985.mp4"
+  }
+],
+"tt0247082:13:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956991.mp4"
+  }
+],
+"tt0247082:13:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T13·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956998.mp4"
+  }
+],
+
+// Temporada 14
+"tt0247082:14:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3956999.mp4"
+  }
+],
+"tt0247082:14:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957002.mp4"
+  }
+],
+"tt0247082:14:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957005.mp4"
+  }
+],
+"tt0247082:14:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957008.mp4"
+  }
+],
+"tt0247082:14:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957011.mp4"
+  }
+],
+"tt0247082:14:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957014.mp4"
+  }
+],
+"tt0247082:14:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957019.mp4"
+  }
+],
+"tt0247082:14:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957023.mp4"
+  }
+],
+"tt0247082:14:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957032.mp4"
+  }
+],
+"tt0247082:14:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957035.mp4"
+  }
+],
+"tt0247082:14:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957043.mp4"
+  }
+],
+"tt0247082:14:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957048.mp4"
+  }
+],
+"tt0247082:14:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957053.mp4"
+  }
+],
+"tt0247082:14:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957055.mp4"
+  }
+],
+"tt0247082:14:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957061.mp4"
+  }
+],
+"tt0247082:14:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957065.mp4"
+  }
+],
+"tt0247082:14:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957072.mp4"
+  }
+],
+"tt0247082:14:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957079.mp4"
+  }
+],
+"tt0247082:14:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957083.mp4"
+  }
+],
+"tt0247082:14:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957094.mp4"
+  }
+],
+"tt0247082:14:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957095.mp4"
+  }
+],
+"tt0247082:14:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T14·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957101.mp4"
+  }
+],
+
+// Temporada 15
+"tt0247082:15:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957104.mp4"
+  }
+],
+"tt0247082:15:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957109.mp4"
+  }
+],
+"tt0247082:15:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957114.mp4"
+  }
+],
+"tt0247082:15:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957117.mp4"
+  }
+],
+"tt0247082:15:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957121.mp4"
+  }
+],
+"tt0247082:15:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957125.mp4"
+  }
+],
+"tt0247082:15:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957127.mp4"
+  }
+],
+"tt0247082:15:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957131.mp4"
+  }
+],
+"tt0247082:15:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957134.mp4"
+  }
+],
+"tt0247082:15:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957135.mp4"
+  }
+],
+"tt0247082:15:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957140.mp4"
+  }
+],
+"tt0247082:15:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957144.mp4"
+  }
+],
+"tt0247082:15:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957148.mp4"
+  }
+],
+"tt0247082:15:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957152.mp4"
+  }
+],
+"tt0247082:15:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957157.mp4"
+  }
+],
+"tt0247082:15:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957161.mp4"
+  }
+],
+"tt0247082:15:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957165.mp4"
+  }
+],
+"tt0247082:15:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T15·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957169.mp4"
+  }
+],
+
+// Temporada 16
+"tt0247082:16:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T16·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957175.mp4"
+  }
+],
+"tt0247082:16:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "CSI: Investigação Criminal",
+      ep: "T16·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3957179.mp4"
+  }
+],
+
+// ==================== Mentes Criminosas ====================
+
+// Temporada 1
+"tt0452046:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890455.mp4"
+  }
+],
+"tt0452046:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890456.mp4"
+  }
+],
+"tt0452046:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890457.mp4"
+  }
+],
+"tt0452046:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890458.mp4"
+  }
+],
+"tt0452046:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890459.mp4"
+  }
+],
+"tt0452046:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890460.mp4"
+  }
+],
+"tt0452046:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890461.mp4"
+  }
+],
+"tt0452046:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890462.mp4"
+  }
+],
+"tt0452046:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890463.mp4"
+  }
+],
+"tt0452046:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890464.mp4"
+  }
+],
+"tt0452046:1:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890465.mp4"
+  }
+],
+"tt0452046:1:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890467.mp4"
+  }
+],
+"tt0452046:1:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890468.mp4"
+  }
+],
+"tt0452046:1:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890469.mp4"
+  }
+],
+"tt0452046:1:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890470.mp4"
+  }
+],
+"tt0452046:1:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890473.mp4"
+  }
+],
+"tt0452046:1:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890478.mp4"
+  }
+],
+"tt0452046:1:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890480.mp4"
+  }
+],
+"tt0452046:1:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890483.mp4"
+  }
+],
+"tt0452046:1:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890486.mp4"
+  }
+],
+"tt0452046:1:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890488.mp4"
+  }
+],
+"tt0452046:1:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T01·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890489.mp4"
+  }
+],
+
+// Temporada 2
+"tt0452046:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890494.mp4"
+  }
+],
+"tt0452046:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890496.mp4"
+  }
+],
+"tt0452046:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890498.mp4"
+  }
+],
+"tt0452046:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890499.mp4"
+  }
+],
+"tt0452046:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890501.mp4"
+  }
+],
+"tt0452046:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890504.mp4"
+  }
+],
+"tt0452046:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890509.mp4"
+  }
+],
+"tt0452046:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890515.mp4"
+  }
+],
+"tt0452046:2:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890521.mp4"
+  }
+],
+"tt0452046:2:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890527.mp4"
+  }
+],
+"tt0452046:2:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890531.mp4"
+  }
+],
+"tt0452046:2:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890534.mp4"
+  }
+],
+"tt0452046:2:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890537.mp4"
+  }
+],
+"tt0452046:2:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890541.mp4"
+  }
+],
+"tt0452046:2:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890547.mp4"
+  }
+],
+"tt0452046:2:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890551.mp4"
+  }
+],
+"tt0452046:2:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890552.mp4"
+  }
+],
+"tt0452046:2:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890555.mp4"
+  }
+],
+"tt0452046:2:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890557.mp4"
+  }
+],
+"tt0452046:2:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890561.mp4"
+  }
+],
+"tt0452046:2:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890563.mp4"
+  }
+],
+"tt0452046:2:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T02·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890565.mp4"
+  }
+],
+
+// Temporada 3
+"tt0452046:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890567.mp4"
+  }
+],
+"tt0452046:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890570.mp4"
+  }
+],
+"tt0452046:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890574.mp4"
+  }
+],
+"tt0452046:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890576.mp4"
+  }
+],
+"tt0452046:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890578.mp4"
+  }
+],
+"tt0452046:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890580.mp4"
+  }
+],
+"tt0452046:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890582.mp4"
+  }
+],
+"tt0452046:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890584.mp4"
+  }
+],
+"tt0452046:3:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890586.mp4"
+  }
+],
+"tt0452046:3:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890588.mp4"
+  }
+],
+"tt0452046:3:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890590.mp4"
+  }
+],
+"tt0452046:3:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890592.mp4"
+  }
+],
+"tt0452046:3:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890595.mp4"
+  }
+],
+"tt0452046:3:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890597.mp4"
+  }
+],
+"tt0452046:3:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890598.mp4"
+  }
+],
+"tt0452046:3:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890638.mp4"
+  }
+],
+"tt0452046:3:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890642.mp4"
+  }
+],
+"tt0452046:3:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890648.mp4"
+  }
+],
+"tt0452046:3:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890652.mp4"
+  }
+],
+"tt0452046:3:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T03·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890655.mp4"
+  }
+],
+
+// Temporada 4
+"tt0452046:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890657.mp4"
+  }
+],
+"tt0452046:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890660.mp4"
+  }
+],
+"tt0452046:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890663.mp4"
+  }
+],
+"tt0452046:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890668.mp4"
+  }
+],
+"tt0452046:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890670.mp4"
+  }
+],
+"tt0452046:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890676.mp4"
+  }
+],
+"tt0452046:4:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890681.mp4"
+  }
+],
+"tt0452046:4:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890686.mp4"
+  }
+],
+"tt0452046:4:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890695.mp4"
+  }
+],
+"tt0452046:4:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890699.mp4"
+  }
+],
+"tt0452046:4:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890701.mp4"
+  }
+],
+"tt0452046:4:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890705.mp4"
+  }
+],
+"tt0452046:4:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890710.mp4"
+  }
+],
+"tt0452046:4:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890715.mp4"
+  }
+],
+"tt0452046:4:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890719.mp4"
+  }
+],
+"tt0452046:4:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890722.mp4"
+  }
+],
+"tt0452046:4:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890725.mp4"
+  }
+],
+"tt0452046:4:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890731.mp4"
+  }
+],
+"tt0452046:4:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890732.mp4"
+  }
+],
+"tt0452046:4:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890734.mp4"
+  }
+],
+"tt0452046:4:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890745.mp4"
+  }
+],
+"tt0452046:4:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890748.mp4"
+  }
+],
+"tt0452046:4:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890755.mp4"
+  }
+],
+"tt0452046:4:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890757.mp4"
+  }
+],
+"tt0452046:4:25": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E25",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890762.mp4"
+  }
+],
+"tt0452046:4:26": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T04·E26",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890766.mp4"
+  }
+],
+
+// Temporada 5
+"tt0452046:5:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890768.mp4"
+  }
+],
+"tt0452046:5:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890771.mp4"
+  }
+],
+"tt0452046:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890775.mp4"
+  }
+],
+"tt0452046:5:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890780.mp4"
+  }
+],
+"tt0452046:5:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890784.mp4"
+  }
+],
+"tt0452046:5:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890786.mp4"
+  }
+],
+"tt0452046:5:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890788.mp4"
+  }
+],
+"tt0452046:5:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890792.mp4"
+  }
+],
+"tt0452046:5:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890794.mp4"
+  }
+],
+"tt0452046:5:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890797.mp4"
+  }
+],
+"tt0452046:5:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890800.mp4"
+  }
+],
+"tt0452046:5:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890805.mp4"
+  }
+],
+"tt0452046:5:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890811.mp4"
+  }
+],
+"tt0452046:5:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890814.mp4"
+  }
+],
+"tt0452046:5:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890827.mp4"
+  }
+],
+"tt0452046:5:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890828.mp4"
+  }
+],
+"tt0452046:5:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890832.mp4"
+  }
+],
+"tt0452046:5:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890836.mp4"
+  }
+],
+"tt0452046:5:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890840.mp4"
+  }
+],
+"tt0452046:5:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890845.mp4"
+  }
+],
+"tt0452046:5:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890850.mp4"
+  }
+],
+"tt0452046:5:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890855.mp4"
+  }
+],
+"tt0452046:5:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T05·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890863.mp4"
+  }
+],
+
+// Temporada 6
+"tt0452046:6:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890868.mp4"
+  }
+],
+"tt0452046:6:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890879.mp4"
+  }
+],
+"tt0452046:6:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890886.mp4"
+  }
+],
+"tt0452046:6:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890888.mp4"
+  }
+],
+"tt0452046:6:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890890.mp4"
+  }
+],
+"tt0452046:6:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890894.mp4"
+  }
+],
+"tt0452046:6:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890898.mp4"
+  }
+],
+"tt0452046:6:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890904.mp4"
+  }
+],
+"tt0452046:6:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890905.mp4"
+  }
+],
+"tt0452046:6:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890906.mp4"
+  }
+],
+"tt0452046:6:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890909.mp4"
+  }
+],
+"tt0452046:6:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890913.mp4"
+  }
+],
+"tt0452046:6:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890917.mp4"
+  }
+],
+"tt0452046:6:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890921.mp4"
+  }
+],
+"tt0452046:6:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890924.mp4"
+  }
+],
+"tt0452046:6:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890926.mp4"
+  }
+],
+"tt0452046:6:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890931.mp4"
+  }
+],
+"tt0452046:6:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890942.mp4"
+  }
+],
+"tt0452046:6:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890943.mp4"
+  }
+],
+"tt0452046:6:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890948.mp4"
+  }
+],
+"tt0452046:6:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890954.mp4"
+  }
+],
+"tt0452046:6:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890960.mp4"
+  }
+],
+"tt0452046:6:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890962.mp4"
+  }
+],
+"tt0452046:6:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T06·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890970.mp4"
+  }
+],
+
+// Temporada 7
+"tt0452046:7:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890992.mp4"
+  }
+],
+"tt0452046:7:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890998.mp4"
+  }
+],
+"tt0452046:7:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3890999.mp4"
+  }
+],
+"tt0452046:7:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891004.mp4"
+  }
+],
+"tt0452046:7:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891008.mp4"
+  }
+],
+"tt0452046:7:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891014.mp4"
+  }
+],
+"tt0452046:7:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891021.mp4"
+  }
+],
+"tt0452046:7:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891022.mp4"
+  }
+],
+"tt0452046:7:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891028.mp4"
+  }
+],
+"tt0452046:7:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891036.mp4"
+  }
+],
+"tt0452046:7:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891044.mp4"
+  }
+],
+"tt0452046:7:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891049.mp4"
+  }
+],
+"tt0452046:7:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891064.mp4"
+  }
+],
+"tt0452046:7:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891073.mp4"
+  }
+],
+"tt0452046:7:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891081.mp4"
+  }
+],
+"tt0452046:7:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891084.mp4"
+  }
+],
+"tt0452046:7:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891089.mp4"
+  }
+],
+"tt0452046:7:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891096.mp4"
+  }
+],
+"tt0452046:7:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891100.mp4"
+  }
+],
+"tt0452046:7:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891104.mp4"
+  }
+],
+"tt0452046:7:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891109.mp4"
+  }
+],
+"tt0452046:7:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891114.mp4"
+  }
+],
+"tt0452046:7:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T07·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891118.mp4"
+  }
+],
+
+// Temporada 8
+"tt0452046:8:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891124.mp4"
+  }
+],
+"tt0452046:8:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891129.mp4"
+  }
+],
+"tt0452046:8:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891136.mp4"
+  }
+],
+"tt0452046:8:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891140.mp4"
+  }
+],
+"tt0452046:8:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891144.mp4"
+  }
+],
+"tt0452046:8:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891149.mp4"
+  }
+],
+"tt0452046:8:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891157.mp4"
+  }
+],
+"tt0452046:8:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891164.mp4"
+  }
+],
+"tt0452046:8:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891171.mp4"
+  }
+],
+"tt0452046:8:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891179.mp4"
+  }
+],
+"tt0452046:8:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891186.mp4"
+  }
+],
+"tt0452046:8:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891193.mp4"
+  }
+],
+"tt0452046:8:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891200.mp4"
+  }
+],
+"tt0452046:8:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891207.mp4"
+  }
+],
+"tt0452046:8:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891214.mp4"
+  }
+],
+"tt0452046:8:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891221.mp4"
+  }
+],
+"tt0452046:8:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891228.mp4"
+  }
+],
+"tt0452046:8:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891236.mp4"
+  }
+],
+"tt0452046:8:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891245.mp4"
+  }
+],
+"tt0452046:8:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891253.mp4"
+  }
+],
+"tt0452046:8:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891269.mp4"
+  }
+],
+"tt0452046:8:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891287.mp4"
+  }
+],
+"tt0452046:8:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T08·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891302.mp4"
+  }
+],
+
+// Temporada 9
+"tt0452046:9:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891322.mp4"
+  }
+],
+"tt0452046:9:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891330.mp4"
+  }
+],
+"tt0452046:9:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891335.mp4"
+  }
+],
+"tt0452046:9:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891344.mp4"
+  }
+],
+"tt0452046:9:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891350.mp4"
+  }
+],
+"tt0452046:9:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891355.mp4"
+  }
+],
+"tt0452046:9:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891359.mp4"
+  }
+],
+"tt0452046:9:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891366.mp4"
+  }
+],
+"tt0452046:9:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891371.mp4"
+  }
+],
+"tt0452046:9:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891375.mp4"
+  }
+],
+"tt0452046:9:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891383.mp4"
+  }
+],
+"tt0452046:9:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891390.mp4"
+  }
+],
+"tt0452046:9:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891395.mp4"
+  }
+],
+"tt0452046:9:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891403.mp4"
+  }
+],
+"tt0452046:9:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891411.mp4"
+  }
+],
+"tt0452046:9:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891417.mp4"
+  }
+],
+"tt0452046:9:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891427.mp4"
+  }
+],
+"tt0452046:9:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891434.mp4"
+  }
+],
+"tt0452046:9:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891443.mp4"
+  }
+],
+"tt0452046:9:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891449.mp4"
+  }
+],
+"tt0452046:9:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891457.mp4"
+  }
+],
+"tt0452046:9:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891474.mp4"
+  }
+],
+"tt0452046:9:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891480.mp4"
+  }
+],
+"tt0452046:9:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T09·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891486.mp4"
+  }
+],
+
+// Temporada 10
+"tt0452046:10:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891493.mp4"
+  }
+],
+"tt0452046:10:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891502.mp4"
+  }
+],
+"tt0452046:10:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891508.mp4"
+  }
+],
+"tt0452046:10:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891511.mp4"
+  }
+],
+"tt0452046:10:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891520.mp4"
+  }
+],
+"tt0452046:10:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891528.mp4"
+  }
+],
+"tt0452046:10:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891535.mp4"
+  }
+],
+"tt0452046:10:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891544.mp4"
+  }
+],
+"tt0452046:10:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891551.mp4"
+  }
+],
+"tt0452046:10:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891559.mp4"
+  }
+],
+"tt0452046:10:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891561.mp4"
+  }
+],
+"tt0452046:10:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891566.mp4"
+  }
+],
+"tt0452046:10:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891580.mp4"
+  }
+],
+"tt0452046:10:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891589.mp4"
+  }
+],
+"tt0452046:10:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891595.mp4"
+  }
+],
+"tt0452046:10:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891599.mp4"
+  }
+],
+"tt0452046:10:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891611.mp4"
+  }
+],
+"tt0452046:10:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891621.mp4"
+  }
+],
+"tt0452046:10:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891642.mp4"
+  }
+],
+"tt0452046:10:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891650.mp4"
+  }
+],
+"tt0452046:10:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891662.mp4"
+  }
+],
+"tt0452046:10:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891670.mp4"
+  }
+],
+"tt0452046:10:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T10·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891674.mp4"
+  }
+],
+
+// Temporada 11
+"tt0452046:11:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891681.mp4"
+  }
+],
+"tt0452046:11:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891685.mp4"
+  }
+],
+"tt0452046:11:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891692.mp4"
+  }
+],
+"tt0452046:11:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891693.mp4"
+  }
+],
+"tt0452046:11:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891704.mp4"
+  }
+],
+"tt0452046:11:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891713.mp4"
+  }
+],
+"tt0452046:11:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891731.mp4"
+  }
+],
+"tt0452046:11:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891744.mp4"
+  }
+],
+"tt0452046:11:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891763.mp4"
+  }
+],
+"tt0452046:11:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891774.mp4"
+  }
+],
+"tt0452046:11:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891789.mp4"
+  }
+],
+"tt0452046:11:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891799.mp4"
+  }
+],
+"tt0452046:11:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891812.mp4"
+  }
+],
+"tt0452046:11:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891825.mp4"
+  }
+],
+"tt0452046:11:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891836.mp4"
+  }
+],
+"tt0452046:11:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891846.mp4"
+  }
+],
+"tt0452046:11:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891856.mp4"
+  }
+],
+"tt0452046:11:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891866.mp4"
+  }
+],
+"tt0452046:11:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891880.mp4"
+  }
+],
+"tt0452046:11:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891884.mp4"
+  }
+],
+"tt0452046:11:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891891.mp4"
+  }
+],
+"tt0452046:11:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T11·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891901.mp4"
+  }
+],
+
+// Temporada 12
+"tt0452046:12:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891905.mp4"
+  }
+],
+"tt0452046:12:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891917.mp4"
+  }
+],
+"tt0452046:12:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891927.mp4"
+  }
+],
+"tt0452046:12:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891940.mp4"
+  }
+],
+"tt0452046:12:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891942.mp4"
+  }
+],
+"tt0452046:12:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891944.mp4"
+  }
+],
+"tt0452046:12:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891972.mp4"
+  }
+],
+"tt0452046:12:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891985.mp4"
+  }
+],
+"tt0452046:12:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3891990.mp4"
+  }
+],
+"tt0452046:12:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892005.mp4"
+  }
+],
+"tt0452046:12:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892022.mp4"
+  }
+],
+"tt0452046:12:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892031.mp4"
+  }
+],
+"tt0452046:12:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892043.mp4"
+  }
+],
+"tt0452046:12:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892057.mp4"
+  }
+],
+"tt0452046:12:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892064.mp4"
+  }
+],
+"tt0452046:12:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892083.mp4"
+  }
+],
+"tt0452046:12:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892098.mp4"
+  }
+],
+"tt0452046:12:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892107.mp4"
+  }
+],
+"tt0452046:12:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892117.mp4"
+  }
+],
+"tt0452046:12:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892119.mp4"
+  }
+],
+"tt0452046:12:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892126.mp4"
+  }
+],
+"tt0452046:12:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T12·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892133.mp4"
+  }
+],
+
+// Temporada 13
+"tt0452046:13:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892138.mp4"
+  }
+],
+"tt0452046:13:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892152.mp4"
+  }
+],
+"tt0452046:13:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892161.mp4"
+  }
+],
+"tt0452046:13:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892177.mp4"
+  }
+],
+"tt0452046:13:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892184.mp4"
+  }
+],
+"tt0452046:13:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892209.mp4"
+  }
+],
+"tt0452046:13:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892222.mp4"
+  }
+],
+"tt0452046:13:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892235.mp4"
+  }
+],
+"tt0452046:13:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892247.mp4"
+  }
+],
+"tt0452046:13:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892257.mp4"
+  }
+],
+"tt0452046:13:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892269.mp4"
+  }
+],
+"tt0452046:13:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892290.mp4"
+  }
+],
+"tt0452046:13:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892303.mp4"
+  }
+],
+"tt0452046:13:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892325.mp4"
+  }
+],
+"tt0452046:13:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892332.mp4"
+  }
+],
+"tt0452046:13:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892351.mp4"
+  }
+],
+"tt0452046:13:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892360.mp4"
+  }
+],
+"tt0452046:13:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892362.mp4"
+  }
+],
+"tt0452046:13:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892365.mp4"
+  }
+],
+"tt0452046:13:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892373.mp4"
+  }
+],
+"tt0452046:13:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892383.mp4"
+  }
+],
+"tt0452046:13:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T13·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892389.mp4"
+  }
+],
+
+// Temporada 14
+"tt0452046:14:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892394.mp4"
+  }
+],
+"tt0452046:14:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892400.mp4"
+  }
+],
+"tt0452046:14:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892410.mp4"
+  }
+],
+"tt0452046:14:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892419.mp4"
+  }
+],
+"tt0452046:14:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892431.mp4"
+  }
+],
+"tt0452046:14:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892444.mp4"
+  }
+],
+"tt0452046:14:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892453.mp4"
+  }
+],
+"tt0452046:14:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892460.mp4"
+  }
+],
+"tt0452046:14:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892468.mp4"
+  }
+],
+"tt0452046:14:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892477.mp4"
+  }
+],
+"tt0452046:14:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892491.mp4"
+  }
+],
+"tt0452046:14:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892497.mp4"
+  }
+],
+"tt0452046:14:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892508.mp4"
+  }
+],
+"tt0452046:14:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892514.mp4"
+  }
+],
+"tt0452046:14:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T14·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892520.mp4"
+  }
+],
+
+// Temporada 15
+"tt0452046:15:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T15·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892526.mp4"
+  }
+],
+"tt0452046:15:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T15·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892533.mp4"
+  }
+],
+"tt0452046:15:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T15·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892540.mp4"
+  }
+],
+"tt0452046:15:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T15·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892545.mp4"
+  }
+],
+"tt0452046:15:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T15·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892548.mp4"
+  }
+],
+"tt0452046:15:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T15·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892554.mp4"
+  }
+],
+"tt0452046:15:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T15·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892561.mp4"
+  }
+],
+"tt0452046:15:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T15·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892569.mp4"
+  }
+],
+"tt0452046:15:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T15·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892576.mp4"
+  }
+],
+"tt0452046:15:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T15·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892583.mp4"
+  }
+],
+
+// Temporada 16
+"tt0452046:16:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T16·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892592.mp4"
+  }
+],
+"tt0452046:16:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T16·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892603.mp4"
+  }
+],
+"tt0452046:16:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T16·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892611.mp4"
+  }
+],
+"tt0452046:16:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T16·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892617.mp4"
+  }
+],
+"tt0452046:16:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T16·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892624.mp4"
+  }
+],
+"tt0452046:16:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T16·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892628.mp4"
+  }
+],
+"tt0452046:16:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T16·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892629.mp4"
+  }
+],
+"tt0452046:16:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T16·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892633.mp4"
+  }
+],
+"tt0452046:16:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T16·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892642.mp4"
+  }
+],
+"tt0452046:16:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T16·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892645.mp4"
+  }
+],
+
+// Temporada 17
+"tt0452046:17:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T17·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892651.mp4"
+  }
+],
+"tt0452046:17:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T17·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892656.mp4"
+  }
+],
+"tt0452046:17:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T17·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892664.mp4"
+  }
+],
+"tt0452046:17:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T17·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892668.mp4"
+  }
+],
+"tt0452046:17:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T17·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892674.mp4"
+  }
+],
+"tt0452046:17:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T17·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892686.mp4"
+  }
+],
+"tt0452046:17:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T17·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892691.mp4"
+  }
+],
+"tt0452046:17:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T17·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892694.mp4"
+  }
+],
+"tt0452046:17:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T17·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892698.mp4"
+  }
+],
+"tt0452046:17:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T17·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892703.mp4"
+  }
+],
+
+// Temporada 18
+"tt0452046:18:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T18·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892707.mp4"
+  }
+],
+"tt0452046:18:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T18·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892711.mp4"
+  }
+],
+"tt0452046:18:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T18·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892712.mp4"
+  }
+],
+"tt0452046:18:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T18·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892722.mp4"
+  }
+],
+"tt0452046:18:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T18·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892728.mp4"
+  }
+],
+"tt0452046:18:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T18·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892730.mp4"
+  }
+],
+"tt0452046:18:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T18·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892734.mp4"
+  }
+],
+"tt0452046:18:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T18·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892738.mp4"
+  }
+],
+"tt0452046:18:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T18·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892744.mp4"
+  }
+],
+"tt0452046:18:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Mentes Criminosas",
+      ep: "T18·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3892750.mp4"
+  }
+],
+
+  
 // ==================== Chaves em Desenho Animado (tt0883625) ====================
 
 // Temporada 1
