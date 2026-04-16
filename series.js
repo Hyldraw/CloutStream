@@ -2,6 +2,7297 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// ==================== Uma Família da Pesada ====================
+
+// Temporada 1
+"tt0182576:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995118.mp4"
+  }
+],
+"tt0182576:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995127.mp4"
+  }
+],
+"tt0182576:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995134.mp4"
+  }
+],
+"tt0182576:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995143.mp4"
+  }
+],
+"tt0182576:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995166.mp4"
+  }
+],
+"tt0182576:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995171.mp4"
+  }
+],
+"tt0182576:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995191.mp4"
+  }
+],
+
+// Temporada 2
+"tt0182576:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995201.mp4"
+  }
+],
+"tt0182576:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995213.mp4"
+  }
+],
+"tt0182576:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995220.mp4"
+  }
+],
+"tt0182576:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995225.mp4"
+  }
+],
+"tt0182576:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995241.mp4"
+  }
+],
+"tt0182576:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995255.mp4"
+  }
+],
+"tt0182576:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995279.mp4"
+  }
+],
+"tt0182576:2:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995291.mp4"
+  }
+],
+"tt0182576:2:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995299.mp4"
+  }
+],
+"tt0182576:2:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995302.mp4"
+  }
+],
+"tt0182576:2:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995307.mp4"
+  }
+],
+"tt0182576:2:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995319.mp4"
+  }
+],
+"tt0182576:2:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995321.mp4"
+  }
+],
+"tt0182576:2:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995327.mp4"
+  }
+],
+"tt0182576:2:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995333.mp4"
+  }
+],
+"tt0182576:2:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995340.mp4"
+  }
+],
+"tt0182576:2:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995348.mp4"
+  }
+],
+"tt0182576:2:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995358.mp4"
+  }
+],
+"tt0182576:2:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995368.mp4"
+  }
+],
+"tt0182576:2:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995377.mp4"
+  }
+],
+"tt0182576:2:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T02·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995387.mp4"
+  }
+],
+
+// Temporada 3
+"tt0182576:3:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995394.mp4"
+  }
+],
+"tt0182576:3:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995404.mp4"
+  }
+],
+"tt0182576:3:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995412.mp4"
+  }
+],
+"tt0182576:3:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995421.mp4"
+  }
+],
+"tt0182576:3:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995429.mp4"
+  }
+],
+"tt0182576:3:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995436.mp4"
+  }
+],
+"tt0182576:3:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995443.mp4"
+  }
+],
+"tt0182576:3:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995453.mp4"
+  }
+],
+"tt0182576:3:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995460.mp4"
+  }
+],
+"tt0182576:3:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995466.mp4"
+  }
+],
+"tt0182576:3:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995473.mp4"
+  }
+],
+"tt0182576:3:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995480.mp4"
+  }
+],
+"tt0182576:3:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995488.mp4"
+  }
+],
+"tt0182576:3:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995497.mp4"
+  }
+],
+"tt0182576:3:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995505.mp4"
+  }
+],
+"tt0182576:3:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995513.mp4"
+  }
+],
+"tt0182576:3:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995518.mp4"
+  }
+],
+"tt0182576:3:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995524.mp4"
+  }
+],
+"tt0182576:3:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995530.mp4"
+  }
+],
+"tt0182576:3:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995535.mp4"
+  }
+],
+"tt0182576:3:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995547.mp4"
+  }
+],
+"tt0182576:3:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T03·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995555.mp4"
+  }
+],
+
+// Temporada 4
+"tt0182576:4:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995563.mp4"
+  }
+],
+"tt0182576:4:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995571.mp4"
+  }
+],
+"tt0182576:4:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995580.mp4"
+  }
+],
+"tt0182576:4:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995588.mp4"
+  }
+],
+"tt0182576:4:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995595.mp4"
+  }
+],
+"tt0182576:4:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995603.mp4"
+  }
+],
+"tt0182576:4:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995612.mp4"
+  }
+],
+"tt0182576:4:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995618.mp4"
+  }
+],
+"tt0182576:4:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995625.mp4"
+  }
+],
+"tt0182576:4:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995632.mp4"
+  }
+],
+"tt0182576:4:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995636.mp4"
+  }
+],
+"tt0182576:4:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995643.mp4"
+  }
+],
+"tt0182576:4:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995650.mp4"
+  }
+],
+"tt0182576:4:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995658.mp4"
+  }
+],
+"tt0182576:4:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T04·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995667.mp4"
+  }
+],
+
+// Temporada 5
+"tt0182576:5:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995674.mp4"
+  }
+],
+"tt0182576:5:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995682.mp4"
+  }
+],
+"tt0182576:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995689.mp4"
+  }
+],
+"tt0182576:5:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995699.mp4"
+  }
+],
+"tt0182576:5:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995714.mp4"
+  }
+],
+"tt0182576:5:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995725.mp4"
+  }
+],
+"tt0182576:5:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995731.mp4"
+  }
+],
+"tt0182576:5:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995737.mp4"
+  }
+],
+"tt0182576:5:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995746.mp4"
+  }
+],
+"tt0182576:5:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995765.mp4"
+  }
+],
+"tt0182576:5:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995769.mp4"
+  }
+],
+"tt0182576:5:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995772.mp4"
+  }
+],
+"tt0182576:5:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995778.mp4"
+  }
+],
+"tt0182576:5:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995783.mp4"
+  }
+],
+"tt0182576:5:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995785.mp4"
+  }
+],
+"tt0182576:5:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995795.mp4"
+  }
+],
+"tt0182576:5:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995801.mp4"
+  }
+],
+"tt0182576:5:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T05·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995812.mp4"
+  }
+],
+
+// Temporada 6
+"tt0182576:6:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995823.mp4"
+  }
+],
+"tt0182576:6:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995835.mp4"
+  }
+],
+"tt0182576:6:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995847.mp4"
+  }
+],
+"tt0182576:6:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995852.mp4"
+  }
+],
+"tt0182576:6:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995862.mp4"
+  }
+],
+"tt0182576:6:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995868.mp4"
+  }
+],
+"tt0182576:6:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995876.mp4"
+  }
+],
+"tt0182576:6:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995883.mp4"
+  }
+],
+"tt0182576:6:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995893.mp4"
+  }
+],
+"tt0182576:6:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995900.mp4"
+  }
+],
+"tt0182576:6:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995906.mp4"
+  }
+],
+"tt0182576:6:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995913.mp4"
+  }
+],
+"tt0182576:6:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995920.mp4"
+  }
+],
+"tt0182576:6:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T06·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995927.mp4"
+  }
+],
+
+// Temporada 7
+"tt0182576:7:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995934.mp4"
+  }
+],
+"tt0182576:7:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995941.mp4"
+  }
+],
+"tt0182576:7:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995946.mp4"
+  }
+],
+"tt0182576:7:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995951.mp4"
+  }
+],
+"tt0182576:7:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995956.mp4"
+  }
+],
+"tt0182576:7:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995963.mp4"
+  }
+],
+"tt0182576:7:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995967.mp4"
+  }
+],
+"tt0182576:7:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995975.mp4"
+  }
+],
+"tt0182576:7:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995982.mp4"
+  }
+],
+"tt0182576:7:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995987.mp4"
+  }
+],
+"tt0182576:7:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3995998.mp4"
+  }
+],
+"tt0182576:7:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996009.mp4"
+  }
+],
+"tt0182576:7:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996017.mp4"
+  }
+],
+"tt0182576:7:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996026.mp4"
+  }
+],
+"tt0182576:7:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996033.mp4"
+  }
+],
+"tt0182576:7:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T07·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996037.mp4"
+  }
+],
+
+// Temporada 8
+"tt0182576:8:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996041.mp4"
+  }
+],
+"tt0182576:8:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996053.mp4"
+  }
+],
+"tt0182576:8:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996061.mp4"
+  }
+],
+"tt0182576:8:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996065.mp4"
+  }
+],
+"tt0182576:8:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996066.mp4"
+  }
+],
+"tt0182576:8:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996072.mp4"
+  }
+],
+"tt0182576:8:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996085.mp4"
+  }
+],
+"tt0182576:8:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996093.mp4"
+  }
+],
+"tt0182576:8:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996109.mp4"
+  }
+],
+"tt0182576:8:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996115.mp4"
+  }
+],
+"tt0182576:8:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996121.mp4"
+  }
+],
+"tt0182576:8:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996126.mp4"
+  }
+],
+"tt0182576:8:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996143.mp4"
+  }
+],
+"tt0182576:8:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996148.mp4"
+  }
+],
+"tt0182576:8:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996155.mp4"
+  }
+],
+"tt0182576:8:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996161.mp4"
+  }
+],
+"tt0182576:8:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996169.mp4"
+  }
+],
+"tt0182576:8:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996180.mp4"
+  }
+],
+"tt0182576:8:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996200.mp4"
+  }
+],
+"tt0182576:8:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996207.mp4"
+  }
+],
+"tt0182576:8:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T08·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996216.mp4"
+  }
+],
+
+// Temporada 9
+"tt0182576:9:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996224.mp4"
+  }
+],
+"tt0182576:9:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996235.mp4"
+  }
+],
+"tt0182576:9:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996242.mp4"
+  }
+],
+"tt0182576:9:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996244.mp4"
+  }
+],
+"tt0182576:9:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996250.mp4"
+  }
+],
+"tt0182576:9:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996261.mp4"
+  }
+],
+"tt0182576:9:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996270.mp4"
+  }
+],
+"tt0182576:9:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996274.mp4"
+  }
+],
+"tt0182576:9:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996283.mp4"
+  }
+],
+"tt0182576:9:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996287.mp4"
+  }
+],
+"tt0182576:9:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996289.mp4"
+  }
+],
+"tt0182576:9:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996294.mp4"
+  }
+],
+"tt0182576:9:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996300.mp4"
+  }
+],
+"tt0182576:9:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996314.mp4"
+  }
+],
+"tt0182576:9:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996322.mp4"
+  }
+],
+"tt0182576:9:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996332.mp4"
+  }
+],
+"tt0182576:9:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996344.mp4"
+  }
+],
+"tt0182576:9:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T09·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996350.mp4"
+  }
+],
+
+// Temporada 10
+"tt0182576:10:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996353.mp4"
+  }
+],
+"tt0182576:10:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996362.mp4"
+  }
+],
+"tt0182576:10:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996372.mp4"
+  }
+],
+"tt0182576:10:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996385.mp4"
+  }
+],
+"tt0182576:10:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996392.mp4"
+  }
+],
+"tt0182576:10:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996401.mp4"
+  }
+],
+"tt0182576:10:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996408.mp4"
+  }
+],
+"tt0182576:10:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996419.mp4"
+  }
+],
+"tt0182576:10:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996426.mp4"
+  }
+],
+"tt0182576:10:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996430.mp4"
+  }
+],
+"tt0182576:10:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996436.mp4"
+  }
+],
+"tt0182576:10:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996439.mp4"
+  }
+],
+"tt0182576:10:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996445.mp4"
+  }
+],
+"tt0182576:10:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996449.mp4"
+  }
+],
+"tt0182576:10:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996455.mp4"
+  }
+],
+"tt0182576:10:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996461.mp4"
+  }
+],
+"tt0182576:10:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996469.mp4"
+  }
+],
+"tt0182576:10:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996478.mp4"
+  }
+],
+"tt0182576:10:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996485.mp4"
+  }
+],
+"tt0182576:10:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996493.mp4"
+  }
+],
+"tt0182576:10:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996497.mp4"
+  }
+],
+"tt0182576:10:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996506.mp4"
+  }
+],
+"tt0182576:10:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T10·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996512.mp4"
+  }
+],
+
+// Temporada 11
+"tt0182576:11:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996524.mp4"
+  }
+],
+"tt0182576:11:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996529.mp4"
+  }
+],
+"tt0182576:11:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996539.mp4"
+  }
+],
+"tt0182576:11:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996543.mp4"
+  }
+],
+"tt0182576:11:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996546.mp4"
+  }
+],
+"tt0182576:11:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996554.mp4"
+  }
+],
+"tt0182576:11:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996559.mp4"
+  }
+],
+"tt0182576:11:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996563.mp4"
+  }
+],
+"tt0182576:11:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996568.mp4"
+  }
+],
+"tt0182576:11:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996573.mp4"
+  }
+],
+"tt0182576:11:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996577.mp4"
+  }
+],
+"tt0182576:11:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996582.mp4"
+  }
+],
+"tt0182576:11:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996590.mp4"
+  }
+],
+"tt0182576:11:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996596.mp4"
+  }
+],
+"tt0182576:11:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996601.mp4"
+  }
+],
+"tt0182576:11:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996606.mp4"
+  }
+],
+"tt0182576:11:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996610.mp4"
+  }
+],
+"tt0182576:11:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996613.mp4"
+  }
+],
+"tt0182576:11:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996616.mp4"
+  }
+],
+"tt0182576:11:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996622.mp4"
+  }
+],
+"tt0182576:11:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996623.mp4"
+  }
+],
+"tt0182576:11:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T11·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996626.mp4"
+  }
+],
+
+// Temporada 12
+"tt0182576:12:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996631.mp4"
+  }
+],
+"tt0182576:12:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996637.mp4"
+  }
+],
+"tt0182576:12:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996644.mp4"
+  }
+],
+"tt0182576:12:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996648.mp4"
+  }
+],
+"tt0182576:12:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996653.mp4"
+  }
+],
+"tt0182576:12:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996658.mp4"
+  }
+],
+"tt0182576:12:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996663.mp4"
+  }
+],
+"tt0182576:12:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996670.mp4"
+  }
+],
+"tt0182576:12:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996675.mp4"
+  }
+],
+"tt0182576:12:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996681.mp4"
+  }
+],
+"tt0182576:12:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996687.mp4"
+  }
+],
+"tt0182576:12:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996692.mp4"
+  }
+],
+"tt0182576:12:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996697.mp4"
+  }
+],
+"tt0182576:12:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996702.mp4"
+  }
+],
+"tt0182576:12:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996707.mp4"
+  }
+],
+"tt0182576:12:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996712.mp4"
+  }
+],
+"tt0182576:12:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996717.mp4"
+  }
+],
+"tt0182576:12:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996722.mp4"
+  }
+],
+"tt0182576:12:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996726.mp4"
+  }
+],
+"tt0182576:12:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996730.mp4"
+  }
+],
+"tt0182576:12:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T12·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996734.mp4"
+  }
+],
+
+// Temporada 13
+"tt0182576:13:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996740.mp4"
+  }
+],
+"tt0182576:13:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996742.mp4"
+  }
+],
+"tt0182576:13:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996753.mp4"
+  }
+],
+"tt0182576:13:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996761.mp4"
+  }
+],
+"tt0182576:13:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996770.mp4"
+  }
+],
+"tt0182576:13:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996775.mp4"
+  }
+],
+"tt0182576:13:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996782.mp4"
+  }
+],
+"tt0182576:13:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996787.mp4"
+  }
+],
+"tt0182576:13:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996791.mp4"
+  }
+],
+"tt0182576:13:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996796.mp4"
+  }
+],
+"tt0182576:13:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996801.mp4"
+  }
+],
+"tt0182576:13:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996806.mp4"
+  }
+],
+"tt0182576:13:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996811.mp4"
+  }
+],
+"tt0182576:13:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996815.mp4"
+  }
+],
+"tt0182576:13:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996819.mp4"
+  }
+],
+"tt0182576:13:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996823.mp4"
+  }
+],
+"tt0182576:13:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996826.mp4"
+  }
+],
+"tt0182576:13:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996832.mp4"
+  }
+],
+"tt0182576:13:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T13·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996836.mp4"
+  }
+],
+
+// Temporada 14
+"tt0182576:14:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996838.mp4"
+  }
+],
+"tt0182576:14:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996843.mp4"
+  }
+],
+"tt0182576:14:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996849.mp4"
+  }
+],
+"tt0182576:14:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996854.mp4"
+  }
+],
+"tt0182576:14:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996859.mp4"
+  }
+],
+"tt0182576:14:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996864.mp4"
+  }
+],
+"tt0182576:14:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996866.mp4"
+  }
+],
+"tt0182576:14:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996869.mp4"
+  }
+],
+"tt0182576:14:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996873.mp4"
+  }
+],
+"tt0182576:14:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996877.mp4"
+  }
+],
+"tt0182576:14:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996880.mp4"
+  }
+],
+"tt0182576:14:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996885.mp4"
+  }
+],
+"tt0182576:14:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996894.mp4"
+  }
+],
+"tt0182576:14:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996901.mp4"
+  }
+],
+"tt0182576:14:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996909.mp4"
+  }
+],
+"tt0182576:14:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996919.mp4"
+  }
+],
+"tt0182576:14:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996924.mp4"
+  }
+],
+"tt0182576:14:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996927.mp4"
+  }
+],
+"tt0182576:14:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996935.mp4"
+  }
+],
+"tt0182576:14:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T14·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996942.mp4"
+  }
+],
+
+// Temporada 15
+"tt0182576:15:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996944.mp4"
+  }
+],
+"tt0182576:15:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996946.mp4"
+  }
+],
+"tt0182576:15:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996951.mp4"
+  }
+],
+"tt0182576:15:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996954.mp4"
+  }
+],
+"tt0182576:15:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996961.mp4"
+  }
+],
+"tt0182576:15:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996967.mp4"
+  }
+],
+"tt0182576:15:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996971.mp4"
+  }
+],
+"tt0182576:15:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996976.mp4"
+  }
+],
+"tt0182576:15:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996980.mp4"
+  }
+],
+"tt0182576:15:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996985.mp4"
+  }
+],
+"tt0182576:15:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996988.mp4"
+  }
+],
+"tt0182576:15:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996992.mp4"
+  }
+],
+"tt0182576:15:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996993.mp4"
+  }
+],
+"tt0182576:15:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996996.mp4"
+  }
+],
+"tt0182576:15:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3996999.mp4"
+  }
+],
+"tt0182576:15:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997002.mp4"
+  }
+],
+"tt0182576:15:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997004.mp4"
+  }
+],
+"tt0182576:15:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997007.mp4"
+  }
+],
+"tt0182576:15:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997010.mp4"
+  }
+],
+"tt0182576:15:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T15·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997012.mp4"
+  }
+],
+
+// Temporada 16
+"tt0182576:16:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997016.mp4"
+  }
+],
+"tt0182576:16:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997017.mp4"
+  }
+],
+"tt0182576:16:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997020.mp4"
+  }
+],
+"tt0182576:16:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997021.mp4"
+  }
+],
+"tt0182576:16:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997024.mp4"
+  }
+],
+"tt0182576:16:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997029.mp4"
+  }
+],
+"tt0182576:16:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997032.mp4"
+  }
+],
+"tt0182576:16:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997035.mp4"
+  }
+],
+"tt0182576:16:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997038.mp4"
+  }
+],
+"tt0182576:16:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997041.mp4"
+  }
+],
+"tt0182576:16:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997043.mp4"
+  }
+],
+"tt0182576:16:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997046.mp4"
+  }
+],
+"tt0182576:16:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997049.mp4"
+  }
+],
+"tt0182576:16:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997052.mp4"
+  }
+],
+"tt0182576:16:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997055.mp4"
+  }
+],
+"tt0182576:16:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997058.mp4"
+  }
+],
+"tt0182576:16:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997061.mp4"
+  }
+],
+"tt0182576:16:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997064.mp4"
+  }
+],
+"tt0182576:16:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T16·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997067.mp4"
+  }
+],
+
+// Temporada 17
+"tt0182576:17:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997070.mp4"
+  }
+],
+"tt0182576:17:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997073.mp4"
+  }
+],
+"tt0182576:17:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997076.mp4"
+  }
+],
+"tt0182576:17:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997079.mp4"
+  }
+],
+"tt0182576:17:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997081.mp4"
+  }
+],
+"tt0182576:17:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997083.mp4"
+  }
+],
+"tt0182576:17:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997085.mp4"
+  }
+],
+"tt0182576:17:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997087.mp4"
+  }
+],
+"tt0182576:17:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997089.mp4"
+  }
+],
+"tt0182576:17:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997091.mp4"
+  }
+],
+"tt0182576:17:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997093.mp4"
+  }
+],
+"tt0182576:17:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997095.mp4"
+  }
+],
+"tt0182576:17:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997097.mp4"
+  }
+],
+"tt0182576:17:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997099.mp4"
+  }
+],
+"tt0182576:17:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997101.mp4"
+  }
+],
+"tt0182576:17:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997103.mp4"
+  }
+],
+"tt0182576:17:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997105.mp4"
+  }
+],
+"tt0182576:17:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997108.mp4"
+  }
+],
+"tt0182576:17:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997111.mp4"
+  }
+],
+"tt0182576:17:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T17·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997114.mp4"
+  }
+],
+
+// Temporada 18
+"tt0182576:18:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997118.mp4"
+  }
+],
+"tt0182576:18:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997121.mp4"
+  }
+],
+"tt0182576:18:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997126.mp4"
+  }
+],
+"tt0182576:18:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997128.mp4"
+  }
+],
+"tt0182576:18:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997131.mp4"
+  }
+],
+"tt0182576:18:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997136.mp4"
+  }
+],
+"tt0182576:18:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997140.mp4"
+  }
+],
+"tt0182576:18:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997142.mp4"
+  }
+],
+"tt0182576:18:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997145.mp4"
+  }
+],
+"tt0182576:18:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997149.mp4"
+  }
+],
+"tt0182576:18:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997152.mp4"
+  }
+],
+"tt0182576:18:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997153.mp4"
+  }
+],
+"tt0182576:18:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997154.mp4"
+  }
+],
+"tt0182576:18:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997155.mp4"
+  }
+],
+"tt0182576:18:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997156.mp4"
+  }
+],
+"tt0182576:18:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997157.mp4"
+  }
+],
+"tt0182576:18:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997158.mp4"
+  }
+],
+"tt0182576:18:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997159.mp4"
+  }
+],
+"tt0182576:18:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997160.mp4"
+  }
+],
+"tt0182576:18:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T18·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997161.mp4"
+  }
+],
+
+// Temporada 19
+"tt0182576:19:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997162.mp4"
+  }
+],
+"tt0182576:19:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997163.mp4"
+  }
+],
+"tt0182576:19:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997164.mp4"
+  }
+],
+"tt0182576:19:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997165.mp4"
+  }
+],
+"tt0182576:19:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997166.mp4"
+  }
+],
+"tt0182576:19:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997167.mp4"
+  }
+],
+"tt0182576:19:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997168.mp4"
+  }
+],
+"tt0182576:19:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997169.mp4"
+  }
+],
+"tt0182576:19:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997170.mp4"
+  }
+],
+"tt0182576:19:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997171.mp4"
+  }
+],
+"tt0182576:19:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997172.mp4"
+  }
+],
+"tt0182576:19:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997173.mp4"
+  }
+],
+"tt0182576:19:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997174.mp4"
+  }
+],
+"tt0182576:19:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997175.mp4"
+  }
+],
+"tt0182576:19:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997176.mp4"
+  }
+],
+"tt0182576:19:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997177.mp4"
+  }
+],
+"tt0182576:19:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997178.mp4"
+  }
+],
+"tt0182576:19:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997179.mp4"
+  }
+],
+"tt0182576:19:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997180.mp4"
+  }
+],
+"tt0182576:19:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T19·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997181.mp4"
+  }
+],
+
+// Temporada 20
+"tt0182576:20:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997182.mp4"
+  }
+],
+"tt0182576:20:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997183.mp4"
+  }
+],
+"tt0182576:20:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997184.mp4"
+  }
+],
+"tt0182576:20:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997185.mp4"
+  }
+],
+"tt0182576:20:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997186.mp4"
+  }
+],
+"tt0182576:20:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997187.mp4"
+  }
+],
+"tt0182576:20:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997188.mp4"
+  }
+],
+"tt0182576:20:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997189.mp4"
+  }
+],
+"tt0182576:20:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997190.mp4"
+  }
+],
+"tt0182576:20:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997191.mp4"
+  }
+],
+"tt0182576:20:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997192.mp4"
+  }
+],
+"tt0182576:20:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997195.mp4"
+  }
+],
+"tt0182576:20:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997198.mp4"
+  }
+],
+"tt0182576:20:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997200.mp4"
+  }
+],
+"tt0182576:20:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997201.mp4"
+  }
+],
+"tt0182576:20:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T20·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997202.mp4"
+  }
+],
+
+// Temporada 21
+"tt0182576:21:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997203.mp4"
+  }
+],
+"tt0182576:21:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997204.mp4"
+  }
+],
+"tt0182576:21:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997205.mp4"
+  }
+],
+"tt0182576:21:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997206.mp4"
+  }
+],
+"tt0182576:21:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997213.mp4"
+  }
+],
+"tt0182576:21:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997214.mp4"
+  }
+],
+"tt0182576:21:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997217.mp4"
+  }
+],
+"tt0182576:21:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997228.mp4"
+  }
+],
+"tt0182576:21:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997237.mp4"
+  }
+],
+"tt0182576:21:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997240.mp4"
+  }
+],
+"tt0182576:21:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997244.mp4"
+  }
+],
+"tt0182576:21:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997250.mp4"
+  }
+],
+"tt0182576:21:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997255.mp4"
+  }
+],
+"tt0182576:21:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997259.mp4"
+  }
+],
+"tt0182576:21:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997263.mp4"
+  }
+],
+"tt0182576:21:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997267.mp4"
+  }
+],
+"tt0182576:21:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997271.mp4"
+  }
+],
+"tt0182576:21:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997274.mp4"
+  }
+],
+"tt0182576:21:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997277.mp4"
+  }
+],
+"tt0182576:21:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T21·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997279.mp4"
+  }
+],
+
+// Temporada 22
+"tt0182576:22:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997282.mp4"
+  }
+],
+"tt0182576:22:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997284.mp4"
+  }
+],
+"tt0182576:22:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997287.mp4"
+  }
+],
+"tt0182576:22:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997296.mp4"
+  }
+],
+"tt0182576:22:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997303.mp4"
+  }
+],
+"tt0182576:22:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997307.mp4"
+  }
+],
+"tt0182576:22:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997311.mp4"
+  }
+],
+"tt0182576:22:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997315.mp4"
+  }
+],
+"tt0182576:22:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997318.mp4"
+  }
+],
+"tt0182576:22:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997321.mp4"
+  }
+],
+"tt0182576:22:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997328.mp4"
+  }
+],
+"tt0182576:22:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997331.mp4"
+  }
+],
+"tt0182576:22:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997333.mp4"
+  }
+],
+"tt0182576:22:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997337.mp4"
+  }
+],
+"tt0182576:22:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997338.mp4"
+  }
+],
+"tt0182576:22:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997340.mp4"
+  }
+],
+"tt0182576:22:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T22·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997341.mp4"
+  }
+],
+
+// Temporada 23
+"tt0182576:23:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997343.mp4"
+  }
+],
+"tt0182576:23:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997346.mp4"
+  }
+],
+"tt0182576:23:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997349.mp4"
+  }
+],
+"tt0182576:23:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997351.mp4"
+  }
+],
+"tt0182576:23:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997352.mp4"
+  }
+],
+"tt0182576:23:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997354.mp4"
+  }
+],
+"tt0182576:23:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997356.mp4"
+  }
+],
+"tt0182576:23:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997358.mp4"
+  }
+],
+"tt0182576:23:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997360.mp4"
+  }
+],
+"tt0182576:23:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997362.mp4"
+  }
+],
+"tt0182576:23:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997365.mp4"
+  }
+],
+"tt0182576:23:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997367.mp4"
+  }
+],
+"tt0182576:23:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997368.mp4"
+  }
+],
+"tt0182576:23:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997370.mp4"
+  }
+],
+"tt0182576:23:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997372.mp4"
+  }
+],
+"tt0182576:23:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997375.mp4"
+  }
+],
+"tt0182576:23:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/3997377.mp4"
+  }
+],
+"tt0182576:23:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T23·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4155106.mp4"
+  }
+],
+
+// Temporada 24
+"tt0182576:24:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T24·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4155107.mp4"
+  }
+],
+"tt0182576:24:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Uma Família da Pesada",
+      ep: "T24·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4155108.mp4"
+  }
+],
+
+// ==================== Deus Salve o Rei ====================
+
+// Temporada 1
+"tt7761424:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077840.mp4"
+  }
+],
+"tt7761424:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077848.mp4"
+  }
+],
+"tt7761424:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077853.mp4"
+  }
+],
+"tt7761424:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077857.mp4"
+  }
+],
+"tt7761424:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077895.mp4"
+  }
+],
+"tt7761424:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077904.mp4"
+  }
+],
+"tt7761424:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077911.mp4"
+  }
+],
+"tt7761424:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077919.mp4"
+  }
+],
+"tt7761424:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077926.mp4"
+  }
+],
+"tt7761424:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077932.mp4"
+  }
+],
+"tt7761424:1:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077937.mp4"
+  }
+],
+"tt7761424:1:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077943.mp4"
+  }
+],
+"tt7761424:1:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077945.mp4"
+  }
+],
+"tt7761424:1:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077949.mp4"
+  }
+],
+"tt7761424:1:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077958.mp4"
+  }
+],
+"tt7761424:1:16": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077964.mp4"
+  }
+],
+"tt7761424:1:17": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E17",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077967.mp4"
+  }
+],
+"tt7761424:1:18": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E18",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077972.mp4"
+  }
+],
+"tt7761424:1:19": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E19",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077979.mp4"
+  }
+],
+"tt7761424:1:20": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E20",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077984.mp4"
+  }
+],
+"tt7761424:1:21": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E21",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077989.mp4"
+  }
+],
+"tt7761424:1:22": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E22",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077994.mp4"
+  }
+],
+"tt7761424:1:23": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E23",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4077999.mp4"
+  }
+],
+"tt7761424:1:24": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E24",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078005.mp4"
+  }
+],
+"tt7761424:1:25": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E25",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078012.mp4"
+  }
+],
+"tt7761424:1:26": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E26",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078015.mp4"
+  }
+],
+"tt7761424:1:27": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E27",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078021.mp4"
+  }
+],
+"tt7761424:1:28": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E28",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078026.mp4"
+  }
+],
+"tt7761424:1:29": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E29",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078030.mp4"
+  }
+],
+"tt7761424:1:30": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E30",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078042.mp4"
+  }
+],
+"tt7761424:1:31": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E31",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078048.mp4"
+  }
+],
+"tt7761424:1:32": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E32",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078054.mp4"
+  }
+],
+"tt7761424:1:33": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E33",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078059.mp4"
+  }
+],
+"tt7761424:1:34": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E34",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078063.mp4"
+  }
+],
+"tt7761424:1:35": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E35",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078068.mp4"
+  }
+],
+"tt7761424:1:36": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E36",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078072.mp4"
+  }
+],
+"tt7761424:1:37": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E37",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078076.mp4"
+  }
+],
+"tt7761424:1:38": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E38",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078080.mp4"
+  }
+],
+"tt7761424:1:39": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E39",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078085.mp4"
+  }
+],
+"tt7761424:1:40": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E40",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078089.mp4"
+  }
+],
+"tt7761424:1:41": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E41",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078093.mp4"
+  }
+],
+"tt7761424:1:42": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E42",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078097.mp4"
+  }
+],
+"tt7761424:1:43": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E43",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078101.mp4"
+  }
+],
+"tt7761424:1:44": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E44",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078105.mp4"
+  }
+],
+"tt7761424:1:45": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E45",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078111.mp4"
+  }
+],
+"tt7761424:1:46": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E46",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078116.mp4"
+  }
+],
+"tt7761424:1:47": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E47",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078120.mp4"
+  }
+],
+"tt7761424:1:48": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E48",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078125.mp4"
+  }
+],
+"tt7761424:1:49": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E49",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078128.mp4"
+  }
+],
+"tt7761424:1:50": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E50",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078133.mp4"
+  }
+],
+"tt7761424:1:51": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E51",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078137.mp4"
+  }
+],
+"tt7761424:1:52": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E52",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078141.mp4"
+  }
+],
+"tt7761424:1:53": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E53",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078145.mp4"
+  }
+],
+"tt7761424:1:54": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E54",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078149.mp4"
+  }
+],
+"tt7761424:1:55": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E55",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078153.mp4"
+  }
+],
+"tt7761424:1:56": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E56",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078159.mp4"
+  }
+],
+"tt7761424:1:57": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E57",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078165.mp4"
+  }
+],
+"tt7761424:1:58": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E58",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078171.mp4"
+  }
+],
+"tt7761424:1:59": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E59",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078175.mp4"
+  }
+],
+"tt7761424:1:60": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E60",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078180.mp4"
+  }
+],
+"tt7761424:1:61": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E61",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078184.mp4"
+  }
+],
+"tt7761424:1:62": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E62",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078188.mp4"
+  }
+],
+"tt7761424:1:63": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E63",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078192.mp4"
+  }
+],
+"tt7761424:1:64": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E64",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078196.mp4"
+  }
+],
+"tt7761424:1:65": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E65",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078200.mp4"
+  }
+],
+"tt7761424:1:66": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E66",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078205.mp4"
+  }
+],
+"tt7761424:1:67": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E67",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078212.mp4"
+  }
+],
+"tt7761424:1:68": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E68",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078215.mp4"
+  }
+],
+"tt7761424:1:69": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E69",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078217.mp4"
+  }
+],
+"tt7761424:1:70": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E70",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078224.mp4"
+  }
+],
+"tt7761424:1:71": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E71",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078232.mp4"
+  }
+],
+"tt7761424:1:72": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E72",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078233.mp4"
+  }
+],
+"tt7761424:1:73": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E73",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078239.mp4"
+  }
+],
+"tt7761424:1:74": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E74",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078240.mp4"
+  }
+],
+"tt7761424:1:75": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E75",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078247.mp4"
+  }
+],
+"tt7761424:1:76": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E76",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078253.mp4"
+  }
+],
+"tt7761424:1:77": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E77",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078260.mp4"
+  }
+],
+"tt7761424:1:78": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E78",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078268.mp4"
+  }
+],
+"tt7761424:1:79": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E79",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078274.mp4"
+  }
+],
+"tt7761424:1:80": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E80",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078278.mp4"
+  }
+],
+"tt7761424:1:81": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E81",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078286.mp4"
+  }
+],
+"tt7761424:1:82": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E82",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078288.mp4"
+  }
+],
+"tt7761424:1:83": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E83",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078292.mp4"
+  }
+],
+"tt7761424:1:84": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E84",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078293.mp4"
+  }
+],
+"tt7761424:1:85": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E85",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078298.mp4"
+  }
+],
+"tt7761424:1:86": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E86",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078300.mp4"
+  }
+],
+"tt7761424:1:87": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E87",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078311.mp4"
+  }
+],
+"tt7761424:1:88": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E88",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078315.mp4"
+  }
+],
+"tt7761424:1:89": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E89",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078323.mp4"
+  }
+],
+"tt7761424:1:90": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E90",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078332.mp4"
+  }
+],
+"tt7761424:1:91": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E91",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078338.mp4"
+  }
+],
+"tt7761424:1:92": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E92",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078344.mp4"
+  }
+],
+"tt7761424:1:93": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E93",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078362.mp4"
+  }
+],
+"tt7761424:1:94": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E94",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078364.mp4"
+  }
+],
+"tt7761424:1:95": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E95",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078372.mp4"
+  }
+],
+"tt7761424:1:96": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E96",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078380.mp4"
+  }
+],
+"tt7761424:1:97": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E97",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078392.mp4"
+  }
+],
+"tt7761424:1:98": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E98",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078400.mp4"
+  }
+],
+"tt7761424:1:99": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E99",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078418.mp4"
+  }
+],
+"tt7761424:1:100": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E100",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078428.mp4"
+  }
+],
+"tt7761424:1:101": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E101",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078442.mp4"
+  }
+],
+"tt7761424:1:102": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E102",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078444.mp4"
+  }
+],
+"tt7761424:1:103": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E103",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078452.mp4"
+  }
+],
+"tt7761424:1:104": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E104",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078457.mp4"
+  }
+],
+"tt7761424:1:105": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E105",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078462.mp4"
+  }
+],
+"tt7761424:1:106": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E106",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078469.mp4"
+  }
+],
+"tt7761424:1:107": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E107",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078474.mp4"
+  }
+],
+"tt7761424:1:108": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E108",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078478.mp4"
+  }
+],
+"tt7761424:1:109": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E109",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078496.mp4"
+  }
+],
+"tt7761424:1:110": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E110",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078500.mp4"
+  }
+],
+"tt7761424:1:111": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E111",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078506.mp4"
+  }
+],
+"tt7761424:1:112": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E112",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078519.mp4"
+  }
+],
+"tt7761424:1:113": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E113",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078525.mp4"
+  }
+],
+"tt7761424:1:114": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E114",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078530.mp4"
+  }
+],
+"tt7761424:1:115": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E115",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078540.mp4"
+  }
+],
+"tt7761424:1:116": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E116",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078548.mp4"
+  }
+],
+"tt7761424:1:117": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E117",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078553.mp4"
+  }
+],
+"tt7761424:1:118": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E118",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078562.mp4"
+  }
+],
+"tt7761424:1:119": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E119",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078564.mp4"
+  }
+],
+"tt7761424:1:120": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E120",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078568.mp4"
+  }
+],
+"tt7761424:1:121": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E121",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078577.mp4"
+  }
+],
+"tt7761424:1:122": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E122",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078583.mp4"
+  }
+],
+"tt7761424:1:123": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E123",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078588.mp4"
+  }
+],
+"tt7761424:1:124": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E124",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078595.mp4"
+  }
+],
+"tt7761424:1:125": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E125",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078601.mp4"
+  }
+],
+"tt7761424:1:126": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E126",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078608.mp4"
+  }
+],
+"tt7761424:1:127": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E127",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078613.mp4"
+  }
+],
+"tt7761424:1:128": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E128",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078620.mp4"
+  }
+],
+"tt7761424:1:129": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E129",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078625.mp4"
+  }
+],
+"tt7761424:1:130": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E130",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078627.mp4"
+  }
+],
+"tt7761424:1:131": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E131",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078630.mp4"
+  }
+],
+"tt7761424:1:132": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E132",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078634.mp4"
+  }
+],
+"tt7761424:1:133": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E133",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078638.mp4"
+  }
+],
+"tt7761424:1:134": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E134",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078641.mp4"
+  }
+],
+"tt7761424:1:135": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E135",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078644.mp4"
+  }
+],
+"tt7761424:1:136": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E136",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078647.mp4"
+  }
+],
+"tt7761424:1:137": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E137",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078650.mp4"
+  }
+],
+"tt7761424:1:138": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E138",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078654.mp4"
+  }
+],
+"tt7761424:1:139": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E139",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078661.mp4"
+  }
+],
+"tt7761424:1:140": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E140",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078662.mp4"
+  }
+],
+"tt7761424:1:141": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E141",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078665.mp4"
+  }
+],
+"tt7761424:1:142": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E142",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078673.mp4"
+  }
+],
+"tt7761424:1:143": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E143",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078684.mp4"
+  }
+],
+"tt7761424:1:144": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E144",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078693.mp4"
+  }
+],
+"tt7761424:1:145": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E145",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078700.mp4"
+  }
+],
+"tt7761424:1:146": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E146",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078706.mp4"
+  }
+],
+"tt7761424:1:147": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E147",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078711.mp4"
+  }
+],
+"tt7761424:1:148": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E148",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078715.mp4"
+  }
+],
+"tt7761424:1:149": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E149",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078725.mp4"
+  }
+],
+"tt7761424:1:150": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E150",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078731.mp4"
+  }
+],
+"tt7761424:1:151": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E151",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078736.mp4"
+  }
+],
+"tt7761424:1:152": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E152",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078742.mp4"
+  }
+],
+"tt7761424:1:153": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E153",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078748.mp4"
+  }
+],
+"tt7761424:1:154": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E154",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078752.mp4"
+  }
+],
+"tt7761424:1:155": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E155",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078758.mp4"
+  }
+],
+"tt7761424:1:156": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E156",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078764.mp4"
+  }
+],
+"tt7761424:1:157": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E157",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078770.mp4"
+  }
+],
+"tt7761424:1:158": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E158",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078775.mp4"
+  }
+],
+"tt7761424:1:159": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E159",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078781.mp4"
+  }
+],
+"tt7761424:1:160": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E160",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078785.mp4"
+  }
+],
+"tt7761424:1:161": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E161",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078789.mp4"
+  }
+],
+"tt7761424:1:162": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E162",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078794.mp4"
+  }
+],
+"tt7761424:1:163": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E163",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078795.mp4"
+  }
+],
+"tt7761424:1:164": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E164",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078799.mp4"
+  }
+],
+"tt7761424:1:165": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E165",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078803.mp4"
+  }
+],
+"tt7761424:1:166": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E166",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078808.mp4"
+  }
+],
+"tt7761424:1:167": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E167",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078809.mp4"
+  }
+],
+"tt7761424:1:168": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E168",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078814.mp4"
+  }
+],
+"tt7761424:1:169": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E169",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078821.mp4"
+  }
+],
+"tt7761424:1:170": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E170",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078824.mp4"
+  }
+],
+"tt7761424:1:171": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E171",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078829.mp4"
+  }
+],
+"tt7761424:1:172": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E172",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078834.mp4"
+  }
+],
+"tt7761424:1:173": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E173",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078839.mp4"
+  }
+],
+"tt7761424:1:174": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Deus Salve o Rei",
+      ep: "T01·E174",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4078844.mp4"
+  }
+],
+
+  
 // Scooby-Doo - Cadê você? (Série)
 
 // ==================== TEMPORADA 1 (1969) ====================
