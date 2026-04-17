@@ -2,6 +2,322 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// ==================== Os novos Filmes do Scooby-Doo ====================
+
+// Temporada 1 (1972)
+"tt0068112:1:1": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180454.mp4"
+  }
+],
+
+"tt0068112:1:2": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180455.mp4"
+  }
+],
+
+"tt0068112:1:3": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180456.mp4"
+  }
+],
+
+"tt0068112:1:4": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180457.mp4"
+  }
+],
+
+"tt0068112:1:5": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180458.mp4"
+  }
+],
+
+"tt0068112:1:6": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180459.mp4"
+  }
+],
+
+"tt0068112:1:7": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180460.mp4"
+  }
+],
+
+"tt0068112:1:8": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180461.mp4"
+  }
+],
+
+"tt0068112:1:9": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180462.mp4"
+  }
+],
+
+"tt0068112:1:10": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180463.mp4"
+  }
+],
+
+"tt0068112:1:11": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180464.mp4"
+  }
+],
+
+"tt0068112:1:12": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180465.mp4"
+  }
+],
+
+"tt0068112:1:13": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180466.mp4"
+  }
+],
+
+"tt0068112:1:14": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180467.mp4"
+  }
+],
+
+"tt0068112:1:15": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180468.mp4"
+  }
+],
+
+"tt0068112:1:16": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1972)",
+      ep: "T01·E16",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180469.mp4"
+  }
+],
+
+// ==================== TEMPORADA 2 (1973) ====================
+"tt0068112:2:1": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1973)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180470.mp4"
+  }
+],
+
+"tt0068112:2:2": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1973)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180471.mp4"
+  }
+],
+
+"tt0068112:2:3": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1973)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180472.mp4"
+  }
+],
+
+"tt0068112:2:4": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1973)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180473.mp4"
+  }
+],
+
+"tt0068112:2:5": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1973)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180474.mp4"
+  }
+],
+
+"tt0068112:2:6": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1973)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180475.mp4"
+  }
+],
+
+"tt0068112:2:7": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1973)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180476.mp4"
+  }
+],
+
+"tt0068112:2:8": [
+  {
+    name: "💫 CloutStream 720p",
+    title: formatTitle({
+      name: "Os Novos Filmes Do Scooby-Doo (1973)",
+      ep: "T02·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180477.mp4"
+  }
+],
+  
 // Baki-Dou: O Samurai Invencível (Série)
 
 // ==================== TEMPORADA 1 (2025) ====================
