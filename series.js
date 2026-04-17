@@ -31471,7 +31471,7 @@ const series = {
       service: "Direto HTTP",
       flags: ["Português"],
     }),
-    url: "http://vd2onebm.fun/373467.mp4"
+    url: "http://mainxs.site:80/series/619126419/568627784/4158660.mp4"
   }
 ],
 // ==================== Gen V ====================
