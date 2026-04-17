@@ -343,6 +343,31 @@ const series = {
     url: "http://mainxs.site:80/series/619126419/568627784/4156915.mp4"
   }
 ],
+  "tt38079882:2:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T02·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://vd2onebm.fun/372579.mp4"
+  }
+],
+
+"tt38079882:2:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T02·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://vd2onebm.fun/373472.mp4"
+  }
+],
   
 // ==================== Os novos Filmes do Scooby-Doo ====================
 
