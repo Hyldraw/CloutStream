@@ -29251,7 +29251,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2023)",
+      name: "Pesadelo na Cozinha (2025)",
       ep: "T04·E01",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29263,7 +29263,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2023)",
+      name: "Pesadelo na Cozinha (2025)",
       ep: "T04·E02",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29275,7 +29275,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2023)",
+      name: "Pesadelo na Cozinha (2025)",
       ep: "T04·E03",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29287,7 +29287,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2023)",
+      name: "Pesadelo na Cozinha (2025)",
       ep: "T04·E04",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29299,7 +29299,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2023)",
+      name: "Pesadelo na Cozinha (2025)",
       ep: "T04·E05",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29311,7 +29311,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2023)",
+      name: "Pesadelo na Cozinha (2025)",
       ep: "T04·E06",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29323,7 +29323,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2023)",
+      name: "Pesadelo na Cozinha (2025)",
       ep: "T04·E07",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29335,7 +29335,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2023)",
+      name: "Pesadelo na Cozinha (2025)",
       ep: "T04·E08",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29347,7 +29347,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2023)",
+      name: "Pesadelo na Cozinha (2025)",
       ep: "T04·E09",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29359,7 +29359,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2023)",
+      name: "Pesadelo na Cozinha (2025)",
       ep: "T04·E10",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29371,7 +29371,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2023)",
+      name: "Pesadelo na Cozinha (2025)",
       ep: "T04·E11",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29383,7 +29383,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2023)",
+      name: "Pesadelo na Cozinha (2025)",
       ep: "T04·E12",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29397,7 +29397,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2024)",
+      name: "Pesadelo na Cozinha (2026)",
       ep: "T05·E01",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29409,7 +29409,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2024)",
+      name: "Pesadelo na Cozinha (2026)",
       ep: "T05·E02",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29421,7 +29421,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2024)",
+      name: "Pesadelo na Cozinha (2026)",
       ep: "T05·E03",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29433,7 +29433,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2024)",
+      name: "Pesadelo na Cozinha (2026)",
       ep: "T05·E04",
       service: "Direto HTTP",
       flags: ["Português"],
