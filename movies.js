@@ -2,6 +2,34 @@
 const formatTitle = require("./formatTitle");
 
 const movies = {
+//  O Espetacular Homem-Aranha (2012) 
+
+"tt0948470": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "O Espetacular Homem-Aranha (2012)",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3914726.mp4"
+  }
+],
+
+//  O Espetacular Homem-Aranha 2: A Ameaça de Electro (2014)
+
+"tt1872181": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "O Espetacular Homem-Aranha 2: A Ameaça de Electro (2014)",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3914725.mp4"
+  }
+],
+  
 // Bruce, o Todo-Poderoso
 
 "tt0315327": [
