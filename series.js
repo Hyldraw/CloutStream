@@ -1,4 +1,4 @@
-it's// series.js
+// series.js
 const formatTitle = require("./formatTitleS");
 
 const series = {
