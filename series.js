@@ -29445,7 +29445,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2024)",
+      name: "Pesadelo na Cozinha (2026)",
       ep: "T05·E05",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29457,7 +29457,7 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2024)",
+      name: "Pesadelo na Cozinha (2026)",
       ep: "T05·E06",
       service: "Direto HTTP",
       flags: ["Português"],
@@ -29469,12 +29469,24 @@ const series = {
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
-      name: "Pesadelo na Cozinha (2024)",
+      name: "Pesadelo na Cozinha (2026)",
       ep: "T05·E07",
       service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4156854.mp4"
+  }
+],
+"tt6526624:5:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Pesadelo na Cozinha (2026)",
+      ep: "T05·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://vd2onebm.fun/373467.mp4"
   }
 ],
 
@@ -31133,7 +31145,19 @@ const series = {
     url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4O72tL0f11Y2g-JLUeITgQd"
   }
 ],
-
+  
+"tt1190634:5:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Boys (2026)",
+      ep: "T05·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://vd2onebm.fun/373467.mp4"
+  }
+],
 // ==================== Gen V ====================
 
 // Temporada 1 (2023)
