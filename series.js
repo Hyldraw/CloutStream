@@ -266,12 +266,276 @@ const series = {
       name: "The Pitt (2025)",
       ep: "T02·E07",
       service: "Direto HTTP",
+// ==================== The Pitt (tt31938062) ====================
+
+// Temporada 1 (2025)
+"tt31938062:1:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095058.mp4"
+  }
+],
+"tt31938062:1:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095065.mp4"
+  }
+],
+"tt31938062:1:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095076.mp4"
+  }
+],
+"tt31938062:1:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095079.mp4"
+  }
+],
+"tt31938062:1:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095086.mp4"
+  }
+],
+"tt31938062:1:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095096.mp4"
+  }
+],
+"tt31938062:1:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E07",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095099.mp4"
+  }
+],
+"tt31938062:1:8": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E08",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095105.mp4"
+  }
+],
+"tt31938062:1:9": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E09",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095110.mp4"
+  }
+],
+"tt31938062:1:10": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E10",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095127.mp4"
+  }
+],
+"tt31938062:1:11": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E11",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095130.mp4"
+  }
+],
+"tt31938062:1:12": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E12",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095138.mp4"
+  }
+],
+"tt31938062:1:13": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E13",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095147.mp4"
+  }
+],
+"tt31938062:1:14": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E14",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095151.mp4"
+  }
+],
+"tt31938062:1:15": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T01·E15",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095155.mp4"
+  }
+],
+
+// Temporada 2 (2025)
+"tt31938062:2:1": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T02·E01",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095158.mp4"
+  }
+],
+"tt31938062:2:2": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T02·E02",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095166.mp4"
+  }
+],
+"tt31938062:2:3": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T02·E03",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095171.mp4"
+  }
+],
+"tt31938062:2:4": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T02·E04",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095182.mp4"
+  }
+],
+"tt31938062:2:5": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T02·E05",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095185.mp4"
+  }
+],
+"tt31938062:2:6": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T02·E06",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://mainxs.site:80/series/619126419/568627784/4095188.mp4"
+  }
+],
+"tt31938062:2:7": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "The Pitt (2025)",
+      ep: "T02·E07",
+      service: "Direto HTTP",
       flags: ["Português"],
     }),
     url: "http://mainxs.site:80/series/619126419/568627784/4095194.mp4"
   }
 ],
-"tt38079882:2:8": [
+"tt31938062:2:8": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -283,7 +547,7 @@ const series = {
     url: "http://mainxs.site:80/series/619126419/568627784/4095198.mp4"
   }
 ],
-"tt38079882:2:9": [
+"tt31938062:2:9": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -295,7 +559,7 @@ const series = {
     url: "http://mainxs.site:80/series/619126419/568627784/4095206.mp4"
   }
 ],
-"tt38079882:2:10": [
+"tt31938062:2:10": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -307,7 +571,7 @@ const series = {
     url: "http://mainxs.site:80/series/619126419/568627784/4155347.mp4"
   }
 ],
-"tt38079882:2:11": [
+"tt31938062:2:11": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -319,7 +583,7 @@ const series = {
     url: "http://mainxs.site:80/series/619126419/568627784/4155716.mp4"
   }
 ],
-"tt38079882:2:12": [
+"tt31938062:2:12": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -331,7 +595,7 @@ const series = {
     url: "http://mainxs.site:80/series/619126419/568627784/4155717.mp4"
   }
 ],
-"tt38079882:2:13": [
+"tt31938062:2:13": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
@@ -343,20 +607,7 @@ const series = {
     url: "http://mainxs.site:80/series/619126419/568627784/4156915.mp4"
   }
 ],
-  "tt38079882:2:14": [
-  {
-    name: "💫 CloutStream 1080p",
-    title: formatTitle({
-      name: "The Pitt (2025)",
-      ep: "T02·E14",
-      service: "Direto HTTP",
-      flags: ["Português"],
-    }),
-    url: "http://vd2onebm.fun/372579.mp4"
-  }
-],
-
-"tt38079882:2:15": [
+"tt31938062:2:14": [
   {
     name: "💫 CloutStream 1080p",
     title: formatTitle({
