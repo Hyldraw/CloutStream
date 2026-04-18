@@ -9,7 +9,7 @@ const animes = require("./animes");
 // ==========================================
 const manifest = {
     id: "com.cloutstream",
-    version: "1.3.5",                    // aumentei um pouco a versão
+    version: "1.3.6",                    // aumentei um pouco a versão
     name: "CloutStream",
     description: "Filmes e séries com carregamento rápido, sem travamentos e excelente qualidade.",
     logo: "https://i.imgur.com/nHiohqg.jpeg",
