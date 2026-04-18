@@ -2,6 +2,38 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// ==================== TEMPORADA 1 ====================
+"tt12074628:1:1": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983433.mp4" } ],
+"tt12074628:1:2": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983437.mp4" } ],
+"tt12074628:1:3": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983440.mp4" } ],
+"tt12074628:1:4": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983442.mp4" } ],
+"tt12074628:1:5": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983445.mp4" } ],
+"tt12074628:1:6": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983451.mp4" } ],
+"tt12074628:1:7": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983461.mp4" } ],
+"tt12074628:1:8": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983464.mp4" } ],
+"tt12074628:1:9": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983467.mp4" } ],
+
+// ==================== TEMPORADA 2 ====================
+"tt12074628:2:1": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T02·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983470.mp4" } ],
+"tt12074628:2:2": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T02·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983472.mp4" } ],
+"tt12074628:2:3": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T02·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983474.mp4" } ],
+"tt12074628:2:4": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T02·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983477.mp4" } ],
+"tt12074628:2:5": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T02·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983481.mp4" } ],
+"tt12074628:2:6": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T02·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983486.mp4" } ],
+"tt12074628:2:7": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T02·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983489.mp4" } ],
+"tt12074628:2:8": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T02·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983492.mp4" } ],
+
+// ==================== TEMPORADA 3 ====================
+"tt12074628:3:1": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983497.mp4" } ],
+"tt12074628:3:2": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983499.mp4" } ],
+"tt12074628:3:3": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983507.mp4" } ],
+"tt12074628:3:4": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983511.mp4" } ],
+"tt12074628:3:5": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983515.mp4" } ],
+"tt12074628:3:6": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983518.mp4" } ],
+"tt12074628:3:7": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983520.mp4" } ],
+"tt12074628:3:8": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983522.mp4" } ],
+
+  
 // ==================== The Pitt (tt31938062) ====================
 
 // Temporada 1 (2025)
