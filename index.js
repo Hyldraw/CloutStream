@@ -2,6 +2,7 @@
 const { addonBuilder, serveHTTP } = require("stremio-addon-sdk");
 const movies = require("./movies");
 const series = require("./series");
+const animes = require("./animes");
 
 // ==========================================
 // MANIFEST
@@ -22,10 +23,11 @@ const manifest = {
         issuer: "https://stremio-addons.net",
         signature: "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..UQyF8DlipC7V3s79CYTqyQ.KGWRXppVxxPGV7I-6VARM33Vx-IdhiSo9DM71VQCofFLHv-t093Flp8Wj_eiy-lVWY-BjDS9quFcVW6c9hDObwINNl_avbwOA1i8txctq-6JAQ6bSDI_i3r4j2QqCR_Y.tGe8pTJsphbdjaUPPh3UbQ"
     },
-    
+
     catalogs: [
         { type: "movie", id: "cloutstream-recentes", name: "Últimos Filmes", extra: [{ name: "search", isRequired: false }] },
-        { type: "series", id: "cloutstream-recentes-series", name: "Últimas Séries", extra: [{ name: "search", isRequired: false }] }
+        { type: "series", id: "cloutstream-recentes-series", name: "Últimas Séries", extra: [{ name: "search", isRequired: false }] },
+        { type: "series", id: "cloutstream-recentes-animes", name: "Últimos Animes", extra: [{ name: "search", isRequired: false }] }
     ]
 };
 
@@ -35,8 +37,8 @@ const manifest = {
 const TMDB_API_KEY = "684c7dd6657929028f2ad1bd1ef6e3c8";
 const TMDB_IMAGE_URL = "https://image.tmdb.org/t/p/w500";
 
-// Unifica filmes + séries
-const streams = { ...movies, ...series };
+// Unifica filmes + séries + animes
+const streams = { ...movies, ...series, ...animes };
 
 // ==========================================
 // EXTRAÇÃO AUTOMÁTICA DE CATÁLOGO
@@ -76,11 +78,35 @@ function extrairSeries() {
     return Array.from(map.values());
 }
 
+function extrairAnimes() {
+    const map = new Map();
+    for (const [id, list] of Object.entries(animes)) {
+        if (!id.includes(":")) continue;
+        const animeId = id.split(":")[0];
+        const item = list[0];
+        if (!item?.title) continue;
+
+        let nome = "Anime Desconhecido";
+        let ano = 2024;
+        const match = item.title.match(/🌊\s*([^(]+?)\s*\((\d{4})\)/i);
+        if (match) {
+            nome = match[1].trim();
+            ano = parseInt(match[2]);
+        }
+        if (!map.has(animeId)) {
+            map.set(animeId, { id: animeId, nome, ano });
+        }
+    }
+    return Array.from(map.values());
+}
+
 const catalogoFilmes = extrairFilmes();
 const catalogoSeries = extrairSeries();
+const catalogoAnimes = extrairAnimes();
 
 console.log(`🎬 Filmes extraídos: ${catalogoFilmes.length}`);
 console.log(`📺 Séries extraídas: ${catalogoSeries.length}`);
+console.log(`🍙 Animes extraídos: ${catalogoAnimes.length}`);
 
 // ==========================================
 // TMDB - Buscar Posters
@@ -137,7 +163,15 @@ async function carregarPosters() {
         await new Promise(r => setTimeout(r, 120));
     }
 
-    postersCache = { filmes: filmesComPoster, series: seriesComPoster };
+    const animesComPoster = [];
+    for (const anime of catalogoAnimes) {
+        const poster = await buscarPosterTMDB(anime.id, "tv");
+        animesComPoster.push({ ...anime, poster });
+        console.log(`✅ Anime: ${anime.nome} (${anime.ano})`);
+        await new Promise(r => setTimeout(r, 120));
+    }
+
+    postersCache = { filmes: filmesComPoster, series: seriesComPoster, animes: animesComPoster };
     return postersCache;
 }
 
@@ -175,6 +209,19 @@ builder.defineCatalogHandler(async ({ type, id }) => {
         };
     }
 
+    if (type === "series" && id === "cloutstream-recentes-animes") {
+        return {
+            metas: posters.animes.map(a => ({
+                id: a.id,
+                type: "series",
+                name: a.nome,
+                year: a.ano,
+                poster: a.poster,
+                posterShape: "regular"
+            }))
+        };
+    }
+
     return { metas: [] };
 });
 
@@ -189,7 +236,7 @@ async function iniciar() {
     await carregarPosters();           // agora a função existe
     serveHTTP(builder.getInterface(), { port: process.env.PORT || 7000 });
     console.log(`\n🚀 CloutStream rodando em http://localhost:7000`);
-    console.log(`   Filmes: ${postersCache.filmes.length} | Séries: ${postersCache.series.length}`);
+    console.log(`   Filmes: ${postersCache.filmes.length} | Séries: ${postersCache.series.length} | Animes: ${postersCache.animes.length}`);
 }
 
 iniciar().catch(err => {
