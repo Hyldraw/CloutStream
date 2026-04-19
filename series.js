@@ -2,6 +2,54 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// O Show do Scooby-Doo (Série)
+
+// ==================== TEMPORADA 1 (1976) ====================
+"tt0074053:1:1": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130331.mp4" }],
+"tt0074053:1:2": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130332.mp4" }],
+"tt0074053:1:3": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130333.mp4" }],
+"tt0074053:1:4": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130334.mp4" }],
+"tt0074053:1:5": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130335.mp4" }],
+"tt0074053:1:6": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130336.mp4" }],
+"tt0074053:1:7": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130337.mp4" }],
+"tt0074053:1:8": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130338.mp4" }],
+"tt0074053:1:9": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130339.mp4" }],
+"tt0074053:1:10": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130340.mp4" }],
+"tt0074053:1:11": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130341.mp4" }],
+"tt0074053:1:12": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130342.mp4" }],
+"tt0074053:1:13": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E13", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130343.mp4" }],
+"tt0074053:1:14": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E14", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130344.mp4" }],
+"tt0074053:1:15": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E15", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130345.mp4" }],
+"tt0074053:1:16": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1976)", ep: "T01·E16", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/130346.mp4" }],
+
+// ==================== TEMPORADA 2 (1977) ====================
+"tt0074053:2:1": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1977)", ep: "T02·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/137374.mp4" }],
+"tt0074053:2:2": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1977)", ep: "T02·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/137375.mp4" }],
+"tt0074053:2:3": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1977)", ep: "T02·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/137376.mp4" }],
+"tt0074053:2:4": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1977)", ep: "T02·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/137377.mp4" }],
+"tt0074053:2:5": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1977)", ep: "T02·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/137378.mp4" }],
+"tt0074053:2:6": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1977)", ep: "T02·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/137379.mp4" }],
+"tt0074053:2:7": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1977)", ep: "T02·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/137380.mp4" }],
+"tt0074053:2:8": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1977)", ep: "T02·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/137381.mp4" }],
+
+// ==================== TEMPORADA 3 (1978) ====================
+"tt0074053:3:1": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141647.mp4" }],
+"tt0074053:3:2": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141648.mp4" }],
+"tt0074053:3:3": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141649.mp4" }],
+"tt0074053:3:4": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141650.mp4" }],
+"tt0074053:3:5": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141651.mp4" }],
+"tt0074053:3:6": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141652.mp4" }],
+"tt0074053:3:7": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141653.mp4" }],
+"tt0074053:3:8": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141654.mp4" }],
+"tt0074053:3:9": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141655.mp4" }],
+"tt0074053:3:10": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141656.mp4" }],
+"tt0074053:3:11": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141657.mp4" }],
+"tt0074053:3:12": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141658.mp4" }],
+"tt0074053:3:13": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E13", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141659.mp4" }],
+"tt0074053:3:14": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E14", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141660.mp4" }],
+"tt0074053:3:15": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E15", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141661.mp4" }],
+"tt0074053:3:16": [{ name: "💫 CloutStream 720p", title: formatTitle({ name: "O Show do Scooby-Doo (1978)", ep: "T03·E16", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Max/141662.mp4" }],
+  
 // Planeta Pré-Histórico (Série)
 
 // ==================== TEMPORADA 1 (2022) ====================
