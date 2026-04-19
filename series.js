@@ -70,7 +70,7 @@ const series = {
 "tt31938062:2:12": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Pitt (2025)", ep: "T02·E12", service: "Direto HTTP", flags: ["Português"], }), url: "http://mainxs.site:80/series/619126419/568627784/4155717.mp4" } ],
 "tt31938062:2:13": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Pitt (2025)", ep: "T02·E13", service: "Direto HTTP", flags: ["Português"], }), url: "http://mainxs.site:80/series/619126419/568627784/4156915.mp4" } ],
 "tt31938062:2:14": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Pitt (2025)", ep: "T02·E14", service: "Direto HTTP", flags: ["Português"], }), url: "http://vd2onebm.fun/373472.mp4" } ],
-  
+"tt31938062:2:15": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Pitt (2025)", ep: "T02·E15", service: "Direto HTTP", flags: ["Português"], }), url: "  http://mainxs.site:80/series/619126419/568627784/4158986.mp4" } ],
 // ==================== Os novos Filmes do Scooby-Doo ====================
 
 // Temporada 1 (1972)
