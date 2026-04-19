@@ -2907,6 +2907,7 @@ const series = {
 "tt6526624:5:6": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Pesadelo na Cozinha (2026)", ep: "T05·E06", service: "Direto HTTP", flags: ["Português"], }), url: "http://mainxs.site:80/series/619126419/568627784/4155541.mp4" } ],
 "tt6526624:5:7": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Pesadelo na Cozinha (2026)", ep: "T05·E07", service: "Direto HTTP", flags: ["Português"], }), url: "http://mainxs.site:80/series/619126419/568627784/4156854.mp4" } ],
 "tt6526624:5:8": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Pesadelo na Cozinha (2026)", ep: "T05·E08", service: "Direto HTTP", flags: ["Português"], }), url: "http://vd2onebm.fun/373467.mp4" } ],
+"tt6526624:5:9": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Pesadelo na Cozinha (2026)", ep: "T05·E09", service: "Direto HTTP", flags: ["Português"], }), url: "http://mainxs.site:80/series/619126419/568627784/4158918.mp4" } ],
 
 
   
