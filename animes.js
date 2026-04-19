@@ -4,6 +4,73 @@ const formatTitle = require("./formatTitleS");
 const animes = {
 
 // ==========================================
+// Jujutsu Kaisen
+// ==========================================
+
+// ==================== TEMPORADA 1 ====================
+"tt12343534:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950582.mp4" }],
+"tt12343534:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950589.mp4" }],
+"tt12343534:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950596.mp4" }],
+"tt12343534:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950600.mp4" }],
+"tt12343534:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950605.mp4" }],
+"tt12343534:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950606.mp4" }],
+"tt12343534:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950614.mp4" }],
+"tt12343534:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950619.mp4" }],
+"tt12343534:1:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950622.mp4" }],
+"tt12343534:1:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950632.mp4" }],
+"tt12343534:1:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950636.mp4" }],
+"tt12343534:1:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950640.mp4" }],
+"tt12343534:1:13": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E13", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950645.mp4" }],
+"tt12343534:1:14": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E14", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950648.mp4" }],
+"tt12343534:1:15": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E15", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950655.mp4" }],
+"tt12343534:1:16": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E16", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950664.mp4" }],
+"tt12343534:1:17": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E17", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950666.mp4" }],
+"tt12343534:1:18": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E18", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950670.mp4" }],
+"tt12343534:1:19": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E19", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950676.mp4" }],
+"tt12343534:1:20": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E20", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950683.mp4" }],
+"tt12343534:1:21": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E21", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950689.mp4" }],
+"tt12343534:1:22": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E22", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950691.mp4" }],
+"tt12343534:1:23": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E23", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950697.mp4" }],
+"tt12343534:1:24": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T01·E24", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950705.mp4" }],
+
+// ==================== TEMPORADA 2 ====================
+"tt12343534:2:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950710.mp4" }],
+"tt12343534:2:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950714.mp4" }],
+"tt12343534:2:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950720.mp4" }],
+"tt12343534:2:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950725.mp4" }],
+"tt12343534:2:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950730.mp4" }],
+"tt12343534:2:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950735.mp4" }],
+"tt12343534:2:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950740.mp4" }],
+"tt12343534:2:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950745.mp4" }],
+"tt12343534:2:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950749.mp4" }],
+"tt12343534:2:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950753.mp4" }],
+"tt12343534:2:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950757.mp4" }],
+"tt12343534:2:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950761.mp4" }],
+"tt12343534:2:13": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E13", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950765.mp4" }],
+"tt12343534:2:14": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E14", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950768.mp4" }],
+"tt12343534:2:15": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E15", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950772.mp4" }],
+"tt12343534:2:16": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E16", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950774.mp4" }],
+"tt12343534:2:17": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E17", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950776.mp4" }],
+"tt12343534:2:18": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E18", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950780.mp4" }],
+"tt12343534:2:19": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E19", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950783.mp4" }],
+"tt12343534:2:20": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E20", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950786.mp4" }],
+"tt12343534:2:21": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E21", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950789.mp4" }],
+"tt12343534:2:22": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E22", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950792.mp4" }],
+"tt12343534:2:23": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T02·E23", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950797.mp4" }],
+
+// ==================== TEMPORADA 3 ====================
+"tt12343534:3:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T03·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950800.mp4" }],
+"tt12343534:3:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T03·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950802.mp4" }],
+"tt12343534:3:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T03·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950805.mp4" }],
+"tt12343534:3:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T03·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950807.mp4" }],
+"tt12343534:3:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T03·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950811.mp4" }],
+"tt12343534:3:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T03·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950813.mp4" }],
+"tt12343534:3:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T03·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3950817.mp4" }],
+"tt12343534:3:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T03·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4155561.mp4" }],
+"tt12343534:3:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T03·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4155562.mp4" }],
+"tt12343534:3:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jujutsu Kaisen", ep: "T03·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4157061.mp4" }],
+
+// ==========================================
 // BAKI-DOU: O SAMURAI INVENCÍVEL (tt38201910)
 // ==========================================
 
