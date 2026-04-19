@@ -2,6 +2,31 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// Planeta Pré-Histórico (Série)
+
+// ==================== TEMPORADA 1 (2022) ====================
+"tt10324164:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2022)", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/AppleTV/arquivo/161468.mp4" }],
+"tt10324164:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2022)", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/AppleTV/arquivo/161469.mp4" }],
+"tt10324164:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2022)", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/AppleTV/arquivo/161470.mp4" }],
+"tt10324164:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2022)", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/AppleTV/arquivo/161471.mp4" }],
+"tt10324164:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2022)", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/AppleTV/arquivo/161472.mp4" }],
+
+// ==================== TEMPORADA 2 (2023) ====================
+"tt10324164:2:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2023)", ep: "T02·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/AppleTV/arquivo/196149.mp4" }],
+"tt10324164:2:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2023)", ep: "T02·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/AppleTV/arquivo/196446.mp4" }],
+"tt10324164:2:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2023)", ep: "T02·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/AppleTV/arquivo/196447.mp4" }],
+"tt10324164:2:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2023)", ep: "T02·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/AppleTV/arquivo/196448.mp4" }],
+"tt10324164:2:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2023)", ep: "T02·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/AppleTV/arquivo/196449.mp4" }],
+
+// ==================== TEMPORADA 3 (2025) ====================
+"tt10324164:3:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2025)", ep: "T03·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3990468.mp4" }],
+"tt10324164:3:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2025)", ep: "T03·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3990476.mp4" }],
+"tt10324164:3:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2025)", ep: "T03·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3990482.mp4" }],
+"tt10324164:3:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2025)", ep: "T03·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3990485.mp4" }],
+"tt10324164:3:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico (2025)", ep: "T03·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3990486.mp4" }],
+
+// ==================== Amigos Sorridentes ====================
+  
 // ==================== TEMPORADA 1 ====================
 "tt12074628:1:1": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983433.mp4" } ],
 "tt12074628:1:2": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983437.mp4" } ],
