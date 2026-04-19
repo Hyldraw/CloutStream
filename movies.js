@@ -2,6 +2,34 @@
 const formatTitle = require("./formatTitle");
 
 const movies = {
+// Tropa Estelar (Filmes)
+
+// ==================== Tropa Estelares (1997) ====================
+"tt0120201": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Tropa Estelares (1997)",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3915076.mp4"
+  }
+],
+
+// ==================== Tropa Estelares 2 (2004) ====================
+"tt0367093": [
+  {
+    name: "💫 CloutStream 1080p",
+    title: formatTitle({
+      name: "Tropa Estelares 2 (2004)",
+      service: "Direto HTTP",
+      flags: ["Português"],
+    }),
+    url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3915075.mp4"
+  }
+],
+  
 //  O Espetacular Homem-Aranha (2012) 
 
 "tt0948470": [
