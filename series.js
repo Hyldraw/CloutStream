@@ -32,6 +32,8 @@ const series = {
 "tt12074628:3:6": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983518.mp4" } ],
 "tt12074628:3:7": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983520.mp4" } ],
 "tt12074628:3:8": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3983522.mp4" } ],
+"tt12074628:3:9": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4158147.mp4" } ],
+"tt12074628:3:10": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Smiling Friends", ep: "T03·E010", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4158147.mp4" } ],
 
   
 // ==================== The Pitt (tt31938062) ====================
