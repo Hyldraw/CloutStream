@@ -6,7 +6,7 @@ const movies = {
 
 "tt0110770": [
   {
-    name: "🌊 CloutStream 480p",
+    name: "💫 CloutStream 480p",
     title: formatTitle({
       name: "Jovem Obsessão (1994)",
       service: "Terabox・@Rodriguez061199",
