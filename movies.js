@@ -3,8 +3,6 @@ const formatTitle = require("./formatTitle");
 
 const movies = {
 // O Pentelho
-  }
-
 
 "tt0115798": [
   {
