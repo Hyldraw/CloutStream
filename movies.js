@@ -2,8 +2,23 @@
 const formatTitle = require("./formatTitle");
 
 const movies = {
-  
-// Tropa Estelar (Filmes)
+  //Johnny English
+"tt0274166": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Johnny English (2003)", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/movie/619126419/568627784/4139200.mp4" }],
+
+//O Retorno de Johnny English
+"tt1634122": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "O Retorno de Johnny English (2011)", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/movie/619126419/568627784/4139180.mp4" }],
+
+//Johnny English 3.0
+"tt6921996": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Johnny English 3.0 (2018)", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/movie/619126419/568627784/4139160.mp4" }],
+
+//Sin City - A Cidade do Pecado
+"tt0401792": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sin City - A Cidade do Pecado (2005)", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/movie/619126419/568627784/4152929.mp4" }],
+
+//Sin City 2 - A Dama Fatal
+"tt0458481": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sin City 2 - A Dama Fatal (2014)", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/movie/619126419/568627784/4151681.mp4" }],
+
+//Green Book
+"tt6966692": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Green Book: O Guia (2018)", service: "Direto HTTP", flags: ["Português"] }), url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3895962.mp4" }],
 
 // Tropa Estelares (1997)
 "tt0120201": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Tropa Estelares (1997)", service: "Direto HTTP", flags: ["Português"] }), url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3915076.mp4" }],
