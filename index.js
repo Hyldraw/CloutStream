@@ -48,9 +48,14 @@ function extrairFilmes() {
     for (const [id, list] of Object.entries(movies)) {
         const item = list[0];
         if (!item?.title) continue;
-        const match = item.title.match(/🌊\s*(.+?)\s*\((\d{4})\)/);
-        if (match) {
-            map.set(id, { id, nome: match[1].trim(), ano: parseInt(match[2]) });
+        const linha1 = item.title.split("\n")[0];
+        // Aceita qualquer emoji (ou nenhum) antes do nome, com ou sem ano
+        const matchComAno = linha1.match(/^[\p{Emoji}\s]*(.+?)\s*\((\d{4})\)\s*$/u);
+        const matchSemAno = linha1.match(/^[\p{Emoji}\s]*(.+?)\s*$/u);
+        if (matchComAno) {
+            map.set(id, { id, nome: matchComAno[1].trim(), ano: parseInt(matchComAno[2]) });
+        } else if (matchSemAno) {
+            map.set(id, { id, nome: matchSemAno[1].trim(), ano: 2024 });
         }
     }
     return Array.from(map.values());
@@ -66,10 +71,15 @@ function extrairSeries() {
 
         let nome = "Série Desconhecida";
         let ano = 2024;
-        const match = item.title.match(/🌊\s*([^(]+?)\s*\((\d{4})\)/i);
-        if (match) {
-            nome = match[1].trim();
-            ano = parseInt(match[2]);
+        const linha1 = item.title.split("\n")[0];
+        // Aceita qualquer emoji (ou nenhum) antes do nome, com ou sem ano
+        const matchComAno = linha1.match(/^[\p{Emoji}\s]*(.+?)\s*\((\d{4})\)\s*$/u);
+        const matchSemAno = linha1.match(/^[\p{Emoji}\s]*(.+?)\s*$/u);
+        if (matchComAno) {
+            nome = matchComAno[1].trim();
+            ano = parseInt(matchComAno[2]);
+        } else if (matchSemAno) {
+            nome = matchSemAno[1].trim();
         }
         if (!map.has(serieId)) {
             map.set(serieId, { id: serieId, nome, ano });
@@ -88,10 +98,15 @@ function extrairAnimes() {
 
         let nome = "Anime Desconhecido";
         let ano = 2024;
-        const match = item.title.match(/🌊\s*([^(]+?)\s*\((\d{4})\)/i);
-        if (match) {
-            nome = match[1].trim();
-            ano = parseInt(match[2]);
+        const linha1 = item.title.split("\n")[0];
+        // Aceita qualquer emoji (ou nenhum) antes do nome, com ou sem ano
+        const matchComAno = linha1.match(/^[\p{Emoji}\s]*(.+?)\s*\((\d{4})\)\s*$/u);
+        const matchSemAno = linha1.match(/^[\p{Emoji}\s]*(.+?)\s*$/u);
+        if (matchComAno) {
+            nome = matchComAno[1].trim();
+            ano = parseInt(matchComAno[2]);
+        } else if (matchSemAno) {
+            nome = matchSemAno[1].trim();
         }
         if (!map.has(animeId)) {
             map.set(animeId, { id: animeId, nome, ano });
