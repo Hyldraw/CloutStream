@@ -2,7 +2,116 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
-
+//Shining Girls
+// ==================== TEMPORADA 1 ====================
+"tt2953250:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Shining Girls", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988217.mp4" }],
+"tt2953250:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Shining Girls", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988221.mp4" }],
+"tt2953250:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Shining Girls", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988226.mp4" }],
+"tt2953250:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Shining Girls", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988230.mp4" }],
+"tt2953250:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Shining Girls", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988234.mp4" }],
+"tt2953250:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Shining Girls", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988236.mp4" }],
+"tt2953250:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Shining Girls", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988240.mp4" }],
+"tt2953250:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Shining Girls", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988244.mp4" }],
+  
+//She-Hulk
+// ==================== TEMPORADA 1 ====================
+"tt10857160:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "She-Hulk", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998385.mp4" }],
+"tt10857160:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "She-Hulk", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998386.mp4" }],
+"tt10857160:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "She-Hulk", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998387.mp4" }],
+"tt10857160:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "She-Hulk", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998388.mp4" }],
+"tt10857160:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "She-Hulk", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998389.mp4" }],
+"tt10857160:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "She-Hulk", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998390.mp4" }],
+"tt10857160:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "She-Hulk", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998391.mp4" }],
+"tt10857160:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "She-Hulk", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998393.mp4" }],
+"tt10857160:1:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "She-Hulk", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998395.mp4" }],
+  
+//Sense 8
+// ==================== TEMPORADA 1 ====================
+"tt2431438:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890928.mp4" }],
+"tt2431438:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890934.mp4" }],
+"tt2431438:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890949.mp4" }],
+"tt2431438:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890955.mp4" }],
+"tt2431438:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890965.mp4" }],
+"tt2431438:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890967.mp4" }],
+"tt2431438:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890974.mp4" }],
+"tt2431438:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890977.mp4" }],
+"tt2431438:1:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890979.mp4" }],
+"tt2431438:1:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890984.mp4" }],
+"tt2431438:1:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890986.mp4" }],
+"tt2431438:1:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890990.mp4" }],
+"tt2431438:1:18": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T01·E18", service: "Direto HTTP", flags: ["Legendado"] }), url: "http://mainxs.site:80/series/619126419/568627784/4114171.mp4" }],
+// ==================== TEMPORADA 2 ====================
+"tt2431438:2:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3890996.mp4" }],
+"tt2431438:2:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3891003.mp4" }],
+"tt2431438:2:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3891006.mp4" }],
+"tt2431438:2:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3891016.mp4" }],
+"tt2431438:2:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3891025.mp4" }],
+"tt2431438:2:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3891029.mp4" }],
+"tt2431438:2:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3891034.mp4" }],
+"tt2431438:2:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3891040.mp4" }],
+"tt2431438:2:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3891051.mp4" }],
+"tt2431438:2:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3891055.mp4" }],
+"tt2431438:2:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3891070.mp4" }],
+"tt2431438:2:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3891074.mp4" }],
+"tt2431438:2:13": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sense 8", ep: "T02·E13", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3891088.mp4" }],
+  
+//See
+// ==================== TEMPORADA 1 ====================
+"tt7949218:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898568.mp4" }],
+"tt7949218:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898573.mp4" }],
+"tt7949218:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898583.mp4" }],
+"tt7949218:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898591.mp4" }],
+"tt7949218:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898609.mp4" }],
+"tt7949218:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898629.mp4" }],
+"tt7949218:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898633.mp4" }],
+"tt7949218:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898638.mp4" }],
+"tt7949218:1:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898644.mp4" }],
+"tt7949218:1:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898659.mp4" }],
+"tt7949218:1:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898664.mp4" }],
+"tt7949218:1:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898676.mp4" }],
+"tt7949218:1:13": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T01·E13", service: "Direto HTTP", flags: ["Legendado"] }), url: "http://mainxs.site:80/series/619126419/568627784/4087388.mp4" }],
+// ==================== TEMPORADA 2 ====================
+"tt7949218:2:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T02·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898685.mp4" }],
+"tt7949218:2:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T02·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898698.mp4" }],
+"tt7949218:2:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T02·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898706.mp4" }],
+"tt7949218:2:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T02·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898718.mp4" }],
+"tt7949218:2:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T02·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898724.mp4" }],
+"tt7949218:2:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T02·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898728.mp4" }],
+"tt7949218:2:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T02·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898736.mp4" }],
+"tt7949218:2:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T02·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898753.mp4" }],
+"tt7949218:2:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T02·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898767.mp4" }],
+"tt7949218:2:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T02·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898770.mp4" }],
+"tt7949218:2:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T02·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898780.mp4" }],
+"tt7949218:2:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T02·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3898790.mp4" }],
+// ==================== TEMPORADA 3 ====================
+"tt7949218:3:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T03·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3903155.mp4" }],
+"tt7949218:3:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T03·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3903157.mp4" }],
+"tt7949218:3:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T03·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3903161.mp4" }],
+"tt7949218:3:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T03·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3903166.mp4" }],
+"tt7949218:3:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T03·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3903172.mp4" }],
+"tt7949218:3:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T03·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3903181.mp4" }],
+"tt7949218:3:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T03·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3903187.mp4" }],
+"tt7949218:3:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "See", ep: "T03·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3903190.mp4" }],
+  
+//Invasão Secreta
+// ==================== TEMPORADA 1 ====================
+"tt13157618:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Invasão Secreta", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4020491.mp4" }],
+"tt13157618:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Invasão Secreta", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4020494.mp4" }],
+"tt13157618:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Invasão Secreta", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4020497.mp4" }],
+"tt13157618:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Invasão Secreta", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4020500.mp4" }],
+"tt13157618:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Invasão Secreta", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4020505.mp4" }],
+"tt13157618:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Invasão Secreta", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4020507.mp4" }],
+  
+//Ratched
+// ==================== TEMPORADA 1 ====================
+"tt7423538:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Ratched", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3931763.mp4" }],
+"tt7423538:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Ratched", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3931765.mp4" }],
+"tt7423538:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Ratched", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3931768.mp4" }],
+"tt7423538:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Ratched", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3931773.mp4" }],
+"tt7423538:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Ratched", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3931781.mp4" }],
+"tt7423538:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Ratched", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3931783.mp4" }],
+"tt7423538:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Ratched", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3931785.mp4" }],
+"tt7423538:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Ratched", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3931787.mp4" }],
   //Rainha Charlotte
 // ==================== TEMPORADA 1 ====================
 "tt14661396:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Rainha Charlotte", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4016677.mp4" }],
