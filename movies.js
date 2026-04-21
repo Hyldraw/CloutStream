@@ -2,6 +2,15 @@
 const formatTitle = require("./formatTitle");
 
 const movies = {
+//Tropas Estelares: Invasores de Marte
+"tt6977240": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Tropas Estelares: Invasores de Marte (2017)", service: "Direto HTTP", flags: ["Português"] }), url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3914922.mp4" }],
+
+//Tropas Estelares 3
+"tt0844760": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Tropas Estelares 3 (2008)", service: "Direto HTTP", flags: ["Português"] }), url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3915074.mp4" }],
+
+//Tropas Estelares: A invasão
+"tt2085930": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Tropas Estelares; A Invasão (2012)", service: "Direto HTTP", flags: ["Português"] }), url: "http://918197185.com:80/movie/522c1816af7a57a6a6cba96a24712c8e/51a789ea8198f09fa625/148224.mp4" }],
+  
   //Johnny English
 "tt0274166": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Johnny English (2003)", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/movie/619126419/568627784/4139200.mp4" }],
 
