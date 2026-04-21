@@ -379,7 +379,8 @@ const series = {
 "tt1843230:7:18": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Era Uma Vez", ep: "T07·E18", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3893774.mp4" }],
 "tt1843230:7:19": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Era Uma Vez", ep: "T07·E19", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3893781.mp4" }],
 "tt1843230:7:20": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Era Uma Vez", ep: "T07·E20", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3893786.mp4" }],
-"tt1843230:7:21": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Era Uma Vez", ep: "T07·E21", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3893787.mp4" }],
+"tt1843230:7:21": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Era Uma Vez", ep: "T07·E21", service: "Direto HTTP", flags: ["Português"] }), url: "http://comprovanteonline.com/Videos/c89da10a42b8d8411b0ccf24f6da9bca/stream?api_key=ac3e70fa950e47e0bc57f336354acf58&Static=true" }],
+"tt1843230:7:22": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Era Uma Vez", ep: "T07·E22", service: "Direto HTTP", flags: ["Português"] }), url: "http://comprovanteonline.com/Videos/11cdcabaa4db146e2899d6425fb1c81a/stream?api_key=ac3e70fa950e47e0bc57f336354acf58&Static=true" }],
   
 //Obi-Wan Kenobi
 // ==================== TEMPORADA 1 ====================
