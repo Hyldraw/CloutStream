@@ -4,6 +4,37 @@ const formatTitle = require("./formatTitleS");
 const animes = {
 
 // ==========================================
+// Dan Da Dan
+// ==========================================
+
+// ==================== TEMPORADA 1 ====================
+"tt30217403:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2024)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/291028.mp4" }],
+"tt30217403:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2024)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/291029.mp4" }],
+"tt30217403:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2024)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/291030.mp4" }],
+"tt30217403:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2024)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/292248.mp4" }],
+"tt30217403:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2024)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/292464.mp4" }],
+"tt30217403:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2024)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/294184.mp4" }],
+"tt30217403:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2024)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/295214.mp4" }],
+"tt30217403:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2024)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/296097.mp4" }],
+"tt30217403:1:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2024)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/297207.mp4" }],
+"tt30217403:1:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2024)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/297611.mp4" }],
+"tt30217403:1:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2024)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/298767.mp4" }],
+"tt30217403:1:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2024)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/300150.mp4" }],
+// ==================== TEMPORADA 2 ====================
+"tt30217403:2:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2025)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/332861.mp4" }],
+"tt30217403:2:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2025)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/334657.mp4" }],
+"tt30217403:2:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2025)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/335609.mp4" }],
+"tt30217403:2:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2025)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/336711.mp4" }],
+"tt30217403:2:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2025)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/337514.mp4" }],
+"tt30217403:2:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2025)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/338573.mp4" }],
+"tt30217403:2:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2025)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/339825.mp4" }],
+"tt30217403:2:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2025)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/340312.mp4" }],
+"tt30217403:2:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2025)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/341170.mp4" }],
+"tt30217403:2:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2025)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/341825.mp4" }],
+"tt30217403:2:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2025)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/343381.mp4" }],
+"tt30217403:2:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Dan Da Dan (2025)", service: "Direto HTTP", flags: ["Português"] }), url: "http://godisfaithful.shop/scripts/r2play.php?file=Series/Netflix/344222.mp4" }],
+
+// ==========================================
 // Jujutsu Kaisen
 // ==========================================
 
