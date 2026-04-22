@@ -64,7 +64,7 @@ const movies = {
 
 // O Mentiroso
 
-"tt0119528": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "O Mentiroso (1997)", service: "Direto HTTP • StreamTape", flags: ["Português"] }), url: "http://hjaghdg3gse.vicanamogudutat.info:80/movie/TouroVod-Fynm7Z4ZpS/Jpr2YhFvPD/36849.mp4" }],
+"tt0119528": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "O Mentiroso (1997)", service: "Direto HTTP", flags: ["Português"] }), url: "http://hjaghdg3gse.vicanamogudutat.info:80/movie/TouroVod-Fynm7Z4ZpS/Jpr2YhFvPD/36849.mp4" }],
 
 // Ela, Eu e o Outro
 
