@@ -2,6 +2,21 @@
 const formatTitle = require("./formatTitle");
 
 const movies = {
+//Missão: Impossível 2 (2000)
+"tt0120755": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Missão: Impossível 2 (2000)", service: "Direto HTTP", flags: ["Português"] }), url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3914459.mp4" }],
+
+//Missão: Impossível 3 (2006)
+"tt0317919": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Missão: Impossível 3 (2006)", service: "Direto HTTP", flags: ["Português"] }), url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3914458.mp4" }],
+
+//Collateral (2004)
+"tt0369339": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Collateral (2004)", service: "Direto HTTP", flags: ["Português"] }), url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3896139.mp4" }],
+
+//Jack Reacher: Sem Retorno (2016)
+"tt3393786": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Jack Reacher: Sem Retorno (2016)", service: "Direto HTTP", flags: ["Português"] }), url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3915206.mp4" }],
+
+//Oblivion (2013)
+"tt1483013": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Oblivion (2013)", service: "Direto HTTP", flags: ["Português"] }), url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3896949.mp4" }],
+  
 //Tropas Estelares: Invasores de Marte
 "tt6977240": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Tropas Estelares: Invasores de Marte (2017)", service: "Direto HTTP", flags: ["Português"] }), url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3914922.mp4" }],
 
