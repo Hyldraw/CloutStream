@@ -4736,11 +4736,10 @@ const series = {
 
 // Temporada 5 (2026)
 "tt1190634:5:1": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Boys (2024)", ep: "T05·E01", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4PlilzsmwG3LAbu337mdZoT" } ],
-
 "tt1190634:5:2": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Boys (2024)", ep: "T05·E02", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4O72tL0f11Y2g-JLUeITgQd" } ],
-  
 "tt1190634:5:3": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Boys (2026)", ep: "T05·E03", service: "Direto HTTP", flags: ["Português"], }), url: "http://mainxs.site:80/series/619126419/568627784/4158660.mp4" } ],
-// ==================== Gen V ====================
+"tt1190634:5:4": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Boys (2026)", ep: "T05·E04", service: "Direto HTTP", flags: ["Português"], }), url: "http://4jgoq21mqw.gekuwirehukivosa.info:8080/series/TouroVod-Fynm7Z4ZpS/Jpr2YhFvPD/202539.mp4?token=GhsKU0tYEANGUQQDWAsPAFQCBQcEB1cCUlUHAQ9RDAYEDlNUCFMGDAdEHhESTERRVl47X1FHDgFRAlMHARwWQhJcEG1RVBADRlQLAVUMAwwVH0ZCXAhREVsBUQMOCQQHVg5SHhpAW11GXBAAWAkDBxUfRlNNEVFBD1EKa1xVQl4CXEAIGhIeGwsIbVcEVVdaUxFeFAVHGBEIQxYWAl5BWw0VQFBRREBYEAMQCUMMAAMCEUgUVgpBXRVCHxYCEmRjQxVAV0BEV1cXD11dQwIUWUcHRhoXDEdsE1UVQEpVVVoES0AIGgAQFUYLU0s+W1laWVYHQlwKWkBDCkQFGhwWWg5XC0ZXQm1JDQIQCQ9NWlhK" } ],
+  // ==================== Gen V ====================
 
 // Temporada 1 (2023)
 "tt13159924:1:1": [ { name: "💫 CloutStream 1080p", title: formatTitle({ name: "Gen V (2023)", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"], }), url: "http://mainxs.site:80/series/619126419/568627784/4033694.mp4" } ],
