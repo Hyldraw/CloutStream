@@ -2,6 +2,48 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// The Beast In Me
+"tt31974367:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Beast In Me", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4126601.mp4" }],
+"tt31974367:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Beast In Me", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4126602.mp4" }],
+"tt31974367:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Beast In Me", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4126604.mp4" }],
+"tt31974367:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Beast In Me", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4126606.mp4" }],
+"tt31974367:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Beast In Me", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4126609.mp4" }],
+"tt31974367:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Beast In Me", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4126611.mp4" }],
+"tt31974367:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Beast In Me", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4126613.mp4" }],
+"tt31974367:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Beast In Me", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4126615.mp4" }],
+  
+// Falcão e o Soldado Invernal
+"tt9208876:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Falcão e o Soldado Invernal", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3941887.mp4" }],
+"tt9208876:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Falcão e o Soldado Invernal", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3941889.mp4" }],
+"tt9208876:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Falcão e o Soldado Invernal", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3941891.mp4" }],
+"tt9208876:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Falcão e o Soldado Invernal", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3941893.mp4" }],
+"tt9208876:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Falcão e o Soldado Invernal", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3941896.mp4" }],
+"tt9208876:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Falcão e o Soldado Invernal", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3941898.mp4" }],
+  
+// The Continental
+"tt6486762:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Continental", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4031776.mp4" }],
+"tt6486762:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Continental", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4031779.mp4" }],
+"tt6486762:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Continental", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4031785.mp4" }],
+  
+// The Book of Boba Fett
+"tt13668894:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Book of Boba Fett", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3977604.mp4" }],
+"tt13668894:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Book of Boba Fett", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3977614.mp4" }],
+"tt13668894:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Book of Boba Fett", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3977625.mp4" }],
+"tt13668894:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Book of Boba Fett", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3977634.mp4" }],
+"tt13668894:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Book of Boba Fett", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3977639.mp4" }],
+"tt13668894:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Book of Boba Fett", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3977645.mp4" }],
+"tt13668894:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Book of Boba Fett", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3977653.mp4" }],
+  
+// The Act
+"tt8682948:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Act", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3902704.mp4" }],
+"tt8682948:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Act", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3902708.mp4" }],
+"tt8682948:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Act", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3902715.mp4" }],
+"tt8682948:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Act", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3902732.mp4" }],
+"tt8682948:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Act", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3902739.mp4" }],
+"tt8682948:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Act", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3902752.mp4" }],
+"tt8682948:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Act", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3902759.mp4" }],
+"tt8682948:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Act", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3902763.mp4" }],
+  
 // The Acolyte
 "tt12262202:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Acolyte", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4068522.mp4" }],
 "tt12262202:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Acolyte", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4068524.mp4" }],
@@ -27,6 +69,7 @@ const series = {
 "tt2661044:1:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T01·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949482.mp4" }],
 "tt2661044:1:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T01·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949488.mp4" }],
 "tt2661044:1:13": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T01·E13", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949493.mp4" }],
+// ==================== TEMPORADA 2 ====================
 "tt2661044:2:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T02·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949502.mp4" }],
 "tt2661044:2:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T02·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949507.mp4" }],
 "tt2661044:2:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T02·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949512.mp4" }],
@@ -43,6 +86,7 @@ const series = {
 "tt2661044:2:14": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T02·E14", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949573.mp4" }],
 "tt2661044:2:15": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T02·E15", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949577.mp4" }],
 "tt2661044:2:16": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T02·E16", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949582.mp4" }],
+// ==================== TEMPORADA 3 ====================
 "tt2661044:3:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T03·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949584.mp4" }],
 "tt2661044:3:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T03·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949588.mp4" }],
 "tt2661044:3:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T03·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949591.mp4" }],
@@ -59,6 +103,7 @@ const series = {
 "tt2661044:3:14": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T03·E14", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949649.mp4" }],
 "tt2661044:3:15": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T03·E15", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949654.mp4" }],
 "tt2661044:3:16": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T03·E16", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949659.mp4" }],
+// ==================== TEMPORADA 4 ====================
 "tt2661044:4:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T04·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949664.mp4" }],
 "tt2661044:4:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T04·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949669.mp4" }],
 "tt2661044:4:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T04·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949674.mp4" }],
@@ -72,6 +117,7 @@ const series = {
 "tt2661044:4:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T04·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949725.mp4" }],
 "tt2661044:4:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T04·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949731.mp4" }],
 "tt2661044:4:13": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T04·E13", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949736.mp4" }],
+// ==================== TEMPORADA 5 ====================
 "tt2661044:5:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T05·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949737.mp4" }],
 "tt2661044:5:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T05·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949742.mp4" }],
 "tt2661044:5:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T05·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949746.mp4" }],
@@ -85,6 +131,7 @@ const series = {
 "tt2661044:5:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T05·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949793.mp4" }],
 "tt2661044:5:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T05·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949795.mp4" }],
 "tt2661044:5:13": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T05·E13", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949803.mp4" }],
+// ==================== TEMPORADA 6 ====================
 "tt2661044:6:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T06·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949808.mp4" }],
 "tt2661044:6:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T06·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949815.mp4" }],
 "tt2661044:6:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T06·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949818.mp4" }],
@@ -98,7 +145,8 @@ const series = {
 "tt2661044:6:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T06·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949843.mp4" }],
 "tt2661044:6:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T06·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949846.mp4" }],
 "tt2661044:6:13": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T06·E13", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949850.mp4" }],
-"tt2661044:7:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T07·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949854.mp4" }],
+// ==================== TEMPORADA 7 ====================
+  "tt2661044:7:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T07·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949854.mp4" }],
 "tt2661044:7:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T07·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949858.mp4" }],
 "tt2661044:7:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T07·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949860.mp4" }],
 "tt2661044:7:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The 100", ep: "T07·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3949862.mp4" }],
