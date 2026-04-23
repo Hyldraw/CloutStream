@@ -2,6 +2,109 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+//The Undoing
+// ==================== TEMPORADA 1 ====================
+"tt8134470:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Undoing", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3934748.mp4" }],
+"tt8134470:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Undoing", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3934751.mp4" }],
+"tt8134470:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Undoing", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3934753.mp4" }],
+"tt8134470:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Undoing", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3934756.mp4" }],
+"tt8134470:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Undoing", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3934760.mp4" }],
+"tt8134470:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Undoing", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3934763.mp4" }],
+  
+  //The Underground Railroad
+// ==================== TEMPORADA 1 ====================
+"tt6704972:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Underground Railroad", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3948206.mp4" }],
+"tt6704972:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Underground Railroad", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3948212.mp4" }],
+"tt6704972:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Underground Railroad", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3948219.mp4" }],
+"tt6704972:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Underground Railroad", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3948230.mp4" }],
+"tt6704972:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Underground Railroad", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3948241.mp4" }],
+"tt6704972:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Underground Railroad", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3948252.mp4" }],
+"tt6704972:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Underground Railroad", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3948257.mp4" }],
+"tt6704972:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Underground Railroad", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3948262.mp4" }],
+"tt6704972:1:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Underground Railroad", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3948267.mp4" }],
+"tt6704972:1:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Underground Railroad", ep: "T01·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3948273.mp4" }],
+
+  //The Umbrella Academy
+// ==================== TEMPORADA 1 ====================
+"tt1312171:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905497.mp4" }],
+"tt1312171:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905499.mp4" }],
+"tt1312171:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905502.mp4" }],
+"tt1312171:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905506.mp4" }],
+"tt1312171:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905510.mp4" }],
+"tt1312171:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905513.mp4" }],
+"tt1312171:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905516.mp4" }],
+"tt1312171:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905519.mp4" }],
+"tt1312171:1:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905521.mp4" }],
+"tt1312171:1:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T01·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905526.mp4" }],
+// ==================== TEMPORADA 2 ====================
+"tt1312171:2:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T02·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905528.mp4" }],
+"tt1312171:2:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T02·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905532.mp4" }],
+"tt1312171:2:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T02·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905536.mp4" }],
+"tt1312171:2:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T02·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905543.mp4" }],
+"tt1312171:2:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T02·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905548.mp4" }],
+"tt1312171:2:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T02·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905552.mp4" }],
+"tt1312171:2:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T02·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905556.mp4" }],
+"tt1312171:2:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T02·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905560.mp4" }],
+"tt1312171:2:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T02·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905567.mp4" }],
+"tt1312171:2:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T02·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905571.mp4" }],
+// ==================== TEMPORADA 3 ====================
+"tt1312171:3:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T03·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905572.mp4" }],
+"tt1312171:3:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T03·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905574.mp4" }],
+"tt1312171:3:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T03·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905576.mp4" }],
+"tt1312171:3:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T03·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905579.mp4" }],
+"tt1312171:3:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T03·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905582.mp4" }],
+"tt1312171:3:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T03·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905588.mp4" }],
+"tt1312171:3:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T03·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905598.mp4" }],
+"tt1312171:3:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T03·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905601.mp4" }],
+"tt1312171:3:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T03·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905607.mp4" }],
+"tt1312171:3:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T03·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905617.mp4" }],
+// ==================== TEMPORADA 4 ====================
+"tt1312171:4:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T04·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905625.mp4" }],
+"tt1312171:4:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T04·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905629.mp4" }],
+"tt1312171:4:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T04·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905634.mp4" }],
+"tt1312171:4:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T04·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905636.mp4" }],
+"tt1312171:4:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T04·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905638.mp4" }],
+"tt1312171:4:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "The Umbrella Academy", ep: "T04·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3905643.mp4" }],
+  
+//A Escada
+// ==================== TEMPORADA 1 ====================
+"tt11324406:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "A Escada", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988479.mp4" }],
+"tt11324406:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "A Escada", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988482.mp4" }],
+"tt11324406:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "A Escada", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988484.mp4" }],
+"tt11324406:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "A Escada", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988488.mp4" }],
+"tt11324406:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "A Escada", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988493.mp4" }],
+"tt11324406:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "A Escada", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988497.mp4" }],
+"tt11324406:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "A Escada", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988500.mp4" }],
+"tt11324406:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "A Escada", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3988504.mp4" }],
+  
+//Sandman
+// ==================== TEMPORADA 1 ====================
+"tt1751634:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998020.mp4" }],
+"tt1751634:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998028.mp4" }],
+"tt1751634:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998031.mp4" }],
+"tt1751634:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998039.mp4" }],
+"tt1751634:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998043.mp4" }],
+"tt1751634:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998047.mp4" }],
+"tt1751634:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998052.mp4" }],
+"tt1751634:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998057.mp4" }],
+"tt1751634:1:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998061.mp4" }],
+"tt1751634:1:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T01·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998065.mp4" }],
+"tt1751634:1:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T01·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998069.mp4" }],
+// ==================== TEMPORADA 2 ====================
+"tt1751634:2:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T02·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998072.mp4" }],
+"tt1751634:2:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T02·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998077.mp4" }],
+"tt1751634:2:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T02·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998082.mp4" }],
+"tt1751634:2:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T02·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998085.mp4" }],
+"tt1751634:2:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T02·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998089.mp4" }],
+"tt1751634:2:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T02·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998091.mp4" }],
+"tt1751634:2:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T02·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998095.mp4" }],
+"tt1751634:2:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T02·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998099.mp4" }],
+"tt1751634:2:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T02·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998104.mp4" }],
+"tt1751634:2:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T02·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998105.mp4" }],
+"tt1751634:2:11": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T02·E11", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998107.mp4" }],
+"tt1751634:2:12": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Sandman", ep: "T02·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3998108.mp4" }],
+
+  
 // Ninjago: Ascensão dos Dragões
 // Temporada 1
 "tt27502465:1:1": [{ name: "CloutStream 1080p", title: formatTitle({ name: "Ninjago: Ascensão dos Dragões", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4019755.mp4" }],
