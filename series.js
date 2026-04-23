@@ -2,6 +2,19 @@
 const formatTitle = require("./formatTitleS");
 
 const series = {
+// Entre Estranhos
+// Temporada 1
+"tt14417718:1:1": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Entre Estranhos", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4019919.mp4" }],
+"tt14417718:1:2": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Entre Estranhos", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4019938.mp4" }],
+"tt14417718:1:3": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Entre Estranhos", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4019944.mp4" }],
+"tt14417718:1:4": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Entre Estranhos", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4019952.mp4" }],
+"tt14417718:1:5": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Entre Estranhos", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4019965.mp4" }],
+"tt14417718:1:6": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Entre Estranhos", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4019974.mp4" }],
+"tt14417718:1:7": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Entre Estranhos", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4019979.mp4" }],
+"tt14417718:1:8": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Entre Estranhos", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4019988.mp4" }],
+"tt14417718:1:9": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Entre Estranhos", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4020011.mp4" }],
+"tt14417718:1:10": [{ name: "💫 CloutStream 1080p", title: formatTitle({ name: "Entre Estranhos", ep: "T01·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4020015.mp4" }],
+  
 // Guerreiros do Sol
 // Temporada 1
 "tt24019192:1:1": [{ name: "CloutStream 1080p", title: formatTitle({ name: "Guerreiros do Sol", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/4109854.mp4" }],
@@ -385,7 +398,8 @@ const series = {
 "tt2071645:2:12": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Following", ep: "T02·E12", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3911500.mp4" }],
 "tt2071645:2:13": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Following", ep: "T02·E13", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3911505.mp4" }],
 "tt2071645:2:14": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Following", ep: "T02·E14", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3911509.mp4" }],
-// Temporada 3
+"tt2071645:2:15": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Following", ep: "T02·E15", service: "Direto HTTP", flags: ["Português"] }), url: "http://vu8txi62mn.cipiwimahode.info:8080/series/TouroVod-Fynm7Z4ZpS/Jpr2YhFvPD/29416.mkv?token=GhsKU0tYEANGAABQBQ4ABVYBXAMMVQ0CBQlWUVsFVwVSDVMAXQYACV1EHhESTERRVl47X1FHDgFYBFcCFBJBRARLPVtcEggbVl8AB1UNDhYbERBfWAAWCVAHUQIBCAQCUAtOEEhZVhteRAAHUAsEFhsRAU5BAEZdAFw5UF1GXVQEG1gQGhwQVgo5VlYMWVhQFQlGBhdJFloSQEQOVkVYW00bAFtMQlNNAUQIEVMIBAEVH0ZVWhBaRxNJRA4aYGAVTRsHSkxVXEoNCVwRWxpbX0ERSBRcFmtBBEMSRl1RWVITG1gQCBIeGwkHSmwCV1haUlAQX1oLRxFbElcWFBJZWA9QFl1Kb0JQAEQIXRRUWkk=" }],
+  // Temporada 3
 "tt2071645:3:1": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Following", ep: "T03·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3911512.mp4" }],
 "tt2071645:3:2": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Following", ep: "T03·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3911515.mp4" }],
 "tt2071645:3:3": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Following", ep: "T03·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://mainxs.site:80/series/619126419/568627784/3911517.mp4" }],
