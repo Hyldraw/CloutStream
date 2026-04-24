@@ -1,6 +1,6 @@
 // formatTitleS.js
 function formatTitle({ name, ep, service, flags }) {
-    const line1 = `🍃 ${name}`;
+    const line1 = `🌿 ${name}`;
     const line2 = `🪪 ${ep}`;
     const line3 = `📦 ${service}`;
     const line4 = `🌎 ${flags.map(f => " " + f).join(" •")}`;
