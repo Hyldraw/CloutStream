@@ -2411,39 +2411,41 @@ const series = {
 "tt10324164:3:4": [{ name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T03·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3990485.mp4" }],
 "tt10324164:3:5": [{ name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T03·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3990486.mp4" }],
 
+// Amigos Sorridentes
 // Temporada 1
-"tt12074628:1:1": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983433.mp4" } ],
-"tt12074628:1:2": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983437.mp4" } ],
-"tt12074628:1:3": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983440.mp4" } ],
-"tt12074628:1:4": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983442.mp4" } ],
-"tt12074628:1:5": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983445.mp4" } ],
-"tt12074628:1:6": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983451.mp4" } ],
-"tt12074628:1:7": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983461.mp4" } ],
-"tt12074628:1:8": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983464.mp4" } ],
-"tt12074628:1:9": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983467.mp4" } ],
+"tt12074628:1:1": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983433.mp4" } ],
+"tt12074628:1:2": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983437.mp4" } ],
+"tt12074628:1:3": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983440.mp4" } ],
+"tt12074628:1:4": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983442.mp4" } ],
+"tt12074628:1:5": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983445.mp4" } ],
+"tt12074628:1:6": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983451.mp4" } ],
+"tt12074628:1:7": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983461.mp4" } ],
+"tt12074628:1:8": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983464.mp4" } ],
+"tt12074628:1:9": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983467.mp4" } ],
 
 // Temporada 2
-"tt12074628:2:1": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983470.mp4" } ],
-"tt12074628:2:2": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983472.mp4" } ],
-"tt12074628:2:3": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983474.mp4" } ],
-"tt12074628:2:4": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983477.mp4" } ],
-"tt12074628:2:5": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983481.mp4" } ],
-"tt12074628:2:6": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983486.mp4" } ],
-"tt12074628:2:7": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983489.mp4" } ],
-"tt12074628:2:8": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983492.mp4" } ],
+"tt12074628:2:1": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T02·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983470.mp4" } ],
+"tt12074628:2:2": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T02·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983472.mp4" } ],
+"tt12074628:2:3": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T02·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983474.mp4" } ],
+"tt12074628:2:4": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T02·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983477.mp4" } ],
+"tt12074628:2:5": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T02·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983481.mp4" } ],
+"tt12074628:2:6": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T02·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983486.mp4" } ],
+"tt12074628:2:7": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T02·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983489.mp4" } ],
+"tt12074628:2:8": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T02·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983492.mp4" } ],
 
 // Temporada 3
-"tt12074628:3:1": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T03·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983497.mp4" } ],
-"tt12074628:3:2": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T03·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983499.mp4" } ],
-"tt12074628:3:3": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T03·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983507.mp4" } ],
-"tt12074628:3:4": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T03·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983511.mp4" } ],
-"tt12074628:3:5": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T03·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983515.mp4" } ],
-"tt12074628:3:6": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T03·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983518.mp4" } ],
-"tt12074628:3:7": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T03·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983520.mp4" } ],
-"tt12074628:3:8": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T03·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983522.mp4" } ],
-"tt12074628:3:9": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T03·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/4158147.mp4" } ],
-"tt12074628:3:10": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T03·E010", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/4158147.mp4" } ],
+"tt12074628:3:1": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T03·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983497.mp4" } ],
+"tt12074628:3:2": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T03·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983499.mp4" } ],
+"tt12074628:3:3": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T03·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983507.mp4" } ],
+"tt12074628:3:4": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T03·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983511.mp4" } ],
+"tt12074628:3:5": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T03·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983515.mp4" } ],
+"tt12074628:3:6": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T03·E06", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983518.mp4" } ],
+"tt12074628:3:7": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T03·E07", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983520.mp4" } ],
+"tt12074628:3:8": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T03·E08", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3983522.mp4" } ],
+"tt12074628:3:9": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T03·E09", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/4158147.mp4" } ],
+"tt12074628:3:10": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Amigos Sorridentes", ep: "T03·E10", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/4158147.mp4" } ],
 
+// The Pitt
 // Temporada 1
 "tt31938062:1:1": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/4095058.mp4" } ],
 "tt31938062:1:2": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/4095065.mp4" } ],
@@ -2478,50 +2480,30 @@ const series = {
 "tt31938062:2:14": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E14", service: "Direto HTTP", flags: ["Português"], }), url: "http://vd2onebm.fun/373472.mp4" } ],
 "tt31938062:2:15": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E15", service: "Direto HTTP", flags: ["Português"], }), url: "  http://cinevexio.top:80/series/619126419/568627784/4158986.mp4" } ],
 
+// Os Novos Filmes do Scooby-Doo
 // Temporada 1
 "tt14671608:1:1": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180454.mp4" } ],
-
 "tt14671608:1:2": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180455.mp4" } ],
-
 "tt14671608:1:3": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180456.mp4" } ],
-
 "tt14671608:1:4": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180457.mp4" } ],
-
 "tt14671608:1:5": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180458.mp4" } ],
-
 "tt14671608:1:6": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E06", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180459.mp4" } ],
-
 "tt14671608:1:7": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E07", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180460.mp4" } ],
-
 "tt14671608:1:8": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E08", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180461.mp4" } ],
-
 "tt14671608:1:9": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E09", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180462.mp4" } ],
-
 "tt14671608:1:10": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E10", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180463.mp4" } ],
-
-
-
-
-
-
 
 // Temporada 2
 "tt14671608:2:1": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E01", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180470.mp4" } ],
-
 "tt14671608:2:2": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E02", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180471.mp4" } ],
-
 "tt14671608:2:3": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E03", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180472.mp4" } ],
-
 "tt14671608:2:4": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E04", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180473.mp4" } ],
-
 "tt14671608:2:5": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E05", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180474.mp4" } ],
-
 "tt14671608:2:6": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E06", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180475.mp4" } ],
-
 "tt14671608:2:7": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E07", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180476.mp4" } ],
-
 "tt14671608:2:8": [ { name: "CloutStream 720p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T02·E08", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop/scripts/play.php?file=Series/Series_Variadas/180477.mp4" } ],
 
+// Family Guy
 // Temporada 1
 "tt14671608:1:1": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/3995118.mp4" } ],
 "tt14671608:1:2": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/3995127.mp4" } ],
@@ -2799,6 +2781,7 @@ const series = {
 "tt14671608:24:1": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T24·E01", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/4155107.mp4" } ],
 "tt14671608:24:2": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T24·E02", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/4155108.mp4" } ],
 
+// Deus Salve o Rei
 // Temporada 1
 "tt14671608:1:1": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/4077840.mp4" } ],
 "tt14671608:1:2": [ { name: "CloutStream 1080p", title: formatTitle({ name: "Planeta Pré-Histórico", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/4077848.mp4" } ],
