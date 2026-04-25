@@ -1,7 +1,16 @@
 // series.js
 const formatTitle = require("./formatTitleS");
 
-const series = { //The Undoing
+const series = { 
+// EMERGÊNCIA RADIOATIVA
+// ==================== TEMPORADA 1 ====================
+"tt37041021:1:1": [{ name: "CloutStream 1080p", title: formatTitle({ name: "Emergência Radioativa (2026)", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://vd2onebm.fun/370466.mp4" }],
+"tt37041021:1:2": [{ name: "CloutStream 1080p", title: formatTitle({ name: "Emergência Radioativa (2026)", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://vd2onebm.fun/370467.mp4" }],
+"tt37041021:1:3": [{ name: "CloutStream 1080p", title: formatTitle({ name: "Emergência Radioativa (2026)", ep: "T01·E03", service: "Direto HTTP", flags: ["Português"] }), url: "http://vd2onebm.fun/370468.mp4" }],
+"tt37041021:1:4": [{ name: "CloutStream 1080p", title: formatTitle({ name: "Emergência Radioativa (2026)", ep: "T01·E04", service: "Direto HTTP", flags: ["Português"] }), url: "http://vd2onebm.fun/370469.mp4" }],
+"tt37041021:1:5": [{ name: "CloutStream 1080p", title: formatTitle({ name: "Emergência Radioativa (2026)", ep: "T01·E05", service: "Direto HTTP", flags: ["Português"] }), url: "http://vd2onebm.fun/370470.mp4" }],
+  
+//The Undoing
 // ==================== TEMPORADA 1 ====================
 "tt8134470:1:1": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Undoing (2020)", ep: "T01·E01", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3934748.mp4" }],
 "tt8134470:1:2": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Undoing (2020)", ep: "T01·E02", service: "Direto HTTP", flags: ["Português"] }), url: "http://cinevexio.top:80/series/619126419/568627784/3934751.mp4" }],
