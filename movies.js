@@ -2,6 +2,9 @@
 const formatTitle = require("./formatTitle");
 
 const movies = {
+//O Enigma de Outro Mundo (1982)
+"tt0084787": [{ name: "CloutStream 720p", title: formatTitle({ name: "O Enigma de Outro Mundo (1982)", service: "Direto HTTP・@rodriguez06199", flags: ["Português"] }), url: "https://zerostorage.net/api/files/cbef40ca-8f4c-4ade-8279-c8cfd1738f1e/stream" }],
+  
 //Missão: Impossível 2 (2000)
 "tt0120755": [{ name: "CloutStream 1080p", title: formatTitle({ name: "Missão: Impossível 2 (2000)", service: "Direto HTTP", flags: ["Português"] }), url: "http://4k2026.online:80/movie/Saldanha/Capoeira2308/3914459.mp4" }],
 
