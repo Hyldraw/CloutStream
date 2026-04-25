@@ -12,7 +12,7 @@ const manifest = {
     version: "1.3.6",                    // aumentei um pouco a versão
     name: "CloutStream",
     description: "Filmes e séries com carregamento rápido, sem travamentos e excelente qualidade.",
-    logo: "https://i.imgur.com/nHiohqg.jpeg",
+    logo: "https://i.imgur.com/zkvABDl.jpeg",
     background: "https://i.imgur.com/R591N2s.jpeg",
     resources: ["stream", "catalog"],
     types: ["movie", "series"],
