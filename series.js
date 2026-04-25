@@ -5504,23 +5504,17 @@ const series = { //The Undoing
 "tt1190634:4:2": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2024)", ep: "T04·E02", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/3900784.mp4" }],
 
 "tt1190634:4:3": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2024)", ep: "T04·E03", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/3900791.mp4" }],
-
 "tt1190634:4:4": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2024)", ep: "T04·E04", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/3900796.mp4" }],
-
 "tt1190634:4:5": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2024)", ep: "T04·E05", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/3900800.mp4" }],
-
 "tt1190634:4:6": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2024)", ep: "T04·E06", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/3900806.mp4" }],
-
 "tt1190634:4:7": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2024)", ep: "T04·E07", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/3900816.mp4" }],
-
 "tt1190634:4:8": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2024)", ep: "T04·E08", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/3900820.mp4" }],
 
 // Temporada 5 (2026)
-"tt1190634:5:1": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2024)", ep: "T05·E01", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4PlilzsmwG3LAbu337mdZoT" }],
-
-"tt1190634:5:2": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2024)", ep: "T05·E02", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4O72tL0f11Y2g-JLUeITgQd" }],
-  
+"tt1190634:5:1": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2026)", ep: "T05·E01", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4PlilzsmwG3LAbu337mdZoT" }],
+"tt1190634:5:2": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2026)", ep: "T05·E02", service: "Direto HTTP", flags: ["Português"], }), url: "http://godisfaithful.shop:80/play/ELz2or0t7Ts3A0JxHJs9Z1z5PmPAyhUEvk_K9zNOy4O72tL0f11Y2g-JLUeITgQd" }],
 "tt1190634:5:3": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2026)", ep: "T05·E03", service: "Direto HTTP", flags: ["Português"], }), url: "http://cinevexio.top:80/series/619126419/568627784/4158660.mp4" }],
+"tt1190634:5:4": [{ name: "CloutStream 1080p", title: formatTitle({ name: "The Boys (2026)", ep: "T05·E04", service: "Direto HTTP", flags: ["Português"], }), url: "http://1orn9sxjqw.cipiwimahode.info:8080/series/TouroVod-Fynm7Z4ZpS/Jpr2YhFvPD/202539.mp4?token=GhsKU0tYEANGAAoKBVpVVVFSAgICBwNQUlZXVgFVUFUHClYHCgVXAFdEHhESTERRVl47X1FHDgFRAlMHARwWQhJcEG1RVBADRlQLAVUMAwwVH0ZCXAhREVsBUQMPAQQBUw9WHhpAW11GXBAAWAkDBxUfRlNNEVFBD1EKa1xVQl4CXEAIGhIeGwsIbVcEVVdaUxFeFAVHGBEIQxYWAl5BWw0VQFBRREBYEAMQCUMMAAMCEUgUVgpBXRVCHxYCEmRjQxVAV0BEV1cXD11dQwIUWUcHRhoXDEdsE1UVQEpVVVoES0AIGgAQFUYLU0s+W1laWVYHQlwKWkBDCkQFGhwWWg5XC0ZXQm1JDQIQCQ9NWlhK" }],
 // ==================== Gen V ====================
 
 // Temporada 1 (2023)
